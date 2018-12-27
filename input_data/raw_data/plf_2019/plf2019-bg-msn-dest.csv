@@ -1,0 +1,889 @@
+Phase;Type de mission;Mission;Code Programme;Programme;Code Action;Action;Code Sous-Action;Sous-Action;AE PLF 2019;CP PLF 2019;Code Ministère;Ministère
+PLF 2019;Budget général;Action et transformation publiques;348;Rénovation des cités administratives et autres sites domaniaux multi-occupants;11;Etudes;;;20 000 000;20 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Action et transformation publiques;348;Rénovation des cités administratives et autres sites domaniaux multi-occupants;12;Travaux et gros entretien à la charge du propriétaire;;;465 000 000;47 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Action et transformation publiques;348;Rénovation des cités administratives et autres sites domaniaux multi-occupants;13;Acquisitions, construction;;;415 000 000;33 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Action et transformation publiques;349;Fonds pour la transformation de l'action publique;1;Fonds pour la transformation de l’action publique;;;250 000 000;160 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Action et transformation publiques;351;Fonds d'accompagnement interministériel Ressources humaines;1;Accompagnement interministériel Ressources humaines;;;50 000 000;50 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Action extérieure de l'État;105;Action de la France en Europe et dans le monde;1;Coordination de l'action diplomatique;;;99 882 328;99 882 328;1;Europe et affaires étrangères
+PLF 2019;Budget général;Action extérieure de l'État;105;Action de la France en Europe et dans le monde;2;Action européenne;;;54 377 128;54 377 128;1;Europe et affaires étrangères
+PLF 2019;Budget général;Action extérieure de l'État;105;Action de la France en Europe et dans le monde;4;Contributions internationales;;;682 841 551;683 841 551;1;Europe et affaires étrangères
+PLF 2019;Budget général;Action extérieure de l'État;105;Action de la France en Europe et dans le monde;5;Coopération de sécurité et de défense;;;104 042 762;104 042 762;1;Europe et affaires étrangères
+PLF 2019;Budget général;Action extérieure de l'État;105;Action de la France en Europe et dans le monde;6;Soutien;;;224 271 811;222 093 475;1;Europe et affaires étrangères
+PLF 2019;Budget général;Action extérieure de l'État;105;Action de la France en Europe et dans le monde;7;Réseau diplomatique;;;610 592 015;610 133 284;1;Europe et affaires étrangères
+PLF 2019;Budget général;Action extérieure de l'État;185;Diplomatie culturelle et d'influence;1;Appui au réseau;;;41 101 383;41 101 383;1;Europe et affaires étrangères
+PLF 2019;Budget général;Action extérieure de l'État;185;Diplomatie culturelle et d'influence;2;Coopération culturelle et promotion du français;;;67 015 315;67 015 315;1;Europe et affaires étrangères
+PLF 2019;Budget général;Action extérieure de l'État;185;Diplomatie culturelle et d'influence;3;Objectifs de développement durable;;;3 372 754;3 372 754;1;Europe et affaires étrangères
+PLF 2019;Budget général;Action extérieure de l'État;185;Diplomatie culturelle et d'influence;4;Enseignement supérieur et recherche;;;94 578 610;94 578 610;1;Europe et affaires étrangères
+PLF 2019;Budget général;Action extérieure de l'État;185;Diplomatie culturelle et d'influence;5;Agence pour l'enseignement français à l'étranger;;;384 006 841;384 006 841;1;Europe et affaires étrangères
+PLF 2019;Budget général;Action extérieure de l'État;185;Diplomatie culturelle et d'influence;6;"Dépenses de personnel concourant au programme ""Diplomatie culturelle et d'influence""";;;74 235 198;74 235 198;1;Europe et affaires étrangères
+PLF 2019;Budget général;Action extérieure de l'État;185;Diplomatie culturelle et d'influence;7;Diplomatie économique et développement du tourisme;;;35 261 020;35 261 020;1;Europe et affaires étrangères
+PLF 2019;Budget général;Action extérieure de l'État;151;Français à l'étranger et affaires consulaires;1;Offre d'un service public de qualité aux Français à l'étranger;;;214 170 044;214 170 044;1;Europe et affaires étrangères
+PLF 2019;Budget général;Action extérieure de l'État;151;Français à l'étranger et affaires consulaires;2;Accès des élèves français au réseau AEFE;;;105 300 000;105 300 000;1;Europe et affaires étrangères
+PLF 2019;Budget général;Action extérieure de l'État;151;Français à l'étranger et affaires consulaires;3;Instruction des demandes de visa;;;54 770 324;54 770 324;1;Europe et affaires étrangères
+PLF 2019;Budget général;Action extérieure de l'État;347;Présidence française du G7;1;Préparation et organisation du Sommet du G7;;;20 628 000;23 008 000;1;Europe et affaires étrangères
+PLF 2019;Budget général;Action extérieure de l'État;347;Présidence française du G7;3;Fonctionnement du Secrétariat général et communication;;;1 372 000;1 392 000;1;Europe et affaires étrangères
+PLF 2019;Budget général;Administration générale et territoriale de l'État;307;Administration territoriale;1;Coordination de la sécurité des personnes et des biens;;;172 538 112;172 538 112;9;Intérieur
+PLF 2019;Budget général;Administration générale et territoriale de l'État;307;Administration territoriale;2;Réglementation générale, garantie de l'identité et de la nationalité et délivrance des titres;;;663 090 232;663 090 232;9;Intérieur
+PLF 2019;Budget général;Administration générale et territoriale de l'État;307;Administration territoriale;3;Contrôle de légalité et conseil aux collectivités territoriales;;;153 361 297;153 361 297;9;Intérieur
+PLF 2019;Budget général;Administration générale et territoriale de l'État;307;Administration territoriale;4;Pilotage territorial des politiques gouvernementales;;;514 086 258;514 089 398;9;Intérieur
+PLF 2019;Budget général;Administration générale et territoriale de l'État;307;Administration territoriale;5;Animation et soutien du réseau;;;153 729 260;154 028 148;9;Intérieur
+PLF 2019;Budget général;Administration générale et territoriale de l'État;232;Vie politique, cultuelle et associative;1;Financement des partis;;;68 670 672;68 670 672;9;Intérieur
+PLF 2019;Budget général;Administration générale et territoriale de l'État;232;Vie politique, cultuelle et associative;2;Organisation des élections;;;129 518 993;128 018 993;9;Intérieur
+PLF 2019;Budget général;Administration générale et territoriale de l'État;232;Vie politique, cultuelle et associative;3;Commission nationale des comptes de campagne et des financements politiques;;;6 383 962;7 483 962;9;Intérieur
+PLF 2019;Budget général;Administration générale et territoriale de l'État;232;Vie politique, cultuelle et associative;4;Cultes;;;2 757 037;2 777 037;9;Intérieur
+PLF 2019;Budget général;Administration générale et territoriale de l'État;232;Vie politique, cultuelle et associative;5;Vie associative;;;160 000;160 000;9;Intérieur
+PLF 2019;Budget général;Administration générale et territoriale de l'État;216;Conduite et pilotage des politiques de l'intérieur;1;État-major et services centraux;;;391 274 553;390 677 501;9;Intérieur
+PLF 2019;Budget général;Administration générale et territoriale de l'État;216;Conduite et pilotage des politiques de l'intérieur;3;Système d'information et de communication;;;101 640 418;90 285 104;9;Intérieur
+PLF 2019;Budget général;Administration générale et territoriale de l'État;216;Conduite et pilotage des politiques de l'intérieur;4;Action sociale et formation;;;40 192 600;40 192 600;9;Intérieur
+PLF 2019;Budget général;Administration générale et territoriale de l'État;216;Conduite et pilotage des politiques de l'intérieur;5;Affaires immobilières;;;72 471 363;137 084 694;9;Intérieur
+PLF 2019;Budget général;Administration générale et territoriale de l'État;216;Conduite et pilotage des politiques de l'intérieur;6;Affaires juridiques et contentieuses;;;80 000 000;80 000 000;9;Intérieur
+PLF 2019;Budget général;Administration générale et territoriale de l'État;216;Conduite et pilotage des politiques de l'intérieur;8;Immigration, asile et intégration;;;41 076 644;41 076 644;9;Intérieur
+PLF 2019;Budget général;Administration générale et territoriale de l'État;216;Conduite et pilotage des politiques de l'intérieur;9;Sécurité et éducation routières;;;126 338 542;126 338 542;9;Intérieur
+PLF 2019;Budget général;Administration générale et territoriale de l'État;216;Conduite et pilotage des politiques de l'intérieur;10;Fonds interministériel de prévention de la délinquance;;;70 398 869;70 398 869;9;Intérieur
+PLF 2019;Budget général;Agriculture, alimentation, forêt et affaires rurales;149;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;21;Adaptation des filières à l'évolution des marchés;;;222 820 000;223 220 000;3;Agriculture et alimentation
+PLF 2019;Budget général;Agriculture, alimentation, forêt et affaires rurales;149;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;22;Gestion des crises et des aléas de la production agricole;;;5 374 381;5 374 381;3;Agriculture et alimentation
+PLF 2019;Budget général;Agriculture, alimentation, forêt et affaires rurales;149;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;23;Appui au renouvellement et à la modernisation des exploitations agricoles;;;124 197 183;157 058 460;3;Agriculture et alimentation
+PLF 2019;Budget général;Agriculture, alimentation, forêt et affaires rurales;149;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;24;Gestion équilibrée et durable des territoires;;;399 021 554;440 040 720;3;Agriculture et alimentation
+PLF 2019;Budget général;Agriculture, alimentation, forêt et affaires rurales;149;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;25;Protection sociale;;;59 892 865;59 892 865;3;Agriculture et alimentation
+PLF 2019;Budget général;Agriculture, alimentation, forêt et affaires rurales;149;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;26;Gestion durable de la forêt et développement de la filière bois;;;246 794 253;254 725 628;3;Agriculture et alimentation
+PLF 2019;Budget général;Agriculture, alimentation, forêt et affaires rurales;149;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;27;Moyens de mise en oeuvre des politiques publiques et gestion des interventions;;;500 978 831;500 978 831;3;Agriculture et alimentation
+PLF 2019;Budget général;Agriculture, alimentation, forêt et affaires rurales;149;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;28;Pêche et aquaculture;;;49 699 320;49 708 889;3;Agriculture et alimentation
+PLF 2019;Budget général;Agriculture, alimentation, forêt et affaires rurales;206;Sécurité et qualité sanitaires de l'alimentation;1;Prévention et gestion des risques inhérents à la production végétale;;;31 286 317;31 131 340;3;Agriculture et alimentation
+PLF 2019;Budget général;Agriculture, alimentation, forêt et affaires rurales;206;Sécurité et qualité sanitaires de l'alimentation;2;Lutte contre les maladies animales et protection des animaux;;;85 955 794;84 405 816;3;Agriculture et alimentation
+PLF 2019;Budget général;Agriculture, alimentation, forêt et affaires rurales;206;Sécurité et qualité sanitaires de l'alimentation;3;Prévention et gestion des risques sanitaires liés aux denrées alimentaires;;;21 314 300;21 291 255;3;Agriculture et alimentation
+PLF 2019;Budget général;Agriculture, alimentation, forêt et affaires rurales;206;Sécurité et qualité sanitaires de l'alimentation;4;Actions transversales;;;81 334 067;82 163 067;3;Agriculture et alimentation
+PLF 2019;Budget général;Agriculture, alimentation, forêt et affaires rurales;206;Sécurité et qualité sanitaires de l'alimentation;5;Elimination des cadavres et des sous-produits animaux;;;3 800 000;3 800 000;3;Agriculture et alimentation
+PLF 2019;Budget général;Agriculture, alimentation, forêt et affaires rurales;206;Sécurité et qualité sanitaires de l'alimentation;6;Mise en oeuvre de la politique de sécurité et de qualité sanitaires de l'alimentation;;;310 253 606;310 253 606;3;Agriculture et alimentation
+PLF 2019;Budget général;Agriculture, alimentation, forêt et affaires rurales;206;Sécurité et qualité sanitaires de l'alimentation;8;Qualité de l'alimentation et offre alimentaire;;;3 711 500;3 710 500;3;Agriculture et alimentation
+PLF 2019;Budget général;Agriculture, alimentation, forêt et affaires rurales;215;Conduite et pilotage des politiques de l'agriculture;1;Moyens de l'administration centrale;;;186 005 875;192 369 023;3;Agriculture et alimentation
+PLF 2019;Budget général;Agriculture, alimentation, forêt et affaires rurales;215;Conduite et pilotage des politiques de l'agriculture;2;Évaluation de l'impact des politiques publiques et information économique;;;17 801 004;17 801 004;3;Agriculture et alimentation
+PLF 2019;Budget général;Agriculture, alimentation, forêt et affaires rurales;215;Conduite et pilotage des politiques de l'agriculture;3;Moyens des directions régionales de l'alimentation, de l'agriculture et de la forêt, des directions de l'alimentation, de l'agriculture et de la forêt et directions départementales des territoires (et de la mer);;;346 010 610;346 010 610;3;Agriculture et alimentation
+PLF 2019;Budget général;Agriculture, alimentation, forêt et affaires rurales;215;Conduite et pilotage des politiques de l'agriculture;4;Moyens communs;;;68 517 814;69 879 015;3;Agriculture et alimentation
+PLF 2019;Budget général;Aide publique au développement;110;Aide économique et financière au développement;1;Aide économique et financière multilatérale;;;71 515 000;648 391 535;21;Économie et finances
+PLF 2019;Budget général;Aide publique au développement;110;Aide économique et financière au développement;2;Aide économique et financière bilatérale;;;1 238 530 000;338 594 551;21;Économie et finances
+PLF 2019;Budget général;Aide publique au développement;110;Aide économique et financière au développement;3;Traitement de la dette des pays pauvres;;;0;92 046 353;21;Économie et finances
+PLF 2019;Budget général;Aide publique au développement;209;Solidarité à l'égard des pays en développement;2;Coopération bilatérale;;;1 989 773 453;793 450 441;1;Europe et affaires étrangères
+PLF 2019;Budget général;Aide publique au développement;209;Solidarité à l'égard des pays en développement;5;Coopération multilatérale;;;188 395 739;194 109 000;1;Europe et affaires étrangères
+PLF 2019;Budget général;Aide publique au développement;209;Solidarité à l'égard des pays en développement;7;Coopération communautaire;;;878 033 740;878 033 740;1;Europe et affaires étrangères
+PLF 2019;Budget général;Aide publique au développement;209;Solidarité à l'égard des pays en développement;8;"Dépenses de personnels concourant au programme ""Solidarité à l'égard des pays en développement""";;;153 150 588;153 150 588;1;Europe et affaires étrangères
+PLF 2019;Budget général;Aide publique au développement;209;Solidarité à l'égard des pays en développement;9;Actions de co-développement;;;;;1;Europe et affaires étrangères
+PLF 2019;Budget général;Anciens combattants, mémoire et liens avec la nation;167;Liens entre la Nation et son armée;1;Liens armées-jeunesse;;;17 792 623;17 789 899;70;Armées
+PLF 2019;Budget général;Anciens combattants, mémoire et liens avec la nation;167;Liens entre la Nation et son armée;2;Politique de mémoire;;;16 020 000;16 020 000;70;Armées
+PLF 2019;Budget général;Anciens combattants, mémoire et liens avec la nation;169;Reconnaissance et réparation en faveur du monde combattant;1;Administration de  la dette viagère;10;Pensions militaires d'invalidité de victimes de guerre et allocations rattachées;965 300 000;965 300 000;70;Armées
+PLF 2019;Budget général;Anciens combattants, mémoire et liens avec la nation;169;Reconnaissance et réparation en faveur du monde combattant;1;Administration de  la dette viagère;11;Retraite du combattant;708 500 000;708 500 000;70;Armées
+PLF 2019;Budget général;Anciens combattants, mémoire et liens avec la nation;169;Reconnaissance et réparation en faveur du monde combattant;2;Gestion  des droits liés aux pensions militaires d'invalidité;21;Soins médicaux gratuits et appareillage des mutilés;50 500 000;50 500 000;70;Armées
+PLF 2019;Budget général;Anciens combattants, mémoire et liens avec la nation;169;Reconnaissance et réparation en faveur du monde combattant;2;Gestion  des droits liés aux pensions militaires d'invalidité;22;Remboursement des réductions de transport accordées aux invalides;2 200 000;2 200 000;70;Armées
+PLF 2019;Budget général;Anciens combattants, mémoire et liens avec la nation;169;Reconnaissance et réparation en faveur du monde combattant;2;Gestion  des droits liés aux pensions militaires d'invalidité;23;Remboursement des prestations de sécurité sociale aux invalides;76 900 000;76 900 000;70;Armées
+PLF 2019;Budget général;Anciens combattants, mémoire et liens avec la nation;169;Reconnaissance et réparation en faveur du monde combattant;3;Solidarité;30;Fonds de solidarité pour les anciens combattants d'Afrique du Nord et d'Indochine;;;70;Armées
+PLF 2019;Budget général;Anciens combattants, mémoire et liens avec la nation;169;Reconnaissance et réparation en faveur du monde combattant;3;Solidarité;31;Majoration des rentes mutualistes des anciens combattants et victimes de guerre;234 700 000;234 700 000;70;Armées
+PLF 2019;Budget général;Anciens combattants, mémoire et liens avec la nation;169;Reconnaissance et réparation en faveur du monde combattant;3;Solidarité;32;Subventions aux associations et oeuvres diverses;310 000;310 000;70;Armées
+PLF 2019;Budget général;Anciens combattants, mémoire et liens avec la nation;169;Reconnaissance et réparation en faveur du monde combattant;3;Solidarité;33;Indemnités, pécules et frais de voyages sur les tombes;;;70;Armées
+PLF 2019;Budget général;Anciens combattants, mémoire et liens avec la nation;169;Reconnaissance et réparation en faveur du monde combattant;3;Solidarité;34;Action sociale en faveur du monde combattant : Office national des anciens combattants (ONAC);26 400 000;26 400 000;70;Armées
+PLF 2019;Budget général;Anciens combattants, mémoire et liens avec la nation;169;Reconnaissance et réparation en faveur du monde combattant;3;Solidarité;35;Office national des anciens combattants (ONAC) : subventions;57 627 168;57 627 168;70;Armées
+PLF 2019;Budget général;Anciens combattants, mémoire et liens avec la nation;169;Reconnaissance et réparation en faveur du monde combattant;3;Solidarité;36;Institution nationale des invalides : subventions;47 089 143;14 789 143;70;Armées
+PLF 2019;Budget général;Anciens combattants, mémoire et liens avec la nation;169;Reconnaissance et réparation en faveur du monde combattant;3;Solidarité;37;Conseil national des communes compagnons de la libération - Subventions;1 710 000;1 710 000;70;Armées
+PLF 2019;Budget général;Anciens combattants, mémoire et liens avec la nation;169;Reconnaissance et réparation en faveur du monde combattant;7;Actions en faveur des rapatriés;;;23 224 181;23 224 181;70;Armées
+PLF 2019;Budget général;Anciens combattants, mémoire et liens avec la nation;158;Indemnisation des victimes des persécutions antisémites et des actes de barbarie pendant la seconde guerre mondiale;1;Indemnisation des orphelins de la déportation et des victimes de spoliations du fait des législations antisémites en vigueur pendant l'Occupation;;;53 468 605;53 468 605;12;Services du Premier ministre
+PLF 2019;Budget général;Anciens combattants, mémoire et liens avec la nation;158;Indemnisation des victimes des persécutions antisémites et des actes de barbarie pendant la seconde guerre mondiale;2;Indemnisation des victimes d'actes de barbarie durant la seconde guerre mondiale;;;52 439 897;52 439 897;12;Services du Premier ministre
+PLF 2019;Budget général;Cohésion des territoires;177;Hébergement, parcours vers le logement et insertion des personnes vulnérables;11;Prévention de l'exclusion;;;49 361 191;49 361 191;45;Cohésion des territoires
+PLF 2019;Budget général;Cohésion des territoires;177;Hébergement, parcours vers le logement et insertion des personnes vulnérables;12;Hébergement et logement adapté;;;1 801 569 457;1 819 669 457;45;Cohésion des territoires
+PLF 2019;Budget général;Cohésion des territoires;177;Hébergement, parcours vers le logement et insertion des personnes vulnérables;14;Conduite et animation des politiques de l'hébergement et de l'inclusion sociale;;;9 132 657;9 132 657;45;Cohésion des territoires
+PLF 2019;Budget général;Cohésion des territoires;109;Aide à l'accès au logement;1;Aides personnelles;;;13 096 634 317;13 096 634 317;45;Cohésion des territoires
+PLF 2019;Budget général;Cohésion des territoires;109;Aide à l'accès au logement;2;Information relative au logement et accompagnement des publics en difficulté;;;8 317 400;8 317 400;45;Cohésion des territoires
+PLF 2019;Budget général;Cohésion des territoires;109;Aide à l'accès au logement;3;Sécurisation des risques locatifs;;;5 100 000;5 100 000;45;Cohésion des territoires
+PLF 2019;Budget général;Cohésion des territoires;135;Urbanisme, territoires et amélioration de l'habitat;1;Construction locative et amélioration du parc;;;10 800 000;10 800 000;45;Cohésion des territoires
+PLF 2019;Budget général;Cohésion des territoires;135;Urbanisme, territoires et amélioration de l'habitat;2;Soutien à l'accession à la propriété;;;3 994 162;3 994 162;45;Cohésion des territoires
+PLF 2019;Budget général;Cohésion des territoires;135;Urbanisme, territoires et amélioration de l'habitat;3;Lutte contre l'habitat indigne;;;25 200 000;28 125 283;45;Cohésion des territoires
+PLF 2019;Budget général;Cohésion des territoires;135;Urbanisme, territoires et amélioration de l'habitat;4;Réglementation, politique technique et qualité de la construction;;;160 972 968;160 972 968;45;Cohésion des territoires
+PLF 2019;Budget général;Cohésion des territoires;135;Urbanisme, territoires et amélioration de l'habitat;5;Soutien;;;22 985 972;18 485 972;45;Cohésion des territoires
+PLF 2019;Budget général;Cohésion des territoires;135;Urbanisme, territoires et amélioration de l'habitat;7;Urbanisme et aménagement;;;61 124 866;62 699 583;45;Cohésion des territoires
+PLF 2019;Budget général;Cohésion des territoires;135;Urbanisme, territoires et amélioration de l'habitat;8;Grand Paris;;;;;45;Cohésion des territoires
+PLF 2019;Budget général;Cohésion des territoires;112;Impulsion et coordination de la politique d'aménagement du territoire;1;Attractivité économique et compétitivité des territoires;;;60 676 265;82 098 992;45;Cohésion des territoires
+PLF 2019;Budget général;Cohésion des territoires;112;Impulsion et coordination de la politique d'aménagement du territoire;2;Développement solidaire et équilibré des territoires;;;110 831 412;130 823 968;45;Cohésion des territoires
+PLF 2019;Budget général;Cohésion des territoires;112;Impulsion et coordination de la politique d'aménagement du territoire;4;Instruments de pilotage et d'étude;;;30 149 372;30 149 372;45;Cohésion des territoires
+PLF 2019;Budget général;Cohésion des territoires;162;Interventions territoriales de l'État;2;Eau - Agriculture en Bretagne;;;2 294 119;1 793 638;12;Services du Premier ministre
+PLF 2019;Budget général;Cohésion des territoires;162;Interventions territoriales de l'État;4;Programme exceptionnel d'investissements en faveur de la Corse;;;27 429 687;17 936 385;12;Services du Premier ministre
+PLF 2019;Budget général;Cohésion des territoires;162;Interventions territoriales de l'État;6;Plan gouvernemental sur le Marais Poitevin - Poitou Charentes;;;;1 594 345;12;Services du Premier ministre
+PLF 2019;Budget général;Cohésion des territoires;162;Interventions territoriales de l'État;8;Plan chlordécone en Martinique et en Guadeloupe;;;1 994 886;1 992 932;12;Services du Premier ministre
+PLF 2019;Budget général;Cohésion des territoires;162;Interventions territoriales de l'État;9;Plan littoral 21;;;3 989 773;2 491 165;12;Services du Premier ministre
+PLF 2019;Budget général;Cohésion des territoires;147;Politique de la ville;1;Actions territorialisées et Dispositifs spécifiques de la politique de la ville;;;419 398 245;419 398 245;45;Cohésion des territoires
+PLF 2019;Budget général;Cohésion des territoires;147;Politique de la ville;2;Revitalisation économique et emploi;;;44 250 000;44 250 000;45;Cohésion des territoires
+PLF 2019;Budget général;Cohésion des territoires;147;Politique de la ville;3;Stratégie, ressources et évaluation;;;24 419 002;24 419 002;45;Cohésion des territoires
+PLF 2019;Budget général;Cohésion des territoires;147;Politique de la ville;4;Rénovation urbaine et amélioration du cadre de vie;;;185 000 000;25 000 000;45;Cohésion des territoires
+PLF 2019;Budget général;Conseil et contrôle de l'État;165;Conseil d'État et autres juridictions administratives;1;Fonction juridictionnelle : Conseil d'État;;;28 602 753;28 602 753;12;Services du Premier ministre
+PLF 2019;Budget général;Conseil et contrôle de l'État;165;Conseil d'État et autres juridictions administratives;2;Fonction juridictionnelle : Cours administratives d'appel;;;55 133 770;55 133 770;12;Services du Premier ministre
+PLF 2019;Budget général;Conseil et contrôle de l'État;165;Conseil d'État et autres juridictions administratives;3;Fonction juridictionnelle : Tribunaux administratifs;;;164 328 287;164 328 287;12;Services du Premier ministre
+PLF 2019;Budget général;Conseil et contrôle de l'État;165;Conseil d'État et autres juridictions administratives;4;Fonction consultative;;;16 142 618;16 142 618;12;Services du Premier ministre
+PLF 2019;Budget général;Conseil et contrôle de l'État;165;Conseil d'État et autres juridictions administratives;5;Fonction études, expertise et services rendus aux administrations de l'État et des collectivités;;;8 253 111;8 253 111;12;Services du Premier ministre
+PLF 2019;Budget général;Conseil et contrôle de l'État;165;Conseil d'État et autres juridictions administratives;6;Soutien;;;174 210 174;110 816 766;12;Services du Premier ministre
+PLF 2019;Budget général;Conseil et contrôle de l'État;165;Conseil d'État et autres juridictions administratives;7;Cour nationale du droit d'asile;;;36 768 818;36 768 818;12;Services du Premier ministre
+PLF 2019;Budget général;Conseil et contrôle de l'État;126;Conseil économique, social et environnemental;1;Représentation des activités économiques et sociales;;;27 101 854;27 101 854;12;Services du Premier ministre
+PLF 2019;Budget général;Conseil et contrôle de l'État;126;Conseil économique, social et environnemental;2;Fonctionnement de l'institution;;;11 675 023;11 675 023;12;Services du Premier ministre
+PLF 2019;Budget général;Conseil et contrôle de l'État;126;Conseil économique, social et environnemental;3;Communication et international;;;1 456 442;1 456 442;12;Services du Premier ministre
+PLF 2019;Budget général;Conseil et contrôle de l'État;164;Cour des comptes et autres juridictions financières;21;Examen des comptes publics;;;41 713 478;41 713 478;12;Services du Premier ministre
+PLF 2019;Budget général;Conseil et contrôle de l'État;164;Cour des comptes et autres juridictions financières;22;Contrôle des finances publiques;;;16 514 581;16 514 581;12;Services du Premier ministre
+PLF 2019;Budget général;Conseil et contrôle de l'État;164;Cour des comptes et autres juridictions financières;23;Contrôle des gestions publiques;;;62 516 796;62 516 796;12;Services du Premier ministre
+PLF 2019;Budget général;Conseil et contrôle de l'État;164;Cour des comptes et autres juridictions financières;24;Evaluation des politiques publiques;;;36 069 781;36 069 781;12;Services du Premier ministre
+PLF 2019;Budget général;Conseil et contrôle de l'État;164;Cour des comptes et autres juridictions financières;25;Information des citoyens;;;7 525 917;7 525 917;12;Services du Premier ministre
+PLF 2019;Budget général;Conseil et contrôle de l'État;164;Cour des comptes et autres juridictions financières;26;Mise en jeu de la responsabilité des comptables publics et des gestionnaires publics;;;4 920 178;4 920 178;12;Services du Premier ministre
+PLF 2019;Budget général;Conseil et contrôle de l'État;164;Cour des comptes et autres juridictions financières;27;Pilotage et soutien des juridictions financières;;;62 890 374;50 593 374;12;Services du Premier ministre
+PLF 2019;Budget général;Conseil et contrôle de l'État;340;Haut Conseil des finances publiques;1;Haut Conseil des finances publiques;;;428 189;428 189;12;Services du Premier ministre
+PLF 2019;Budget général;Crédits non répartis;551;Provision relative aux rémunérations publiques;1;Provision relative aux rémunérations publiques;;;79 000 000;79 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Crédits non répartis;552;Dépenses accidentelles et imprévisibles;1;Dépenses accidentelles et imprévisibles;;;424 000 000;124 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Culture;175;Patrimoines;1;Monuments Historiques et patrimoine monumental;;;470 991 847;345 746 113;2;Culture
+PLF 2019;Budget général;Culture;175;Patrimoines;2;Architecture et espaces protégés;;;32 226 588;32 226 588;2;Culture
+PLF 2019;Budget général;Culture;175;Patrimoines;3;Patrimoine des musées de France;;;348 431 067;338 911 215;2;Culture
+PLF 2019;Budget général;Culture;175;Patrimoines;4;Patrimoine archivistique et célébrations nationales;;;30 329 110;30 021 271;2;Culture
+PLF 2019;Budget général;Culture;175;Patrimoines;8;Acquisition et enrichissement des collections publiques;;;9 775 311;9 775 311;2;Culture
+PLF 2019;Budget général;Culture;175;Patrimoines;9;Patrimoine archéologique;;;136 972 761;136 972 761;2;Culture
+PLF 2019;Budget général;Culture;131;Création;1;Soutien à la création, à la production et à la diffusion du spectacle vivant;;;705 971 765;705 941 765;2;Culture
+PLF 2019;Budget général;Culture;131;Création;2;Soutien à la création, à la production et à la diffusion des arts visuels;;;77 925 143;76 372 994;2;Culture
+PLF 2019;Budget général;Culture;224;Transmission des savoirs et démocratisation de la culture;1;Soutien aux établissements d'enseignement supérieur et insertion professionnelle;;;255 100 885;243 167 911;2;Culture
+PLF 2019;Budget général;Culture;224;Transmission des savoirs et démocratisation de la culture;2;Soutien à la démocratisation et à l'éducation artistique et culturelle;;;197 558 153;197 558 153;2;Culture
+PLF 2019;Budget général;Culture;224;Transmission des savoirs et démocratisation de la culture;6;Action culturelle internationale;;;7 385 969;7 385 969;2;Culture
+PLF 2019;Budget général;Culture;224;Transmission des savoirs et démocratisation de la culture;7;Fonctions de soutien du ministère;;;784 200 949;780 665 143;2;Culture
+PLF 2019;Budget général;Culture;224;Transmission des savoirs et démocratisation de la culture;8;Soutien à l'emploi dans le secteur culturel;;;43 000 000;30 000 000;2;Culture
+PLF 2019;Budget général;Culture;224;Transmission des savoirs et démocratisation de la culture;9;Langue française et langues de France;;;3 224 338;3 224 338;2;Culture
+PLF 2019;Budget général;Défense;144;Environnement et prospective de la politique de défense;3;Recherche et exploitation du renseignement intéressant la sécurité de la France;31;Renseignement extérieur;333 708 270;342 922 505;70;Armées
+PLF 2019;Budget général;Défense;144;Environnement et prospective de la politique de défense;3;Recherche et exploitation du renseignement intéressant la sécurité de la France;32;Renseignement de sécurité de défense;15 698 349;15 698 349;70;Armées
+PLF 2019;Budget général;Défense;144;Environnement et prospective de la politique de défense;7;Prospective de défense;1;Analyse stratégique;10 180 000;9 690 000;70;Armées
+PLF 2019;Budget général;Défense;144;Environnement et prospective de la politique de défense;7;Prospective de défense;2;Prospective des systèmes de forces;22 557 063;21 817 706;70;Armées
+PLF 2019;Budget général;Défense;144;Environnement et prospective de la politique de défense;7;Prospective de défense;3;Etudes amont;919 889 947;758 457 320;70;Armées
+PLF 2019;Budget général;Défense;144;Environnement et prospective de la politique de défense;7;Prospective de défense;4;Gestion des moyens et subventions;288 157 412;288 157 412;70;Armées
+PLF 2019;Budget général;Défense;144;Environnement et prospective de la politique de défense;8;Relations internationales et diplomatie de défense;;;38 596 429;39 346 429;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;1;Planification  des moyens et conduite des opérations;10;Emploi des forces;295 366 541;289 776 870;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;1;Planification  des moyens et conduite des opérations;11;Renseignement d'intérêt militaire;54 593 330;53 522 754;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;1;Planification  des moyens et conduite des opérations;14;Systèmes d'information et de communication;246 198 618;241 363 894;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;2;Préparation des forces terrestres;1;Commandement et activités des forces terrestres;141 772 310;138 335 049;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;2;Préparation des forces terrestres;5;Ressources humaines des forces terrestres;68 893 503;68 677 402;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;2;Préparation des forces terrestres;7;Maintien en condition opérationnelle du matériel des forces terrestres;2 162 087 243;1 028 970 834;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;2;Préparation des forces terrestres;8;Environnement opérationnel des forces terrestres;202 069 759;203 774 123;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;3;Préparation des forces navales;1;Commandement et activités des forces navales;494 017 897;327 230 829;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;3;Préparation des forces navales;5;Ressources humaines des forces navales;52 357 925;50 635 075;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;3;Préparation des forces navales;7;Maintien en condition opérationnelle du matériel des forces navales;4 690 657 022;1 922 563 147;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;3;Préparation des forces navales;8;Environnement opérationnel des forces navales;83 011 918;80 263 558;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;4;Préparation des forces aériennes;2;Commandement et activités centralisées des forces aériennes;9 044 647;8 378 538;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;4;Préparation des forces aériennes;3;Activités des forces aériennes;287 821 912;288 721 780;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;4;Préparation des forces aériennes;4;Activités des forces aériennes stratégiques;477 257 094;163 380 978;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;4;Préparation des forces aériennes;5;Ressources humaines des forces aériennes;94 750 689;91 805 315;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;4;Préparation des forces aériennes;6;Entretien et équipements des forces aériennes;3 457 844 898;1 766 753 261;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;4;Préparation des forces aériennes;9;Service industriel aéronautique (SIAé);;;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;5;Logistique et soutien interarmées;80;Fonction santé;185 661 128;107 275 443;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;5;Logistique et soutien interarmées;82;Soutien des forces par les bases de défense;664 159 550;672 822 211;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;5;Logistique et soutien interarmées;83;Soutiens complémentaires;138 176 953;145 487 209;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;5;Logistique et soutien interarmées;84;Service interarmées des munitions;32 446 328;18 574 831;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;5;Logistique et soutien interarmées;85;Service du commissariat aux armées;545 347 147;516 240 098;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;6;Surcoûts liés aux opérations extérieures;;;600 000 000;600 000 000;70;Armées
+PLF 2019;Budget général;Défense;178;Préparation et emploi des forces;7;Surcoûts liés aux opérations intérieures;;;;;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;4;Politique immobilière;;;2 049 877 248;1 785 388 575;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;5;Systèmes d'information, d'administration et de gestion;;;174 517 769;168 420 141;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;6;Politiques des ressources humaines;3;Reconversion;37 658 388;36 658 388;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;6;Politiques des ressources humaines;4;Action sociale et autres politiques de ressources humaines (hors rémunérations des agents);114 914 845;115 964 795;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;8;Politique culturelle et éducative;1;Actions culturelles et mise en valeur du patrimoine;25 696 798;42 892 072;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;8;Politique culturelle et éducative;2;Gestion et communication des archives historiques de la défense;3 211 282;3 211 282;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;10;Restructurations;;;52 109 262;73 671 531;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;11;Pilotage, soutien et communication;;;389 823 856;417 332 747;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;50;"Recherche et exploitation du renseignement intéressant la sécurité de la France - Personnel travaillant  pour le programme ""Environnement et prospective de la politique de défense""";1;Renseignement extérieur;465 281 828;465 281 828;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;50;"Recherche et exploitation du renseignement intéressant la sécurité de la France - Personnel travaillant  pour le programme ""Environnement et prospective de la politique de défense""";2;Renseignement de sécurité et de défense;120 081 993;120 081 993;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;51;"Prospective de défense - Personnel travaillant  pour le programme ""Environnement et prospective de la politique de défense""";1;DGRIS / Administration  centrale;24 477 489;24 477 489;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;52;Relations internationales;1;DGA / Soutien aux exportations;5 232 536;5 232 536;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;52;Relations internationales;2;DGRIS / Diplomatie de défense;63 017 580;63 017 580;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;53;"Préparation et conduite des opérations d'armement - Personnel travaillant  pour le programme  ""Équipement des forces """;1;Soutien aux opérations d'armement;2 010 650 569;2 010 650 569;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";1;Commandement des armées;161 638 039;161 638 039;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";2;Organismes interarmées à vocation opérationnelle;233 231 747;233 231 747;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";3;Organismes interarmées à vocation prospective et maîtrise des armements;16 989 729;16 989 729;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";4;Enseignement interarmées;143 912 591;143 912 591;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";5;EMA / Relations internationales militaires / PPE;86 786 810;86 786 810;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";6;Renseignement d'intérêt militaire;169 802 115;169 802 115;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";7;Systèmes d'information et de communication;497 787 832;497 787 832;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;55;"Préparation des forces terrestres - Personnel travaillant pour le programme ""Préparation et emploi des forces""";1;Ressources humaines des forces terrestres;7 151 721 241;7 151 721 241;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;56;"Préparation des forces navales - Personnel travaillant pour le programme ""Préparation et emploi des forces""";1;Ressources humaines des forces navales;2 430 588 284;2 430 588 284;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;56;"Préparation des forces navales - Personnel travaillant pour le programme ""Préparation et emploi des forces""";2;Rémunérations des ouvriers de l'Etat de la DCNS;0;0;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;57;"Préparation des forces aériennes- Personnel travaillant pour le programme ""Préparation et emploi des forces""";1;Ressources humaines des forces aériennes;2 477 678 633;2 477 678 633;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;57;"Préparation des forces aériennes- Personnel travaillant pour le programme ""Préparation et emploi des forces""";2;Service industriel aéronautique(SIAé);0;0;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;58;"Logistique et soutien interarmées - Personnel travaillant pour le programme ""Préparation et emploi des forces""";1;Fonction pétrolière;131 039 369;131 039 369;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;58;"Logistique et soutien interarmées - Personnel travaillant pour le programme ""Préparation et emploi des forces""";2;Logistique et soutien interarmées / CICoS;59 412 751;59 412 751;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;58;"Logistique et soutien interarmées - Personnel travaillant pour le programme ""Préparation et emploi des forces""";3;Soutiens complémentaires;0;0;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;58;"Logistique et soutien interarmées - Personnel travaillant pour le programme ""Préparation et emploi des forces""";4;Service interarmées des munitions;90 872 174;90 872 174;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;58;"Logistique et soutien interarmées - Personnel travaillant pour le programme ""Préparation et emploi des forces""";5;Service du commissariat des armées;1 501 505 604;1 501 505 604;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;58;"Logistique et soutien interarmées - Personnel travaillant pour le programme ""Préparation et emploi des forces""";6;Fonction santé;883 622 016;883 622 016;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;59;"Surcoûts liés aux opérations - Personnel travaillant pour le programme ""Préparation et emploi des forces""";1;Surcoûts liés aux opérations extérieures;250 000 000;250 000 000;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;59;"Surcoûts liés aux opérations - Personnel travaillant pour le programme ""Préparation et emploi des forces""";2;Surcoûts liés aux opérations intérieures;100 000 000;100 000 000;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;60;"Politique immobilière - Personnel travaillant pour l'action ""Politique immobilière""";;;486 347 835;486 347 835;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;61;Action sociale, chômage et pensions;1;Actions sociales et autres politiques des ressources humaines;164 819 549;164 819 549;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;61;Action sociale, chômage et pensions;2;Reconversion des personnels militaires - Chômage;122 698 798;122 698 798;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;61;Action sociale, chômage et pensions;3;Reconversion des personnels civils - Chômage;5 626 514;5 626 514;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;62;"Politique culturelle et éducative - gestion et communication des archives historiques de la défense - Personnel travaillant pour l'action ""Politique culturelle et éducative""";;;40 615 311;40 615 311;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;63;Restructurations - RH;1;Restructurations Personnels civils;25 122 698;25 122 698;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;63;Restructurations - RH;2;Restructurations Personnels militaires;35 630 516;35 630 516;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;64;"Pilotage, soutien  -  Personnel travaillant pour l'action "" Pilotage, soutien """;1;Personnel du SGA employeur;293 580 528;293 580 528;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;64;"Pilotage, soutien  -  Personnel travaillant pour l'action "" Pilotage, soutien """;7;Personnel de l'action sociale;57 085 724;57 085 724;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;64;"Pilotage, soutien  -  Personnel travaillant pour l'action "" Pilotage, soutien """;8;Personnel de l'agence de reconversion de la Défense;45 901 226;45 901 226;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;65;"Journée défense et citoyenneté - Personnel travaillant pour le programme ""Liens entre la Nation et son armée""";;;90 633 552;90 633 552;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;66;Rayonnement et contribution extérieure;1;Pilotage, soutien et communication - effectifs sortants remboursés sous PMEA Mindef;0;0;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;66;Rayonnement et contribution extérieure;2;Pilotage, soutien et communication - effectifs sortants non remboursés sous PMEA Mindef;23 730 417;23 730 417;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;66;Rayonnement et contribution extérieure;3;Pilotage, soutien et communication - effectifs sortants remboursés hors PMEA Mindef;0;0;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;66;Rayonnement et contribution extérieure;4;Pilotage, soutien et communication - Présidence de la République;0;0;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;66;Rayonnement et contribution extérieure;5;Pilotage, soutien et communication -  Elèves des classes préparatoires des lycées de la défense;1 096 985;1 096 985;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;67;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;1;Sous-Direction des Bureau des Cabinets - Cabinet du Ministre de la Défense - Cabinet du Secrétaire d'Etat aux anciens combattants - Bureau des Officiers Généraux;33 315 312;33 315 312;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;67;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;2;Contrôle général des armées;22 238 970;22 238 970;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;67;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;3;Direction Générale du Numérique et des systèmes d'information et de communication;5 500 425;5 500 425;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;67;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;4;Délégation à l'Information et la Communication de la Défense;10 032 354;10 032 354;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;67;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;5;Gendarmerie de la Sureté de l'Armement Nucléaire;5 183 495;5 183 495;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;67;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;6;Contrôle Budgétaire et Comptable Ministériel défense - Agence Comptable des Services Industriels de l'Armement;5 449 461;5 449 461;70;Armées
+PLF 2019;Budget général;Défense;212;Soutien de la politique de la défense;67;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;7;Direction de la Protection des Installations, moyens et activités de la Défense;2 004 166;2 004 166;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;6;Dissuasion;14;Assurer la crédibilité technique de la dissuasion M51;1 567 688 297;724 003 653;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;6;Dissuasion;15;Assurer la crédibilité technique de la dissuasion SNLE NG : adaptation M51;;76 526 998;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;6;Dissuasion;17;Assurer la crédibilité technique de la dissuasion - Air sol moyenne portée amélioré (ASMPA);38 007 034;110 609 897;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;6;Dissuasion;18;Assurer la crédibilité technique de la dissuasion Simulation;554 747 501;565 285 959;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;6;Dissuasion;19;Assurer la crédibilité technique de la dissuasion - Autres opérations;1 234 182 057;880 110 759;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;6;Dissuasion;22;Assurer la crédibilité opérationnelle de la dissuasion - soutien et mise en oeuvre des forces - toutes opérations;724 608 434;767 540 750;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;6;Dissuasion;23;Assurer la crédibilité technique de la posture - toutes opérations;533 562 156;304 543 147;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;6;Dissuasion;24;Assurer la crédibilité technique de la dissuasion – SNLE 3G;;148 478 840;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;7;Commandement et maîtrise de l'information;24;Commander et conduire - Système de commandement et de conduite des opérations aériennes (SCCOA);22 977 785;154 325 431;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;7;Commandement et maîtrise de l'information;25;Commander et conduire - Système d'information TERRE;185 040 000;47 713 342;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;7;Commandement et maîtrise de l'information;27;Commander et conduire - Géographie numérique;;64 611 295;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;7;Commandement et maîtrise de l'information;28;Commander et conduire - Autres opérations;100 245 877;55 405 711;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;7;Commandement et maîtrise de l'information;29;Commander et conduire - Système d'information des armées (SIA);;100 129 950;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;7;Commandement et maîtrise de l'information;32;Communiquer - Moyens de communication satellitaire;162 351 745;296 774 130;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;7;Commandement et maîtrise de l'information;35;Communiquer - Autres opérations;241 030 000;265 209 532;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;7;Commandement et maîtrise de l'information;36;Communiquer - CONTACT;;189 444 531;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;7;Commandement et maîtrise de l'information;39;Renseigner, surveiller, acquérir et reconnaître - Autres opérations;2 724 980 400;492 631 218;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;7;Commandement et maîtrise de l'information;40;Renseigner, surveiller, acquérir et reconnaître - MUSIS;;105 078 113;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;7;Commandement et maîtrise de l'information;41;Communiquer - DESCARTES;;70 308 678;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;7;Commandement et maîtrise de l'information;42;Renseigner, surveiller, acquérir et reconnaître - CERES;;56 008 160;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;8;Projection - mobilité - soutien;42;Projeter les forces - Avion de transport futur (A400M);46 755 377;81 877 299;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;8;Projection - mobilité - soutien;43;Projeter les forces - Autres opérations;27 800 000;146 587 512;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;8;Projection - mobilité - soutien;46;Assurer la mobilité - Rénovation Cougar;;5 533 658;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;8;Projection - mobilité - soutien;47;Assurer la mobilité - Hélicoptère NH 90;325 000 000;430 954 534;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;8;Projection - mobilité - soutien;48;Assurer la mobilité - Autres opérations;231 198 083;192 860 722;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;8;Projection - mobilité - soutien;51;Maintenir le potentiel ami et autre - Porteur polyvalent terrestre (PPT);;877 871;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;8;Projection - mobilité - soutien;53;Maintenir le potentiel ami et autre - Autres opérations;1 427 140 000;124 532 986;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;8;Projection - mobilité - soutien;55;Maintenir le potentiel ami et autre - MRTT;;362 762 572;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;9;Engagement et combat;56;Frapper à distance - Missile de croisière naval (MDCN);;48 844 735;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;9;Engagement et combat;59;Frapper à distance - RAFALE;86 913 336;534 156 043;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;9;Engagement et combat;61;Frapper à distance - Autres opérations;177 886 465;278 362 987;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;9;Engagement et combat;66;Opérer en milieu hostile - Véhicule blindé de combat d'infanterie (VBCI);;15 727 008;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;9;Engagement et combat;68;Opérer en milieu hostile - Hélicoptère HAP/HAD TIGRE;;122 598 389;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;9;Engagement et combat;69;Opérer en milieu hostile - Future torpille lourde (FTL);;45 451 684;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;9;Engagement et combat;71;Opérer en milieu hostile - Evolution Exocet;216 000 000;31 941 330;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;9;Engagement et combat;73;Opérer en milieu hostile - Frégates multi-missions (FREMM);;289 318 338;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;9;Engagement et combat;74;Opérer en milieu hostile - SNA Barracuda;400 000 000;541 535 130;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;9;Engagement et combat;75;Opérer en milieu hostile - Autres opérations et conduire des opérations spéciales;829 564 483;697 246 585;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;9;Engagement et combat;77;Opérer en milieu hostile -  SCORPION;1 106 978 214;397 324 822;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;9;Engagement et combat;78;Frapper à distance - Mirage 2000;47 837 170;133 573 091;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;9;Engagement et combat;88;Opérer en milieu hostile - missile moyenne portée MMP;;95 266 544;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;9;Engagement et combat;89;Opérer en milieu hostile - Frégates de taille intermédiaire;;224 430 525;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;10;Protection et sauvegarde;79;Assurer la sûreté des approches - Autres opérations et assurer la sécurité de l'Etat, de la nation et des citoyens;829 851 110;221 562 572;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;10;Protection et sauvegarde;80;Assurer la sûreté des approches - Alerte avancée;;;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;10;Protection et sauvegarde;82;Assurer la protection des forces et des sites - Famille de systèmes sol-air futurs (FSAF);300 000 000;99 606 906;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;10;Protection et sauvegarde;86;Assurer la protection des forces et des sites - Autres opérations et assurer la protection de l'homme;72 097 733;76 281 166;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;11;Préparation et conduite des opérations d'armement;89;Fonctionnement et soutien DGA;78 813 951;79 503 590;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;11;Préparation et conduite des opérations d'armement;90;Investissements pour les opérations d'armement;178 957 195;134 524 105;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;12;Parts étrangères et programmes civils;96;Parts étrangères;;;70;Armées
+PLF 2019;Budget général;Défense;146;Équipement des forces;12;Parts étrangères et programmes civils;97;Programmes civils;;;70;Armées
+PLF 2019;Budget général;Direction de l'action du Gouvernement;129;Coordination du travail gouvernemental;1;Coordination du travail gouvernemental;;;95 616 169;95 680 698;12;Services du Premier ministre
+PLF 2019;Budget général;Direction de l'action du Gouvernement;129;Coordination du travail gouvernemental;2;Coordination de la sécurité et de la défense;;;378 492 758;362 128 579;12;Services du Premier ministre
+PLF 2019;Budget général;Direction de l'action du Gouvernement;129;Coordination du travail gouvernemental;3;Coordination de la politique européenne;;;14 968 223;14 968 223;12;Services du Premier ministre
+PLF 2019;Budget général;Direction de l'action du Gouvernement;129;Coordination du travail gouvernemental;10;Soutien;;;88 986 813;113 006 674;12;Services du Premier ministre
+PLF 2019;Budget général;Direction de l'action du Gouvernement;129;Coordination du travail gouvernemental;11;Stratégie et prospective;;;22 888 256;22 888 256;12;Services du Premier ministre
+PLF 2019;Budget général;Direction de l'action du Gouvernement;129;Coordination du travail gouvernemental;13;Ordre de la Légion d'honneur;;;27 575 166;27 575 166;12;Services du Premier ministre
+PLF 2019;Budget général;Direction de l'action du Gouvernement;129;Coordination du travail gouvernemental;15;Mission interministérielle de lutte contre les drogues et les conduites addictives;;;17 496 968;17 496 968;12;Services du Premier ministre
+PLF 2019;Budget général;Direction de l'action du Gouvernement;129;Coordination du travail gouvernemental;16;Coordination de la politique numérique;;;38 444 911;38 394 911;12;Services du Premier ministre
+PLF 2019;Budget général;Direction de l'action du Gouvernement;308;Protection des droits et libertés;2;Commission nationale de l'informatique et des libertés;;;18 823 353;18 823 353;12;Services du Premier ministre
+PLF 2019;Budget général;Direction de l'action du Gouvernement;308;Protection des droits et libertés;3;Conseil supérieur de l'audiovisuel;;;37 573 930;37 573 930;12;Services du Premier ministre
+PLF 2019;Budget général;Direction de l'action du Gouvernement;308;Protection des droits et libertés;5;Contrôleur général des lieux de privation de liberté;;;4 921 220;5 321 220;12;Services du Premier ministre
+PLF 2019;Budget général;Direction de l'action du Gouvernement;308;Protection des droits et libertés;6;Autres autorités indépendantes;;;4 097 209;4 097 209;12;Services du Premier ministre
+PLF 2019;Budget général;Direction de l'action du Gouvernement;308;Protection des droits et libertés;9;Défenseur des droits;;;22 399 207;22 399 207;12;Services du Premier ministre
+PLF 2019;Budget général;Direction de l'action du Gouvernement;308;Protection des droits et libertés;10;Haute autorité pour la transparence de la vie publique;;;5 658 959;6 472 373;12;Services du Premier ministre
+PLF 2019;Budget général;Direction de l'action du Gouvernement;308;Protection des droits et libertés;11;Régulation de la distribution de la presse;;;298 667;298 667;12;Services du Premier ministre
+PLF 2019;Budget général;Direction de l'action du Gouvernement;308;Protection des droits et libertés;12;Commission nationale de contrôle des techniques de renseignement;;;2 928 800;2 928 800;12;Services du Premier ministre
+PLF 2019;Budget général;Direction de l'action du Gouvernement;308;Protection des droits et libertés;13;Commission du secret de la Défense nationale;;;613 288;613 288;12;Services du Premier ministre
+PLF 2019;Budget général;Direction de l'action du Gouvernement;333;Moyens mutualisés des administrations déconcentrées;1;Fonctionnement courant des directions départementales interministérielles;;;163 107 720;163 107 720;12;Services du Premier ministre
+PLF 2019;Budget général;Direction de l'action du Gouvernement;333;Moyens mutualisés des administrations déconcentrées;2;Loyers et charges immobilières des administrations déconcentrées;;;308 038 874;193 563 442;12;Services du Premier ministre
+PLF 2019;Budget général;Direction de l'action du Gouvernement;333;Moyens mutualisés des administrations déconcentrées;3;Emplois déconcentrés des services du Premier ministre;;;182 690 065;182 690 065;12;Services du Premier ministre
+PLF 2019;Budget général;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;1;Routes - Développement;;;;;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;4;Routes - Entretien;;;335 857 189;317 718 400;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;41;Ferroviaire;;;2 430 349 731;2 431 309 731;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;42;Voies navigables;;;251 415 663;251 415 663;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;43;Ports;;;99 774 836;99 774 836;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;44;Transports collectifs;;;162 551 745;22 551 745;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;45;Transports combinés;;;27 109 039;32 109 039;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;47;Fonctions support;;;17 801 600;17 801 600;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;50;Transport routier;;;5 641 831;5 641 831;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;51;Sécurité ferroviaire;;;;;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;52;Transport aérien;;;54 690 000;34 907 000;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;205;Affaires maritimes;1;Sécurité et sûreté maritimes;;;29 675 680;29 060 680;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;205;Affaires maritimes;2;Gens de mer et enseignement maritime;;;27 288 675;27 303 675;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;205;Affaires maritimes;3;Flotte de commerce;;;81 220 000;81 220 000;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;205;Affaires maritimes;4;Action interministérielle de la mer;;;17 988 100;12 988 100;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;205;Affaires maritimes;5;Soutien au programme;;;6 450 000;6 330 000;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;205;Affaires maritimes;6;Gestion durable des Pêches et de  l'Aquaculture;;;;;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;113;Paysages, eau et biodiversité;1;Sites, paysages, publicité;;;6 708 517;6 727 874;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;113;Paysages, eau et biodiversité;2;logistique, formation et contentieux;;;5 631 514;5 631 514;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;113;Paysages, eau et biodiversité;7;Gestion des milieux et biodiversité;;;154 667 876;150 448 518;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;159;Expertise, information géographique et météorologie;10;Gouvernance, évaluation, études et prospective en matière de développement durable;;;14 461 147;14 461 147;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;159;Expertise, information géographique et météorologie;11;Etudes et expertise en matière de développement durable;;;201 406 683;201 406 683;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;159;Expertise, information géographique et météorologie;12;Information géographique et cartographique;;;90 411 945;90 411 945;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;159;Expertise, information géographique et météorologie;13;Météorologie;;;188 771 452;188 771 452;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;159;Expertise, information géographique et météorologie;14;Economie sociale et solidaire;;;18 909 841;18 909 841;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;181;Prévention des risques;1;Prévention des risques technologiques et des pollutions;;;102 730 698;92 668 909;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;181;Prévention des risques;9;Contrôle de la sûreté nucléaire et de la radioprotection;;;59 193 718;64 193 718;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;181;Prévention des risques;10;Prévention des risques naturels et hydrauliques;;;37 618 511;37 153 868;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;181;Prévention des risques;11;Gestion de l'après-mine et travaux de mise en sécurité, indemnisations et expropriations sur les sites;;;38 277 130;38 277 130;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;181;Prévention des risques;12;Agence de l'environnement et de la maîtrise de l'énergie (ADEME);;;603 247 558;603 247 558;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;174;Énergie, climat et après-mines;1;Politique de l'énergie;;;5 256 757;5 256 757;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;174;Énergie, climat et après-mines;4;Gestion économique et sociale de l'après-mines;;;360 137 300;360 137 300;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;174;Énergie, climat et après-mines;5;Lutte contre le changement climatique et pour la qualité de l'air;;;33 885 000;33 885 000;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;174;Énergie, climat et après-mines;6;Soutien;;;1 900 000;1 900 000;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;345;Service public de l'énergie;1;Solidarité avec les zones non interconnectées au réseau métropolitain;;;1 594 851 079;1 594 851 079;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;345;Service public de l'énergie;2;Protection des consommateurs en situation de précarité énergétique;;;794 167 607;740 024 476;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;345;Service public de l'énergie;3;Soutien à la cogénération;;;725 871 151;725 871 151;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;345;Service public de l'énergie;5;Frais de support;;;62 613 832;62 613 832;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;345;Service public de l'énergie;6;Médiateur de l'énergie;;;5 000 000;5 000 000;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;345;Service public de l'énergie;7;Fermeture de la centrale de Fessenheim;;;;91 000 000;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;2;Fonction juridique;;;2 114 416;2 114 416;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;3;Politique et programmation de l'immobilier et des moyens de fonctionnement;;;67 718 973;105 090 119;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;4;Politique et gestion des systèmes d'information et des réseaux informatiques;;;24 864 626;24 995 626;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;5;Politique des ressources humaines et formation;;;237 795 569;237 795 569;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;6;Actions nationales, européennes et internationales en faveur du développement durable;;;12 346 195;12 346 195;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;7;"Personnels oeuvrant pour les politiques du programme ""Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables""";;;543 412 279;543 412 279;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;8;"Personnels oeuvrant pour les politiques du programme ""Infrastructures et services de transports""";;;586 936 518;586 936 518;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;9;"Personnels oeuvrant pour les politiques du programme ""Sécurité et éducation routières""";;;;;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;11;"Personnels oeuvrant pour les politiques du programme ""Affaires maritimes""";;;179 637 558;179 637 558;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;13;"Personnels oeuvrant pour les politiques du programme ""Paysages, eau et biodiversité""";;;265 326 250;265 326 250;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;15;"Personnels relevant du ministère de la "" Cohésion des territoires """;;;659 762 217;659 762 217;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;16;"Personnels oeuvrant pour les politiques du programme ""Prévention des risques""";;;239 861 029;239 861 029;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;18;Personnels relevant de programmes d'autres ministères;;;;;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;22;Personnels transférés aux collectivités territoriales;;;6 570 980;6 570 980;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;23;"Personnels oeuvrant pour les politiques des programmes ""énergie, climat et après-mines""";;;57 523 022;57 523 022;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;24;Personnels oeuvrant dans le domaine des transports aériens;;;2 135 680;2 135 680;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;25;Commission nationale du débat public;;;3 445 896;3 445 896;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;26;Autorité de contrôle des nuisances aéroportuaires (ACNUSA);;;1 979 948;1 979 948;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;27;Commission de régulation de l'énergie (CRE);;;20 933 697;20 933 697;23;Transition écologique et solidaire
+PLF 2019;Budget général;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;28;"Personnels oeuvrant pour le développement durable et pour les politiques du programme ""expertise, information géographique et météorologique""";;;51 070 264;51 070 264;23;Transition écologique et solidaire
+PLF 2019;Budget général;Économie;134;Développement des entreprises et régulations;4;Développement des postes, des télécommunications et du numérique;;;167 620 495;172 600 495;21;Économie et finances
+PLF 2019;Budget général;Économie;134;Développement des entreprises et régulations;7;Développement international des entreprises et attractivité du territoire;;;150 903 733;150 903 733;21;Économie et finances
+PLF 2019;Budget général;Économie;134;Développement des entreprises et régulations;8;Expertise, conseil et inspection;;;18 803 582;18 803 582;21;Économie et finances
+PLF 2019;Budget général;Économie;134;Développement des entreprises et régulations;13;Régulation des communications électroniques et des postes (ARCEP);;;20 758 833;22 596 386;21;Économie et finances
+PLF 2019;Budget général;Économie;134;Développement des entreprises et régulations;15;Mise en oeuvre du droit de la concurrence (Autorité de la concurrence);;;21 526 834;22 626 230;21;Économie et finances
+PLF 2019;Budget général;Économie;134;Développement des entreprises et régulations;22;Economie sociale et solidaire;;;70 000;19 400;21;Économie et finances
+PLF 2019;Budget général;Économie;134;Développement des entreprises et régulations;23;Industrie et services;;;279 540 486;287 259 846;21;Économie et finances
+PLF 2019;Budget général;Économie;134;Développement des entreprises et régulations;24;Régulation concurrentielle des marchés, protection économique et sécurité du consommateur;;;232 197 601;230 645 149;21;Économie et finances
+PLF 2019;Budget général;Économie;343;Plan France Très haut débit;1;Réseaux d'initiative publique;;;5 000 000;175 867 510;21;Économie et finances
+PLF 2019;Budget général;Économie;220;Statistiques et études économiques;1;Infrastructure statistique;;;134 188 972;133 904 262;21;Économie et finances
+PLF 2019;Budget général;Économie;220;Statistiques et études économiques;2;Information sur les entreprises et synthèses économiques;;;55 546 150;55 618 847;21;Économie et finances
+PLF 2019;Budget général;Économie;220;Statistiques et études économiques;3;Information démographique et sociale;;;68 284 819;68 442 641;21;Économie et finances
+PLF 2019;Budget général;Économie;220;Statistiques et études économiques;5;Pilotage et soutien;;;127 115 523;125 629 324;21;Économie et finances
+PLF 2019;Budget général;Économie;220;Statistiques et études économiques;6;Action régionale;;;52 060 003;52 075 007;21;Économie et finances
+PLF 2019;Budget général;Économie;220;Statistiques et études économiques;7;Formation initiale;;;5 974 474;5 974 474;21;Économie et finances
+PLF 2019;Budget général;Économie;305;Stratégie économique et fiscale;1;Définition et mise en oeuvre de la politique économique et financière de la France dans le cadre national, international et européen;;;329 014 408;329 014 408;21;Économie et finances
+PLF 2019;Budget général;Économie;305;Stratégie économique et fiscale;2;Développement international de l'économie française;;;75 294 697;75 294 697;21;Économie et finances
+PLF 2019;Budget général;Économie;305;Stratégie économique et fiscale;3;Elaboration de la législation fiscale;;;16 446 732;16 446 732;21;Économie et finances
+PLF 2019;Budget général;Engagements financiers de l'État;117;Charge de la dette et trésorerie de l'État (crédits évaluatifs);1;Dette;;;41 105 000 000;41 105 000 000;21;Économie et finances
+PLF 2019;Budget général;Engagements financiers de l'État;117;Charge de la dette et trésorerie de l'État (crédits évaluatifs);3;Trésorerie;;;956 000 000;956 000 000;21;Économie et finances
+PLF 2019;Budget général;Engagements financiers de l'État;114;Appels en garantie de l'État (crédits évaluatifs);1;Agriculture et environnement;;;900 000;900 000;21;Économie et finances
+PLF 2019;Budget général;Engagements financiers de l'État;114;Appels en garantie de l'État (crédits évaluatifs);2;Soutien au domaine social, logement, santé;;;53 000 000;53 000 000;21;Économie et finances
+PLF 2019;Budget général;Engagements financiers de l'État;114;Appels en garantie de l'État (crédits évaluatifs);3;Financement des entreprises et industrie;;;1 400 000;1 400 000;21;Économie et finances
+PLF 2019;Budget général;Engagements financiers de l'État;114;Appels en garantie de l'État (crédits évaluatifs);4;Développement international de l'économie française;1;Assurance-crédit;;;21;Économie et finances
+PLF 2019;Budget général;Engagements financiers de l'État;114;Appels en garantie de l'État (crédits évaluatifs);4;Développement international de l'économie française;2;Assurance-prospection;43 500 000;43 500 000;21;Économie et finances
+PLF 2019;Budget général;Engagements financiers de l'État;114;Appels en garantie de l'État (crédits évaluatifs);4;Développement international de l'économie française;3;Garantie de change;1 000 000;1 000 000;21;Économie et finances
+PLF 2019;Budget général;Engagements financiers de l'État;114;Appels en garantie de l'État (crédits évaluatifs);4;Développement international de l'économie française;4;Garantie du risque économique;;;21;Économie et finances
+PLF 2019;Budget général;Engagements financiers de l'État;114;Appels en garantie de l'État (crédits évaluatifs);4;Développement international de l'économie française;5;Garanties de taux d'intérêt Natixis;;;21;Économie et finances
+PLF 2019;Budget général;Engagements financiers de l'État;114;Appels en garantie de l'État (crédits évaluatifs);4;Développement international de l'économie française;6;Garantie du risque exportateur;25 000 000;25 000 000;21;Économie et finances
+PLF 2019;Budget général;Engagements financiers de l'État;114;Appels en garantie de l'État (crédits évaluatifs);5;Autres garanties;;;500 000;500 000;21;Économie et finances
+PLF 2019;Budget général;Engagements financiers de l'État;145;Épargne;1;Épargne logement;;;101 501 941;101 501 941;21;Économie et finances
+PLF 2019;Budget général;Engagements financiers de l'État;145;Épargne;2;Instruments de financement du logement;;;880 000;880 000;21;Économie et finances
+PLF 2019;Budget général;Engagements financiers de l'État;336;Dotation du Mécanisme européen de stabilité;1;Dotation du Mécanisme européen de stabilité;;;0;0;21;Économie et finances
+PLF 2019;Budget général;Engagements financiers de l'État;338;Augmentation de capital de la Banque européenne d'investissement;1;Augmentation de capital de la Banque européenne d'investissement;;;0;0;21;Économie et finances
+PLF 2019;Budget général;Engagements financiers de l'État;344;Fonds de soutien relatif aux prêts et contrats financiers structurés à risque;1;Fonds de soutien relatif aux prêts et contrats financiers structurés à risque;;;0;183 275 842;21;Économie et finances
+PLF 2019;Budget général;Enseignement scolaire;140;Enseignement scolaire public du premier degré;1;Enseignement pré-élémentaire;;;5 386 023 239;5 386 023 239;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;140;Enseignement scolaire public du premier degré;2;Enseignement élémentaire;;;11 078 835 185;11 078 835 185;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;140;Enseignement scolaire public du premier degré;3;Besoins éducatifs particuliers;;;1 897 092 750;1 897 092 750;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;140;Enseignement scolaire public du premier degré;4;Formation des personnels enseignants;;;865 829 083;865 829 083;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;140;Enseignement scolaire public du premier degré;5;Remplacement;;;1 898 186 061;1 898 186 061;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;140;Enseignement scolaire public du premier degré;6;Pilotage et encadrement pédagogique;;;1 317 349 215;1 317 349 215;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;140;Enseignement scolaire public du premier degré;7;Personnels en situations diverses;;;98 124 311;98 124 311;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;141;Enseignement scolaire public du second degré;1;Enseignement en collège;;;11 728 484 413;11 728 484 413;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;141;Enseignement scolaire public du second degré;2;Enseignement général et technologique en lycée;;;7 358 627 128;7 358 627 128;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;141;Enseignement scolaire public du second degré;3;Enseignement professionnel sous statut scolaire;;;4 445 547 579;4 445 547 579;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;141;Enseignement scolaire public du second degré;4;Apprentissage;;;7 345 741;7 345 741;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;141;Enseignement scolaire public du second degré;5;Enseignement post-baccalauréat en lycée;;;2 139 498 864;2 139 498 864;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;141;Enseignement scolaire public du second degré;6;Besoins éducatifs particuliers;;;1 300 882 249;1 300 882 249;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;141;Enseignement scolaire public du second degré;7;Aide à l'insertion professionnelle;;;57 467 829;57 467 829;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;141;Enseignement scolaire public du second degré;8;Information et orientation;;;327 695 586;327 695 586;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;141;Enseignement scolaire public du second degré;9;Formation continue des adultes et validation des acquis de l'expérience;;;125 064 536;125 064 536;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;141;Enseignement scolaire public du second degré;10;Formation des personnels enseignants et d'orientation;;;677 708 846;677 708 846;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;141;Enseignement scolaire public du second degré;11;Remplacement;;;1 483 916 683;1 483 916 683;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;141;Enseignement scolaire public du second degré;12;Pilotage, administration et encadrement pédagogique;;;3 445 482 098;3 445 482 098;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;141;Enseignement scolaire public du second degré;13;Personnels en situations diverses;;;95 138 823;95 138 823;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;230;Vie de l'élève;1;Vie scolaire et éducation à la responsabilité;;;2 474 956 628;2 474 956 628;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;230;Vie de l'élève;2;Santé scolaire;;;511 677 096;511 677 096;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;230;Vie de l'élève;3;Inclusion scolaire des élèves en situation de handicap;;;1 552 124 812;1 552 124 812;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;230;Vie de l'élève;4;Action sociale;;;912 768 360;912 768 360;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;230;Vie de l'élève;5;Politique de l'internat et établissements à la charge de l'Etat;;;77 641 026;77 641 026;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;230;Vie de l'élève;6;Actions éducatives complémentaires aux enseignements;;;153 714 396;153 714 396;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;1;Enseignement pré-élémentaire;;;485 109 659;485 109 659;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;2;Enseignement élémentaire;;;1 290 033 771;1 290 033 771;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;3;Enseignement en collège;;;1 982 872 334;1 982 872 334;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;4;Enseignement général et technologique en lycée;;;1 319 254 558;1 319 254 558;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;5;Enseignement professionnel sous statut scolaire;;;786 856 095;786 856 095;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;6;Enseignement post-baccalauréat en lycée;;;266 130 099;266 130 099;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;7;Dispositifs spécifiques de scolarisation;;;163 729 429;163 729 429;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;8;Actions sociales en faveur des élèves;;;73 927 290;73 927 290;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;9;Fonctionnement des établissements;;;680 753 978;680 753 978;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;10;Formation initiale et continue des enseignants;;;146 133 699;146 133 699;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;11;Remplacement;;;184 693 186;184 693 186;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;12;Soutien;;;221 832 058;221 832 058;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;214;Soutien de la politique de l'éducation nationale;1;Pilotage et mise en oeuvre des politiques éducatives;;;431 857 140;431 857 140;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;214;Soutien de la politique de l'éducation nationale;2;Évaluation et contrôle;;;83 363 062;83 363 062;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;214;Soutien de la politique de l'éducation nationale;3;Communication;;;14 120 697;14 120 697;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;214;Soutien de la politique de l'éducation nationale;4;Expertise juridique;;;17 131 186;17 131 186;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;214;Soutien de la politique de l'éducation nationale;5;Action internationale;;;13 520 222;13 520 222;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;214;Soutien de la politique de l'éducation nationale;6;Politique des ressources humaines;;;726 748 341;726 748 341;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;214;Soutien de la politique de l'éducation nationale;7;Établissements d'appui de la politique éducative;;;158 078 457;158 078 457;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;214;Soutien de la politique de l'éducation nationale;8;Logistique, système d'information, immobilier;;;653 454 018;622 835 026;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;214;Soutien de la politique de l'éducation nationale;9;Certification;;;204 745 862;204 745 862;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;214;Soutien de la politique de l'éducation nationale;10;Transports scolaires;;;3 322 845;3 322 845;6;Éducation nationale
+PLF 2019;Budget général;Enseignement scolaire;143;Enseignement technique agricole;1;Mise en oeuvre de l'enseignement dans les établissements publics;;;770 542 359;770 542 359;3;Agriculture et alimentation
+PLF 2019;Budget général;Enseignement scolaire;143;Enseignement technique agricole;2;Mise en oeuvre des enseignements dans les établissements privés;;;601 458 341;601 458 341;3;Agriculture et alimentation
+PLF 2019;Budget général;Enseignement scolaire;143;Enseignement technique agricole;3;Aide sociale aux élèves (enseignement public et privé);;;87 335 328;87 335 328;3;Agriculture et alimentation
+PLF 2019;Budget général;Enseignement scolaire;143;Enseignement technique agricole;4;Évolution des compétences et dynamique territoriale;;;3 384 218;3 384 218;3;Agriculture et alimentation
+PLF 2019;Budget général;Enseignement scolaire;143;Enseignement technique agricole;5;Moyens communs à l'enseignement technique agricole, public et privé;;;5 521 995;5 521 995;3;Agriculture et alimentation
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;156;Gestion fiscale et financière de l'État et du secteur public local;1;Fiscalité des grandes entreprises;;;117 224 009;121 124 009;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;156;Gestion fiscale et financière de l'État et du secteur public local;2;Fiscalité des PME;;;1 588 383 168;1 595 283 168;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;156;Gestion fiscale et financière de l'État et du secteur public local;3;Fiscalité des particuliers et fiscalité directe locale;;;2 185 910 608;2 186 030 608;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;156;Gestion fiscale et financière de l'État et du secteur public local;5;Gestion financière de l'État hors fiscalité;;;710 684 461;713 204 461;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;156;Gestion fiscale et financière de l'État et du secteur public local;6;Gestion des pensions;;;65 217 888;65 217 888;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;156;Gestion fiscale et financière de l'État et du secteur public local;7;Gestion financière du secteur public local hors fiscalité;;;1 330 541 857;1 332 861 857;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;156;Gestion fiscale et financière de l'État et du secteur public local;8;Gestion des fonds déposés;;;54 553 076;55 103 076;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;156;Gestion fiscale et financière de l'État et du secteur public local;9;Soutien;;;1 929 362 316;1 669 363 838;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;218;Conduite et pilotage des politiques économiques et financières;1;Etat-major et politiques transversales;;;303 411 824;304 411 971;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;218;Conduite et pilotage des politiques économiques et financières;2;Expertise, audit, évaluation et contrôle;;;66 550 947;67 256 248;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;218;Conduite et pilotage des politiques économiques et financières;5;Prestations d'appui et support;;;324 201 473;333 213 567;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;218;Conduite et pilotage des politiques économiques et financières;7;Pilotage des finances publiques et projets interministériels;;;189 838 356;192 772 324;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;218;Conduite et pilotage des politiques économiques et financières;8;Accompagnement du changement de l’action publique;;;19 551 654;19 601 654;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;302;Facilitation et sécurisation des échanges;1;Surveillance douanière des flux de personnes et de marchandises et lutte contre la grande fraude douanière.;;;510 598 735;509 762 775;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;302;Facilitation et sécurisation des échanges;3;Préservation de la sécurité et de la sûreté de l'espace national et européen;;;189 757 963;190 252 833;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;302;Facilitation et sécurisation des échanges;4;Promotion des échanges internationaux et qualité du dédouanement;;;252 314 947;252 536 063;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;302;Facilitation et sécurisation des échanges;5;Fiscalité douanière, énergétique et environnementale;;;167 275 817;167 162 711;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;302;Facilitation et sécurisation des échanges;6;Soutien des services opérationnels;;;378 626 578;355 002 663;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;302;Facilitation et sécurisation des échanges;8;Soutien au réseau des débitants de tabac;;;111 087 809;111 087 809;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;148;Fonction publique;1;Formation des fonctionnaires;;;82 478 236;82 478 236;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;148;Fonction publique;2;Action sociale interministérielle;;;119 845 598;119 845 598;7;Action et comptes publics
+PLF 2019;Budget général;Gestion des finances publiques et des ressources humaines;148;Fonction publique;3;Appui et innovation des ressources humaines;;;4 587 866;4 587 866;7;Action et comptes publics
+PLF 2019;Budget général;Immigration, asile et intégration;303;Immigration et asile;1;Circulation des étrangers et politique des visas;;;520 000;520 000;9;Intérieur
+PLF 2019;Budget général;Immigration, asile et intégration;303;Immigration et asile;2;Garantie de l'exercice du droit d'asile;;;1 258 514 668;1 113 058 920;9;Intérieur
+PLF 2019;Budget général;Immigration, asile et intégration;303;Immigration et asile;3;Lutte contre l'immigration irrégulière;;;154 112 337;137 012 337;9;Intérieur
+PLF 2019;Budget général;Immigration, asile et intégration;303;Immigration et asile;4;Soutien;;;30 096 531;30 096 531;9;Intérieur
+PLF 2019;Budget général;Immigration, asile et intégration;104;Intégration et accès à la nationalité française;11;Accueil des étrangers primo arrivants;;;255 186 448;255 186 448;9;Intérieur
+PLF 2019;Budget général;Immigration, asile et intégration;104;Intégration et accès à la nationalité française;12;Actions d'accompagnement des étrangers en situation régulière;;;49 731 000;49 731 000;9;Intérieur
+PLF 2019;Budget général;Immigration, asile et intégration;104;Intégration et accès à la nationalité française;14;Accès à la nationalité française;;;985 975;1 039 853;9;Intérieur
+PLF 2019;Budget général;Immigration, asile et intégration;104;Intégration et accès à la nationalité française;15;Accompagnement des réfugiés;;;99 160 566;99 160 566;9;Intérieur
+PLF 2019;Budget général;Immigration, asile et intégration;104;Intégration et accès à la nationalité française;16;Accompagnement du plan de traitement des foyers de  travailleurs migrants;;;8 538 000;8 538 000;9;Intérieur
+PLF 2019;Budget général;Investissements d'avenir;421;Soutien des progrès de l'enseignement et de la recherche;1;Nouveaux cursus à l'université;;;0;12 500 000;12;Services du Premier ministre
+PLF 2019;Budget général;Investissements d'avenir;421;Soutien des progrès de l'enseignement et de la recherche;2;Programmes prioritaires de recherche;;;;35 000 000;12;Services du Premier ministre
+PLF 2019;Budget général;Investissements d'avenir;421;Soutien des progrès de l'enseignement et de la recherche;3;Équipements structurants de recherche;;;;40 000 000;12;Services du Premier ministre
+PLF 2019;Budget général;Investissements d'avenir;421;Soutien des progrès de l'enseignement et de la recherche;4;Soutien des grandes universités de recherche;;;;35 000 000;12;Services du Premier ministre
+PLF 2019;Budget général;Investissements d'avenir;421;Soutien des progrès de l'enseignement et de la recherche;5;Constitution d'écoles universitaires de recherche;;;;20 000 000;12;Services du Premier ministre
+PLF 2019;Budget général;Investissements d'avenir;421;Soutien des progrès de l'enseignement et de la recherche;6;Créations expérimentales de sociétés universitaires et scientifiques;;;;50 000 000;12;Services du Premier ministre
+PLF 2019;Budget général;Investissements d'avenir;421;Soutien des progrès de l'enseignement et de la recherche;7;Territoires d'innovation pédagogique;;;;20 000 000;12;Services du Premier ministre
+PLF 2019;Budget général;Investissements d'avenir;422;Valorisation de la recherche;1;Intégration des SATT, incubateurs et accélérateurs;;;0;10 000 000;12;Services du Premier ministre
+PLF 2019;Budget général;Investissements d'avenir;422;Valorisation de la recherche;2;"Fonds national post-maturation ""Frontier venture""";;;;0;12;Services du Premier ministre
+PLF 2019;Budget général;Investissements d'avenir;422;Valorisation de la recherche;3;Démonstrateurs et territoires d'innovation de grande ambition;;;;330 000 000;12;Services du Premier ministre
+PLF 2019;Budget général;Investissements d'avenir;422;Valorisation de la recherche;4;Nouveaux écosystèmes d'innovation;;;;15 000 000;12;Services du Premier ministre
+PLF 2019;Budget général;Investissements d'avenir;422;Valorisation de la recherche;5;Accélération du développement des écosystèmes d'innovation performants;;;;78 000 000;12;Services du Premier ministre
+PLF 2019;Budget général;Investissements d'avenir;423;Accélération de la modernisation des entreprises;1;Soutien à l'innovation collaborative;;;0;84 000 000;12;Services du Premier ministre
+PLF 2019;Budget général;Investissements d'avenir;423;Accélération de la modernisation des entreprises;2;Accompagnement et transformation des filières;;;;240 000 000;12;Services du Premier ministre
+PLF 2019;Budget général;Investissements d'avenir;423;Accélération de la modernisation des entreprises;3;Industrie du futur;;;;0;12;Services du Premier ministre
+PLF 2019;Budget général;Investissements d'avenir;423;Accélération de la modernisation des entreprises;4;Adaptation et qualification de la main d'oeuvre;;;;25 000 000;12;Services du Premier ministre
+PLF 2019;Budget général;Investissements d'avenir;423;Accélération de la modernisation des entreprises;5;Concours d'innovation;;;;55 000 000;12;Services du Premier ministre
+PLF 2019;Budget général;Investissements d'avenir;423;Accélération de la modernisation des entreprises;6;Fonds national d'amorçage n° 2;;;;0;12;Services du Premier ministre
+PLF 2019;Budget général;Investissements d'avenir;423;Accélération de la modernisation des entreprises;7;Fonds à l'internationalisation des PME;;;;0;12;Services du Premier ministre
+PLF 2019;Budget général;Investissements d'avenir;423;Accélération de la modernisation des entreprises;8;"Fonds de fonds ""Multicap Croissance"" n° 2";;;;0;12;Services du Premier ministre
+PLF 2019;Budget général;Investissements d'avenir;423;Accélération de la modernisation des entreprises;9;Grands défis;;;;0;12;Services du Premier ministre
+PLF 2019;Budget général;Justice;166;Justice judiciaire;1;Traitement et jugement des contentieux civils;;;1 014 488 919;1 014 488 919;10;Justice
+PLF 2019;Budget général;Justice;166;Justice judiciaire;2;Conduite de la politique pénale et jugement des affaires pénales;;;1 241 870 467;1 241 870 465;10;Justice
+PLF 2019;Budget général;Justice;166;Justice judiciaire;3;Cassation;;;50 628 338;50 628 338;10;Justice
+PLF 2019;Budget général;Justice;166;Justice judiciaire;5;Enregistrement des décisions judiciaires;;;12 379 745;12 379 745;10;Justice
+PLF 2019;Budget général;Justice;166;Justice judiciaire;6;Soutien;;;1 374 329 772;976 259 774;10;Justice
+PLF 2019;Budget général;Justice;166;Justice judiciaire;7;Formation;;;164 070 405;164 070 405;10;Justice
+PLF 2019;Budget général;Justice;166;Justice judiciaire;8;Support à l'accès au droit et à la justice;;;27 641 373;27 641 373;10;Justice
+PLF 2019;Budget général;Justice;107;Administration pénitentiaire;1;Garde et contrôle des personnes placées sous main de justice;;;2 118 714 041;2 317 741 792;10;Justice
+PLF 2019;Budget général;Justice;107;Administration pénitentiaire;2;Accueil et accompagnement des personnes placées sous main de justice;;;823 755 819;1 078 971 139;10;Justice
+PLF 2019;Budget général;Justice;107;Administration pénitentiaire;4;Soutien et formation;;;382 425 580;353 179 487;10;Justice
+PLF 2019;Budget général;Justice;182;Protection judiciaire de la jeunesse;1;Mise en oeuvre des décisions judiciaires;;;772 184 069;743 223 726;10;Justice
+PLF 2019;Budget général;Justice;182;Protection judiciaire de la jeunesse;3;Soutien;;;95 591 200;95 343 810;10;Justice
+PLF 2019;Budget général;Justice;182;Protection judiciaire de la jeunesse;4;Formation;;;35 892 973;36 789 055;10;Justice
+PLF 2019;Budget général;Justice;101;Accès au droit et à la justice;1;Aide juridictionnelle;;;423 716 957;423 716 957;10;Justice
+PLF 2019;Budget général;Justice;101;Accès au droit et à la justice;2;Développement de l'accès au droit et du réseau judiciaire de proximité;;;8 292 350;8 292 350;10;Justice
+PLF 2019;Budget général;Justice;101;Accès au droit et à la justice;3;Aide aux victimes;;;28 285 000;28 285 000;10;Justice
+PLF 2019;Budget général;Justice;101;Accès au droit et à la justice;4;Médiation familiale et espaces de rencontre;;;6 516 448;6 516 448;10;Justice
+PLF 2019;Budget général;Justice;101;Accès au droit et à la justice;5;Indemnisation des avoués;;;;;10;Justice
+PLF 2019;Budget général;Justice;310;Conduite et pilotage de la politique de la justice;1;État major;;;10 947 319;10 947 319;10;Justice
+PLF 2019;Budget général;Justice;310;Conduite et pilotage de la politique de la justice;2;Activité normative;;;26 283 414;26 283 414;10;Justice
+PLF 2019;Budget général;Justice;310;Conduite et pilotage de la politique de la justice;3;Évaluation, contrôle, études et recherche;;;19 841 897;20 205 712;10;Justice
+PLF 2019;Budget général;Justice;310;Conduite et pilotage de la politique de la justice;4;Gestion de l'administration centrale;;;184 199 750;140 590 398;10;Justice
+PLF 2019;Budget général;Justice;310;Conduite et pilotage de la politique de la justice;9;Action informatique ministérielle;;;166 545 183;229 047 343;10;Justice
+PLF 2019;Budget général;Justice;310;Conduite et pilotage de la politique de la justice;10;Action sociale ministérielle;;;43 303 787;43 303 787;10;Justice
+PLF 2019;Budget général;Justice;335;Conseil supérieur de la magistrature;1;Conseil supérieur de la magistrature;;;4 871 493;4 810 493;10;Justice
+PLF 2019;Budget général;Médias, livre et industries culturelles;180;Presse et médias;1;Relations financières avec l'AFP;;;133 476 239;133 476 239;2;Culture
+PLF 2019;Budget général;Médias, livre et industries culturelles;180;Presse et médias;2;Aides à la presse;;;113 478 901;113 478 901;2;Culture
+PLF 2019;Budget général;Médias, livre et industries culturelles;180;Presse et médias;5;Soutien aux médias de proximité;;;1 581 660;1 581 660;2;Culture
+PLF 2019;Budget général;Médias, livre et industries culturelles;180;Presse et médias;6;Soutien à l'expression radiophonique locale;;;30 748 639;30 748 639;2;Culture
+PLF 2019;Budget général;Médias, livre et industries culturelles;180;Presse et médias;7;Compagnie internationale de radio et télévision (CIRT);;;1 666 500;1 666 500;2;Culture
+PLF 2019;Budget général;Médias, livre et industries culturelles;334;Livre et industries culturelles;1;Livre et lecture;;;267 405 397;284 795 614;2;Culture
+PLF 2019;Budget général;Médias, livre et industries culturelles;334;Livre et industries culturelles;2;Industries culturelles;;;15 606 051;15 606 051;2;Culture
+PLF 2019;Budget général;Outre-mer;138;Emploi outre-mer;1;Soutien aux entreprises;;;1 375 447 963;1 375 447 963;44;Outre-mer
+PLF 2019;Budget général;Outre-mer;138;Emploi outre-mer;2;Aide à l'insertion et à la qualification professionnelle;;;254 212 195;257 992 917;44;Outre-mer
+PLF 2019;Budget général;Outre-mer;138;Emploi outre-mer;3;Pilotage des politiques des outre-mer;;;2 100 000;2 100 000;44;Outre-mer
+PLF 2019;Budget général;Outre-mer;138;Emploi outre-mer;4;Financement de l’économie;;;56 500 000;56 000 000;44;Outre-mer
+PLF 2019;Budget général;Outre-mer;123;Conditions de vie outre-mer;1;Logement;;;225 564 219;223 204 467;44;Outre-mer
+PLF 2019;Budget général;Outre-mer;123;Conditions de vie outre-mer;2;Aménagement  du territoire;;;188 970 970;174 227 578;44;Outre-mer
+PLF 2019;Budget général;Outre-mer;123;Conditions de vie outre-mer;3;Continuité territoriale;;;42 108 335;41 808 335;44;Outre-mer
+PLF 2019;Budget général;Outre-mer;123;Conditions de vie outre-mer;4;Sanitaire, social, culture, jeunesse et sports;;;19 591 055;21 200 000;44;Outre-mer
+PLF 2019;Budget général;Outre-mer;123;Conditions de vie outre-mer;6;Collectivités territoriales;;;261 655 550;240 413 962;44;Outre-mer
+PLF 2019;Budget général;Outre-mer;123;Conditions de vie outre-mer;7;Insertion économique et coopération régionales;;;869 500;869 500;44;Outre-mer
+PLF 2019;Budget général;Outre-mer;123;Conditions de vie outre-mer;8;Fonds exceptionnel d'investissement;;;110 000 000;65 000 000;44;Outre-mer
+PLF 2019;Budget général;Outre-mer;123;Conditions de vie outre-mer;9;Appui à l'accès aux financements bancaires;;;39 346 328;32 432 206;44;Outre-mer
+PLF 2019;Budget général;Pouvoirs publics;501;Présidence de la République;1;Présidence de la République;;;103 000 000;103 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Pouvoirs publics;511;Assemblée nationale;1;Assemblée nationale;;;517 890 000;517 890 000;7;Action et comptes publics
+PLF 2019;Budget général;Pouvoirs publics;521;Sénat;1;Sénat;;;312 227 700;312 227 700;7;Action et comptes publics
+PLF 2019;Budget général;Pouvoirs publics;521;Sénat;2;Jardin du Luxembourg;;;11 356 900;11 356 900;7;Action et comptes publics
+PLF 2019;Budget général;Pouvoirs publics;521;Sénat;3;Musée du Luxembourg;;;;;7;Action et comptes publics
+PLF 2019;Budget général;Pouvoirs publics;541;La Chaîne parlementaire;1;La Chaîne parlementaire - Assemblée nationale;;;16 641 162;16 641 162;7;Action et comptes publics
+PLF 2019;Budget général;Pouvoirs publics;541;La Chaîne parlementaire;2;Public Sénat;;;17 648 000;17 648 000;7;Action et comptes publics
+PLF 2019;Budget général;Pouvoirs publics;542;Indemnités des représentants français au Parlement européen;1;Indemnités des représentants français au Parlement européen;;;0;0;7;Action et comptes publics
+PLF 2019;Budget général;Pouvoirs publics;531;Conseil constitutionnel;1;Conseil constitutionnel;;;11 719 229;11 719 229;7;Action et comptes publics
+PLF 2019;Budget général;Pouvoirs publics;532;Haute Cour;1;Haute Cour;;;0;0;7;Action et comptes publics
+PLF 2019;Budget général;Pouvoirs publics;533;Cour de justice de la République;1;Cour de justice de la République;;;861 500;861 500;7;Action et comptes publics
+PLF 2019;Budget général;Recherche et enseignement supérieur;150;Formations supérieures et recherche universitaire;1;Formation initiale et continue du baccalauréat à la licence;;;3 285 754 637;3 285 754 637;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;150;Formations supérieures et recherche universitaire;2;Formation initiale et continue de niveau master;;;2 530 930 489;2 530 930 489;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;150;Formations supérieures et recherche universitaire;3;Formation initiale et continue de niveau doctorat;;;374 974 388;374 974 388;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;150;Formations supérieures et recherche universitaire;4;Établissements d'enseignement privés;;;81 895 852;81 895 852;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;150;Formations supérieures et recherche universitaire;5;Bibliothèques et documentation;;;449 514 632;449 514 632;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;150;Formations supérieures et recherche universitaire;13;Diffusion des savoirs et musées;;;125 360 202;125 360 202;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;150;Formations supérieures et recherche universitaire;14;Immobilier;;;1 173 231 467;1 249 361 956;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;150;Formations supérieures et recherche universitaire;15;Pilotage et support du programme;;;1 565 350 911;1 565 350 911;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;150;Formations supérieures et recherche universitaire;17;Recherche;;;3 937 904 186;3 937 904 186;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;231;Vie étudiante;1;Aides directes;;;2 259 465 190;2 259 465 190;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;231;Vie étudiante;2;Aides indirectes;;;284 739 248;286 124 448;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;231;Vie étudiante;3;Santé des étudiants et activités associatives, culturelles et sportives;;;60 636 862;60 636 862;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;231;Vie étudiante;4;Pilotage et animation du programme;;;99 752 739;99 752 739;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;1;Pilotage et animation;;;205 405 476;207 214 006;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;2;Agence nationale de la recherche;;;768 839 207;859 507 632;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;11;Recherches interdisciplinaires et transversales;;;62 657 661;62 657 661;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;12;Diffusion, valorisation et transfert des connaissances et des technologies;;;149 019 948;149 019 948;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;13;Grandes infrastructures de recherche;;;264 142 892;264 142 892;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;14;Moyens généraux et d'appui à la recherche;;;917 134 836;917 134 836;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;15;Recherches scientifiques et technologiques en sciences de la vie et de la santé;;;1 216 442 433;1 218 042 433;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;16;Recherches scientifiques et technologiques en sciences et techniques de l'information;;;982 627 219;982 627 219;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;17;Recherches scientifiques et technologiques dans le domaine de l'énergie;;;743 841 461;749 675 461;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;18;Recherches scientifiques et technologiques dans le domaine de l'environnement;;;1 122 946 496;1 122 946 496;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;19;Recherches scientifiques et technologiques en sciences humaines et sciences sociales;;;405 109 906;405 109 906;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;193;Recherche spatiale;1;Développement de la technologie spatiale au service de la science;;;230 501 044;230 501 044;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;193;Recherche spatiale;2;Développement de la technologie spatiale au service de l'observation de la terre;;;326 552 423;326 552 423;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;193;Recherche spatiale;3;Développement de la technologie spatiale au service de la recherche en sciences de l'information et de la communication;;;156 225 426;156 225 426;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;193;Recherche spatiale;4;Maîtrise de l'accès à l'espace;;;673 876 954;673 876 954;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;193;Recherche spatiale;5;Maîtrise des technologies orbitales et de l'innovation technologique;;;267 751 670;267 751 670;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;193;Recherche spatiale;6;Moyens généraux et d'appui à la recherche;;;86 647 222;86 647 222;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;193;Recherche spatiale;7;Développement des satellites de météorologie;;;81 458 051;81 458 051;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;11;Recherche dans le domaine des risques;1;Institut national de l'environnement industriel et des risques (INERIS);6 373 110;6 373 110;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;11;Recherche dans le domaine des risques;2;Institut de radioprotection et de sûreté nucléaire (IRSN);171 633 190;171 633 190;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;12;Recherche dans le domaine des transports, de la construction et de l'aménagement;1;Institut français des sciences et technologies des transports, de l’aménagement et des réseaux (IFSTTAR);87 880 707;87 880 707;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;12;Recherche dans le domaine des transports, de la construction et de l'aménagement;3;Centre scientifique et technique du bâtiment (CSTB);14 545 140;14 545 140;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;13;Recherche partenariale dans le développement et l'aménagement durable;1;Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES);1 551 198;1 551 198;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;13;Recherche partenariale dans le développement et l'aménagement durable;2;Agence de l'environnement et de la maîtrise de l'énergie (ADEME);0;0;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;13;Recherche partenariale dans le développement et l'aménagement durable;4;Recherche en matière de transport (PREDIT);0;321 912;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;13;Recherche partenariale dans le développement et l'aménagement durable;5;Construction (PREBAT, C2D2, RGCU);0;92 033;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;13;Recherche partenariale dans le développement et l'aménagement durable;6;Urbanisme et territoire (PUCA, MUTS);0;373 378;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;13;Recherche partenariale dans le développement et l'aménagement durable;7;Changement global (GMES, adaptation au changement climatique);0;251 224;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;13;Recherche partenariale dans le développement et l'aménagement durable;8;Risque, santé, environnement;0;590 248;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;13;Recherche partenariale dans le développement et l'aménagement durable;9;Biodiversité;0;232 949;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;13;Recherche partenariale dans le développement et l'aménagement durable;10;Innovation et prospective dans le domaine du développement et de l'aménagement durable;0;138 256;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;14;Recherche et développement dans le domaine de l'aéronautique civile;1;Recherches en amont;120 000 000;74 035 059;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;14;Recherche et développement dans le domaine de l'aéronautique civile;2;Subventions à des organismes de recherche;0;0;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;14;Recherche et développement dans le domaine de l'aéronautique civile;3;Equipementier;15 000 000;18 628 625;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;14;Recherche et développement dans le domaine de l'aéronautique civile;4;Avions;0;0;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;14;Recherche et développement dans le domaine de l'aéronautique civile;5;Moteurs;0;0;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;14;Recherche et développement dans le domaine de l'aéronautique civile;6;Hélicoptères;0;0;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;15;Charges nucléaires de long terme des installations du CEA;;;740 000 000;740 000 000;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;16;Recherche dans le domaine de l'énergie nucléaire;1;Soutien aux activités nucléaires du CEA;432 869 182;432 869 182;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;16;Recherche dans le domaine de l'énergie nucléaire;2;Gestion des matières et déchets radioactifs-CNE-reprise des ressources;500 000;500 000;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;17;Recherche dans le domaine des nouvelles technologies de l'énergie;1;Soutien aux nouvelles technologies de l'énergie (CEA);51 000 000;51 000 000;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;17;Recherche dans le domaine des nouvelles technologies de l'énergie;2;Soutien aux nouvelles technologies de l'énergie (IFPEN);125 939 936;125 939 936;23;Transition écologique et solidaire
+PLF 2019;Budget général;Recherche et enseignement supérieur;192;Recherche et enseignement supérieur en matière économique et industrielle;1;Organismes de formation supérieure et de recherche;;;323 255 951;323 255 951;21;Économie et finances
+PLF 2019;Budget général;Recherche et enseignement supérieur;192;Recherche et enseignement supérieur en matière économique et industrielle;2;Soutien et diffusion de l'innovation technologique;;;341 700 392;341 700 392;21;Économie et finances
+PLF 2019;Budget général;Recherche et enseignement supérieur;192;Recherche et enseignement supérieur en matière économique et industrielle;3;Soutien de la recherche industrielle stratégique;;;13 500 000;68 859 967;21;Économie et finances
+PLF 2019;Budget général;Recherche et enseignement supérieur;191;Recherche duale (civile et militaire);1;Recherche duale en sciences du vivant;;;7 850 566;7 850 566;70;Armées
+PLF 2019;Budget général;Recherche et enseignement supérieur;191;Recherche duale (civile et militaire);2;Recherche duale en sciences et techniques de l'information et de la communication;;;8 891 343;8 891 343;70;Armées
+PLF 2019;Budget général;Recherche et enseignement supérieur;191;Recherche duale (civile et militaire);3;Recherche duale dans le domaine aérospatial;;;150 201 136;150 201 136;70;Armées
+PLF 2019;Budget général;Recherche et enseignement supérieur;191;Recherche duale (civile et militaire);4;Autres recherches et développements technologiques duaux;;;12 576 122;12 576 122;70;Armées
+PLF 2019;Budget général;Recherche et enseignement supérieur;186;Recherche culturelle et culture scientifique;1;Recherche culturelle;;;11 066 933;10 290 241;2;Culture
+PLF 2019;Budget général;Recherche et enseignement supérieur;186;Recherche culturelle et culture scientifique;3;Culture scientifique et technique;;;99 691 732;99 691 732;2;Culture
+PLF 2019;Budget général;Recherche et enseignement supérieur;142;Enseignement supérieur et recherche agricoles;1;Enseignement supérieur;;;314 799 386;315 662 107;3;Agriculture et alimentation
+PLF 2019;Budget général;Recherche et enseignement supérieur;142;Enseignement supérieur et recherche agricoles;2;Recherche, développement et transfert de technologie;;;37 253 851;37 253 851;3;Agriculture et alimentation
+PLF 2019;Budget général;Régimes sociaux et de retraite;198;Régimes sociaux et de retraite des transports terrestres;3;Régime de retraite du personnel de la SNCF;;;3 303 048 089;3 303 048 089;23;Transition écologique et solidaire
+PLF 2019;Budget général;Régimes sociaux et de retraite;198;Régimes sociaux et de retraite des transports terrestres;4;Régime de retraite du personnel de la RATP;;;736 202 666;736 202 666;23;Transition écologique et solidaire
+PLF 2019;Budget général;Régimes sociaux et de retraite;198;Régimes sociaux et de retraite des transports terrestres;5;Autres régimes;;;124 242 045;124 242 045;23;Transition écologique et solidaire
+PLF 2019;Budget général;Régimes sociaux et de retraite;197;Régimes de retraite et de sécurité sociale des marins;1;Régimes de retraite et de sécurité sociale des marins;;;815 697 600;815 697 600;23;Transition écologique et solidaire
+PLF 2019;Budget général;Régimes sociaux et de retraite;195;Régimes de retraite des mines, de la SEITA et divers;1;Versements au fonds spécial de retraite de la caisse autonome nationale de sécurité sociale dans les mines;;;1 101 475 046;1 101 475 046;7;Action et comptes publics
+PLF 2019;Budget général;Régimes sociaux et de retraite;195;Régimes de retraite des mines, de la SEITA et divers;2;Régime de retraite de la SEITA;;;146 914 555;146 914 555;7;Action et comptes publics
+PLF 2019;Budget général;Régimes sociaux et de retraite;195;Régimes de retraite des mines, de la SEITA et divers;4;Caisse des retraites des régies ferroviaires d'outre-mer;;;1 620 352;1 620 352;7;Action et comptes publics
+PLF 2019;Budget général;Régimes sociaux et de retraite;195;Régimes de retraite des mines, de la SEITA et divers;7;Versements liés à la liquidation de l'ORTF;;;140 000;140 000;7;Action et comptes publics
+PLF 2019;Budget général;Régimes sociaux et de retraite;195;Régimes de retraite des mines, de la SEITA et divers;11;Régime de retraite complémentaire des exploitants agricoles (RCO);;;55 000 000;55 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Relations avec les collectivités territoriales;119;Concours financiers aux collectivités territoriales et à leurs groupements;1;Soutien aux projets des communes et groupements de communes;;;1 810 279 990;1 465 798 687;9;Intérieur
+PLF 2019;Budget général;Relations avec les collectivités territoriales;119;Concours financiers aux collectivités territoriales et à leurs groupements;2;Dotation générale de décentralisation des communes;;;130 308 258;130 308 258;9;Intérieur
+PLF 2019;Budget général;Relations avec les collectivités territoriales;119;Concours financiers aux collectivités territoriales et à leurs groupements;3;Soutien aux projets des départements et des régions;;;295 855 969;149 177 834;9;Intérieur
+PLF 2019;Budget général;Relations avec les collectivités territoriales;119;Concours financiers aux collectivités territoriales et à leurs groupements;4;Dotation générale de décentralisation des départements;;;265 431 439;265 431 439;9;Intérieur
+PLF 2019;Budget général;Relations avec les collectivités territoriales;119;Concours financiers aux collectivités territoriales et à leurs groupements;5;Dotation générale de décentralisation des régions;;;913 730 621;913 730 621;9;Intérieur
+PLF 2019;Budget général;Relations avec les collectivités territoriales;119;Concours financiers aux collectivités territoriales et à leurs groupements;6;Dotation générale de décentralisation concours particuliers;;;236 077 587;236 077 587;9;Intérieur
+PLF 2019;Budget général;Relations avec les collectivités territoriales;119;Concours financiers aux collectivités territoriales et à leurs groupements;7;Soutien à l'investissement - Part métropoles;;;;;9;Intérieur
+PLF 2019;Budget général;Relations avec les collectivités territoriales;122;Concours spécifiques et administration;1;Aides exceptionnelles aux collectivités territoriales;;;94 000 000;128 701 659;9;Intérieur
+PLF 2019;Budget général;Relations avec les collectivités territoriales;122;Concours spécifiques et administration;2;Administration des relations avec les collectivités territoriales;;;2 863 826;2 917 151;9;Intérieur
+PLF 2019;Budget général;Relations avec les collectivités territoriales;122;Concours spécifiques et administration;4;Dotations Outre-Mer;;;141 215 809;141 215 809;9;Intérieur
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);11;Remboursements et restitutions liés à la mécanique de l'impôt;1;Impôts sur les sociétés;16 465 799 000;16 465 799 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);11;Remboursements et restitutions liés à la mécanique de l'impôt;2;Taxe sur la valeur ajoutée;53 522 933 000;53 522 933 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);11;Remboursements et restitutions liés à la mécanique de l'impôt;3;Plafonnement des impositions directes;0;0;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);11;Remboursements et restitutions liés à la mécanique de l'impôt;4;Autres remboursements et dégrèvements liés à la mécanique de l’impôt;203 622 000;203 622 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);11;Remboursements et restitutions liés à la mécanique de l'impôt;5;Impôt sur le revenu;100 000 000;100 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);12;Remboursements et dégrèvements liées à des politiques publiques;2;Impôt sur le revenu;8 933 000 000;8 933 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);12;Remboursements et dégrèvements liées à des politiques publiques;3;Impôt sur les sociétés;16 078 324 000;16 078 324 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);12;Remboursements et dégrèvements liées à des politiques publiques;4;Taxe intérieure sur les produits pétroliers;2 100 000 000;2 100 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);12;Remboursements et dégrèvements liées à des politiques publiques;5;Taxe intérieure de consommation sur le gaz naturel;2 000 000;2 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);12;Remboursements et dégrèvements liées à des politiques publiques;6;Contribution pour l'audiovisuel public;552 000 000;552 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);12;Remboursements et dégrèvements liées à des politiques publiques;7;Prélèvement sur le produit des jeux;;;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);12;Remboursements et dégrèvements liées à des politiques publiques;8;Acomptes de crédits et de réductions d'impôts sur le revenu;5 513 000 000;5 513 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;1;Impôts sur le revenu - Dégrèvements et restitution de sommes indûment perçues;1 835 000 000;1 835 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;2;Impôts sur les sociétés - Dégrèvements et restitution de sommes indûment perçues;1 432 068 000;1 432 068 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;3;Autres impôts directs et taxes assimilées - Dégrèvements et restitution de sommes indûment perçues;2 200 000 000;2 200 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;4;Taxe sur la valeur ajoutée - Dégrèvements et restitution de sommes indûment perçues;2 415 904 000;2 415 904 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;5;Enregistrement, timbre, autres contributions et taxes indirectes - Dégrèvements et restitution de sommes indûment perçues;1 000 000 000;1 000 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;6;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat;710 000 000;710 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;7;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Admissions en non valeur - Créances liées aux impôts;1 916 000 000;1 916 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;8;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;750 000 000;750 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;13;Prélèvement à la source (PAS) : dégrèvements et restitutions;100 000 000;100 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;201;Remboursements et dégrèvements d'impôts locaux (crédits évaluatifs);1;Taxe professionnelle et contribution économique territoriale  et autres impôts économiques créés ou modifiés dans le cadre de la réforme de la taxe professionnelle;;;6 297 000 000;6 297 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;201;Remboursements et dégrèvements d'impôts locaux (crédits évaluatifs);2;Taxes foncières;;;1 594 000 000;1 594 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;201;Remboursements et dégrèvements d'impôts locaux (crédits évaluatifs);3;Taxe d'habitation;;;11 454 000 000;11 454 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Remboursements et dégrèvements;201;Remboursements et dégrèvements d'impôts locaux (crédits évaluatifs);4;Admission en non valeur d'impôts locaux;;;513 000 000;513 000 000;7;Action et comptes publics
+PLF 2019;Budget général;Santé;204;Prévention, sécurité sanitaire et offre de soins;11;Pilotage de la politique de santé publique;;;243 941 606;242 941 606;56;Solidarités et santé
+PLF 2019;Budget général;Santé;204;Prévention, sécurité sanitaire et offre de soins;12;Santé des populations;;;1 010 000;1 010 000;56;Solidarités et santé
+PLF 2019;Budget général;Santé;204;Prévention, sécurité sanitaire et offre de soins;14;Prévention des maladies chroniques et qualité de vie des malades;;;52 465 399;53 465 399;56;Solidarités et santé
+PLF 2019;Budget général;Santé;204;Prévention, sécurité sanitaire et offre de soins;15;Prévention des risques liés à l'environnement et à l'alimentation;;;18 099 747;18 099 747;56;Solidarités et santé
+PLF 2019;Budget général;Santé;204;Prévention, sécurité sanitaire et offre de soins;16;Veille et sécurité sanitaire;;;1 610 000;1 610 000;56;Solidarités et santé
+PLF 2019;Budget général;Santé;204;Prévention, sécurité sanitaire et offre de soins;17;Politique des produits de santé et de la qualité des pratiques et des soins;;;121 492 898;121 492 898;56;Solidarités et santé
+PLF 2019;Budget général;Santé;204;Prévention, sécurité sanitaire et offre de soins;18;Projets régionaux de santé;;;;;56;Solidarités et santé
+PLF 2019;Budget général;Santé;204;Prévention, sécurité sanitaire et offre de soins;19;Modernisation de l'offre de soins;;;40 693 802;41 993 802;56;Solidarités et santé
+PLF 2019;Budget général;Santé;183;Protection maladie;2;Aide médicale de l'Etat;;;934 900 000;934 900 000;56;Solidarités et santé
+PLF 2019;Budget général;Santé;183;Protection maladie;3;Fonds d'indemnisation des victimes de l'amiante;;;8 000 000;8 000 000;56;Solidarités et santé
+PLF 2019;Budget général;Sécurités;176;Police nationale;1;Ordre public et protection de la souveraineté;1;Ordre public et protection de la souveraineté - Administration centrale et cabinets;57 459 966;57 459 966;9;Intérieur
+PLF 2019;Budget général;Sécurités;176;Police nationale;1;Ordre public et protection de la souveraineté;2;Ordre public et protection de la souveraineté - Hors administration centrale et cabinets;1 175 586 522;1 175 586 522;9;Intérieur
+PLF 2019;Budget général;Sécurités;176;Police nationale;2;Sécurité et paix publiques;1;Sécurité et paix publiques - Administration centrale et cabinets;146 007 319;146 007 319;9;Intérieur
+PLF 2019;Budget général;Sécurités;176;Police nationale;2;Sécurité et paix publiques;2;Sécurité et paix publiques - Hors administration centrale et cabinet;2 983 773 955;2 983 773 955;9;Intérieur
+PLF 2019;Budget général;Sécurités;176;Police nationale;3;Sécurité routière;1;Sécurité routière  - Administration centrale et cabinet;22 062 961;22 062 961;9;Intérieur
+PLF 2019;Budget général;Sécurités;176;Police nationale;3;Sécurité routière;2;Sécurité routière - Hors administration centrale et cabinets;451 391 123;451 391 123;9;Intérieur
+PLF 2019;Budget général;Sécurités;176;Police nationale;4;Police des étrangers et sûreté des transports internationaux;3;Autres actions relatives à la police des étrangers et à la sureté des transports internationaux - Administration centrale et cabinets;42 557 615;42 557 615;9;Intérieur
+PLF 2019;Budget général;Sécurités;176;Police nationale;4;Police des étrangers et sûreté des transports internationaux;4;Autres actions relatives à la police des étrangers et à la sureté des transports internationaux - Hors administration centrale et cabinets;870 695 923;870 695 923;9;Intérieur
+PLF 2019;Budget général;Sécurités;176;Police nationale;5;Missions de police judiciaire et concours à la justice;1;Missions de police judiciaire et concours à la justice - Administration centrale et cabinets;134 213 969;134 213 969;9;Intérieur
+PLF 2019;Budget général;Sécurités;176;Police nationale;5;Missions de police judiciaire et concours à la justice;2;Missions de police judiciaire et concours à la justice - Hors administration centrale et cabinets;2 742 491 109;2 742 491 109;9;Intérieur
+PLF 2019;Budget général;Sécurités;176;Police nationale;6;Commandement, ressources humaines et logistique;1;Formation;19 014 314;19 014 314;9;Intérieur
+PLF 2019;Budget général;Sécurités;176;Police nationale;6;Commandement, ressources humaines et logistique;2;Action sociale;24 627 486;24 627 486;9;Intérieur
+PLF 2019;Budget général;Sécurités;176;Police nationale;6;Commandement, ressources humaines et logistique;3;Immobilier;165 467 000;161 996 876;9;Intérieur
+PLF 2019;Budget général;Sécurités;176;Police nationale;6;Commandement, ressources humaines et logistique;4;Système d'information et de communication : ACROPOL;38 783 951;38 493 581;9;Intérieur
+PLF 2019;Budget général;Sécurités;176;Police nationale;6;Commandement, ressources humaines et logistique;5;Système d'information et de communication : hors ACROPOL;85 773 435;72 654 893;9;Intérieur
+PLF 2019;Budget général;Sécurités;176;Police nationale;6;Commandement, ressources humaines et logistique;7;Soutien (autres dépenses);1 937 646 504;1 739 580 954;9;Intérieur
+PLF 2019;Budget général;Sécurités;176;Police nationale;6;Commandement, ressources humaines et logistique;8;Soutien (autres dépenses) - Administration centrale et cabinets;44 894 004;44 894 004;9;Intérieur
+PLF 2019;Budget général;Sécurités;152;Gendarmerie nationale;1;Ordre et sécurité publics;1;Ordre et sécurité publics - hors administration centrale et cabinet;3 437 916 670;3 437 916 670;9;Intérieur
+PLF 2019;Budget général;Sécurités;152;Gendarmerie nationale;1;Ordre et sécurité publics;2;Ordre et sécurité publics -  administration centrale et cabinet;12 321 514;12 321 514;9;Intérieur
+PLF 2019;Budget général;Sécurités;152;Gendarmerie nationale;2;Sécurité routière;1;Sécurité routière - hors administration centrale et cabinet;745 762 490;745 762 490;9;Intérieur
+PLF 2019;Budget général;Sécurités;152;Gendarmerie nationale;2;Sécurité routière;2;Sécurité routière - administration centrale et cabinet;361 021;361 021;9;Intérieur
+PLF 2019;Budget général;Sécurités;152;Gendarmerie nationale;3;Missions de police judiciaire et concours à la justice;1;Missions de police judiciaire et concours à la justice - hors administration centrale et cabinet;2 071 331 400;2 071 331 400;9;Intérieur
+PLF 2019;Budget général;Sécurités;152;Gendarmerie nationale;3;Missions de police judiciaire et concours à la justice;2;Missions de police judiciaire et concours à la justice - administration centrale et cabinet;10 075 326;10 075 326;9;Intérieur
+PLF 2019;Budget général;Sécurités;152;Gendarmerie nationale;4;Commandement, ressources humaines et logistique;1;Commandement, ressources humaines et logistique;2 920 401 433;2 230 182 995;9;Intérieur
+PLF 2019;Budget général;Sécurités;152;Gendarmerie nationale;4;Commandement, ressources humaines et logistique;2;Commandement, ressources humaines et logistique - administration centrale et cabinet;161 446 883;161 446 883;9;Intérieur
+PLF 2019;Budget général;Sécurités;152;Gendarmerie nationale;5;Exercice des missions militaires;1;Exercice des missions militaires - hors administration centrale et cabinet;134 893 325;134 893 325;9;Intérieur
+PLF 2019;Budget général;Sécurités;152;Gendarmerie nationale;5;Exercice des missions militaires;2;Exercice des missions militaires - administration centrale et cabinet;1 153 825;1 153 825;9;Intérieur
+PLF 2019;Budget général;Sécurités;207;Sécurité et éducation routières;1;Observation, prospective, réglementation et soutien au programme;;;3 224 988;3 224 988;9;Intérieur
+PLF 2019;Budget général;Sécurités;207;Sécurité et éducation routières;2;Démarches interministérielles et communication;;;16 290 530;16 290 530;9;Intérieur
+PLF 2019;Budget général;Sécurités;207;Sécurité et éducation routières;3;Éducation routière;;;22 947 052;21 851 450;9;Intérieur
+PLF 2019;Budget général;Sécurités;161;Sécurité civile;11;Prévention et gestion de crises;;;53 869 074;35 669 074;9;Intérieur
+PLF 2019;Budget général;Sécurités;161;Sécurité civile;12;Préparation et interventions spécialisées des moyens nationaux;;;241 572 936;339 991 474;9;Intérieur
+PLF 2019;Budget général;Sécurités;161;Sécurité civile;13;Soutien aux acteurs de la sécurité civile;;;151 510 440;150 239 009;9;Intérieur
+PLF 2019;Budget général;Sécurités;161;Sécurité civile;14;Fonctionnement, soutien et logistique;;;12 477 953;12 877 953;9;Intérieur
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;304;Inclusion sociale et protection des personnes;11;Prime d'activité et autres dispositifs;;;6 643 702 823;6 643 702 823;56;Solidarités et santé
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;304;Inclusion sociale et protection des personnes;13;Ingénierie, outils de la gouvernance et expérimentations;;;676 511;676 511;56;Solidarités et santé
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;304;Inclusion sociale et protection des personnes;14;Aide alimentaire;;;51 558 566;51 558 566;56;Solidarités et santé
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;304;Inclusion sociale et protection des personnes;15;Qualification en travail social;;;5 659 277;5 659 277;56;Solidarités et santé
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;304;Inclusion sociale et protection des personnes;16;Protection juridique des majeurs;;;668 261 317;668 261 317;56;Solidarités et santé
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;304;Inclusion sociale et protection des personnes;17;Protection et accompagnement des enfants, des jeunes et des familles vulnérables;;;156 101 955;156 101 955;56;Solidarités et santé
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;304;Inclusion sociale et protection des personnes;18;Aide à la réinsertion familiale et sociale des anciens migrants dans leur pays d’origine (ARFS);;;200 000;200 000;56;Solidarités et santé
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;304;Inclusion sociale et protection des personnes;19;Stratégie interministérielle de Prévention et de Lutte contre la Pauvreté des Enfants et des Jeunes;;;171 000 000;171 000 000;56;Solidarités et santé
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;157;Handicap et dépendance;12;Allocations et aides en faveur des personnes handicapées;;;11 897 522 306;11 897 522 306;12;Services du Premier ministre
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;157;Handicap et dépendance;13;Pilotage du programme et animation des politiques inclusives;;;25 757 928;25 757 928;12;Services du Premier ministre
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;137;Égalité entre les femmes et les hommes;21;Politiques publiques - Accès au droit;;;22 412 048;22 412 048;12;Services du Premier ministre
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;137;Égalité entre les femmes et les hommes;22;Partenariats et innovations;;;5 899 426;5 899 426;12;Services du Premier ministre
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;137;Égalité entre les femmes et les hommes;23;Soutien du programme égalité entre les femmes et les hommes;;;1 560 107;1 560 107;12;Services du Premier ministre
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;10;Fonctionnement des services;;;17 241 374;17 375 981;56;Solidarités et santé
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;11;Systèmes d'information;;;48 597 690;47 277 011;56;Solidarités et santé
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;12;Affaires immobilières;;;39 466 746;63 283 494;56;Solidarités et santé
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;14;Communication;;;5 629 562;5 629 562;56;Solidarités et santé
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;15;Affaires européennes et internationales;;;5 185 559;5 185 559;56;Solidarités et santé
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;16;Statistiques, études et recherche;;;9 360 138;9 360 138;56;Solidarités et santé
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;17;Financement des agences régionales de santé;;;591 028 018;591 028 018;56;Solidarités et santé
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;18;Personnels mettant en oeuvre les politiques sociales et de la santé;;;227 103 159;227 103 159;56;Solidarités et santé
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;19;Personnels mettant en oeuvre les politiques du sport, de la jeunesse, de l'éducation populaire et de la vie associative;;;294 092 956;294 092 956;56;Solidarités et santé
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;20;Personnels mettant en oeuvre les politiques pour les droits des femmes;;;14 220 151;14 220 151;56;Solidarités et santé
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;21;Personnels mettant en œuvre les politiques de la ville, du logement et de l'hébergement;;;48 564 215;48 564 215;56;Solidarités et santé
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;22;Personnels transversaux et de soutien;;;135 037 743;135 037 743;56;Solidarités et santé
+PLF 2019;Budget général;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;23;Politique des ressources humaines;;;22 961 571;23 007 257;56;Solidarités et santé
+PLF 2019;Budget général;Sport, jeunesse et vie associative;219;Sport;1;Promotion du sport pour le plus grand nombre;;;50 057 449;49 453 849;52;Sports
+PLF 2019;Budget général;Sport, jeunesse et vie associative;219;Sport;2;Développement du sport de haut niveau;;;230 795 674;219 475 239;52;Sports
+PLF 2019;Budget général;Sport, jeunesse et vie associative;219;Sport;3;Prévention par le sport et protection des sportifs;;;20 280 125;20 280 125;52;Sports
+PLF 2019;Budget général;Sport, jeunesse et vie associative;219;Sport;4;Promotion des métiers du sport;;;29 992 877;29 992 877;52;Sports
+PLF 2019;Budget général;Sport, jeunesse et vie associative;163;Jeunesse et vie associative;1;Développement de la vie associative;;;45 518 360;45 518 360;6;Éducation nationale
+PLF 2019;Budget général;Sport, jeunesse et vie associative;163;Jeunesse et vie associative;2;Actions en faveur de la jeunesse et de l'éducation populaire;;;71 811 938;71 811 938;6;Éducation nationale
+PLF 2019;Budget général;Sport, jeunesse et vie associative;163;Jeunesse et vie associative;4;Développement du service civique;;;496 996 118;496 996 118;6;Éducation nationale
+PLF 2019;Budget général;Sport, jeunesse et vie associative;350;Jeux olympiques et paralympiques 2024;1;Société de livraison des ouvrages olympiques et paralympiques;;;238 000 000;65 250 000;52;Sports
+PLF 2019;Budget général;Sport, jeunesse et vie associative;350;Jeux olympiques et paralympiques 2024;2;Comité d'organisation des jeux olympiques et paralympiques;;;;;52;Sports
+PLF 2019;Budget général;Sport, jeunesse et vie associative;350;Jeux olympiques et paralympiques 2024;3;Haute performance des jeux olympiques et paralympiques;;;;;52;Sports
+PLF 2019;Budget général;Sport, jeunesse et vie associative;350;Jeux olympiques et paralympiques 2024;4;Héritage des jeux olympiques et paralympiques;;;;;52;Sports
+PLF 2019;Budget général;Travail et emploi;102;Accès et retour à l'emploi;1;Amélioration de l’efficacité du service public de l’emploi;1;Indemnisation des demandeurs d'emploi;2 224 725 100;2 224 725 100;36;Travail
+PLF 2019;Budget général;Travail et emploi;102;Accès et retour à l'emploi;1;Amélioration de l’efficacité du service public de l’emploi;2;Coordination du service public de l'emploi;1 372 697 500;1 372 697 500;36;Travail
+PLF 2019;Budget général;Travail et emploi;102;Accès et retour à l'emploi;2;Amélioration des dispositifs en faveur de l’emploi des personnes les plus éloignées du marché du travail;1;Insertion dans l'emploi au moyen de contrats aidés;477 958 819;648 509 374;36;Travail
+PLF 2019;Budget général;Travail et emploi;102;Accès et retour à l'emploi;2;Amélioration des dispositifs en faveur de l’emploi des personnes les plus éloignées du marché du travail;2;Accompagnement des publics les plus en difficultés;1 624 531 510;1 624 531 510;36;Travail
+PLF 2019;Budget général;Travail et emploi;102;Accès et retour à l'emploi;3;Plan d'investissement des compétences;;;586 243 947;579 325 267;36;Travail
+PLF 2019;Budget général;Travail et emploi;103;Accompagnement des mutations économiques et développement de l'emploi;1;Anticipation et accompagnement des conséquences des mutations économiques sur l'emploi;1;Développement de l’emploi en TPE-PME;288 072 622;219 526 383;36;Travail
+PLF 2019;Budget général;Travail et emploi;103;Accompagnement des mutations économiques et développement de l'emploi;1;Anticipation et accompagnement des conséquences des mutations économiques sur l'emploi;2;Implication des branches et des entreprises dans la prévention du licenciement et le reclassement des salariés;171 649 670;199 277 221;36;Travail
+PLF 2019;Budget général;Travail et emploi;103;Accompagnement des mutations économiques et développement de l'emploi;2;Amélioration de l'insertion dans l'emploi par l'adaptation des qualifications et la reconnaissance des compétences;3;Reconnaissance des compétences acquises par les personnes;1 000 000;1 000 000;36;Travail
+PLF 2019;Budget général;Travail et emploi;103;Accompagnement des mutations économiques et développement de l'emploi;2;Amélioration de l'insertion dans l'emploi par l'adaptation des qualifications et la reconnaissance des compétences;4;Amélioration de l'accès à la qualification par le développement de l'alternance et de la certification;1 652 854 111;1 022 462 602;36;Travail
+PLF 2019;Budget général;Travail et emploi;103;Accompagnement des mutations économiques et développement de l'emploi;3;Développement de l'emploi;1;Baisse du coût du travail pour faciliter le développement de territoires et de secteurs à forts potentiels d'emploi;2 801 613 855;2 801 613 855;36;Travail
+PLF 2019;Budget général;Travail et emploi;103;Accompagnement des mutations économiques et développement de l'emploi;3;Développement de l'emploi;2;Promotion de l'activité;577 467 803;557 175 403;36;Travail
+PLF 2019;Budget général;Travail et emploi;103;Accompagnement des mutations économiques et développement de l'emploi;4;Plan d'investissement des compétences;;;848 669 179;387 707 859;36;Travail
+PLF 2019;Budget général;Travail et emploi;111;Amélioration de la qualité de l'emploi et des relations du travail;1;Santé et sécurité au travail;;;24 125 000;24 425 000;36;Travail
+PLF 2019;Budget général;Travail et emploi;111;Amélioration de la qualité de l'emploi et des relations du travail;2;Qualité et effectivité du droit;;;21 202 000;21 202 000;36;Travail
+PLF 2019;Budget général;Travail et emploi;111;Amélioration de la qualité de l'emploi et des relations du travail;3;Dialogue social et démocratie sociale;;;11 728 266;42 447 570;36;Travail
+PLF 2019;Budget général;Travail et emploi;111;Amélioration de la qualité de l'emploi et des relations du travail;4;Lutte contre le travail illégal;;;;;36;Travail
+PLF 2019;Budget général;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;7;Fonds social européen - Assistance technique;;;;;36;Travail
+PLF 2019;Budget général;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;8;Fonctionnement des services;;;5 598 704;3 549 711;36;Travail
+PLF 2019;Budget général;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;9;Systèmes d'information;;;17 594 735;17 594 735;36;Travail
+PLF 2019;Budget général;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;10;Affaires immobilières;;;2 338 591;4 041 419;36;Travail
+PLF 2019;Budget général;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;11;Communication;;;7 436 380;7 509 758;36;Travail
+PLF 2019;Budget général;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;12;Etudes, statistiques évaluation et recherche;;;14 653 722;14 257 508;36;Travail
+PLF 2019;Budget général;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;13;Politique des ressources humaines;;;28 814 585;27 882 138;36;Travail
+PLF 2019;Budget général;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;14;Personnels mettant en oeuvre les politiques d'accès et retour à l'emploi;;;72 085 906;72 085 906;36;Travail
+PLF 2019;Budget général;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;15;Personnels mettant en oeuvre les politiques d'accompagnement des mutations économiques et développement de l'emploi;;;85 833 693;85 833 693;36;Travail
+PLF 2019;Budget général;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;16;Personnels mettant en oeuvre les politiques d'amélioration de la qualité de l'emploi et des relations du travail;;;333 271 905;333 271 905;36;Travail
+PLF 2019;Budget général;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;17;Personnels de statistiques, études et recherche;;;21 752 975;21 752 975;36;Travail
+PLF 2019;Budget général;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;18;Personnels transversaux et de soutien;;;101 512 491;101 512 491;36;Travail
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;
+;;;;;;;;;;;;

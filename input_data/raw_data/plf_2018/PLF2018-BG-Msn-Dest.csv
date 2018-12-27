@@ -1,0 +1,773 @@
+GESTION;2018;;;;;;;;
+TYPE BUDGET;Budget général;;;;;;;;
+;;;;;;Données;;;
+Mission;Programme;Action;Libellé action;Sous-action;Libellé SSA;AELF 2017;AEPLF; CPLF 2017; CPPLF
+Action et transformation publiques;348;11;Etudes;;;;20 000 000;;20 000 000
+Action et transformation publiques;348;12;Travaux et gros entretien à la charge du propriétaire;;;;;;
+Action et transformation publiques;348;13;Acquisitions, construction;;;;;;
+Action et transformation publiques;349;01;Fonds pour la transformation de l’action publique;;;;200 000 000;;0
+Action extérieure de l'État;105;01;Coordination de l'action diplomatique;;;85 975 513;90 003 801;85 975 513;90 003 801
+Action extérieure de l'État;105;02;Action européenne;;;51 344 051;52 216 276;51 344 051;52 216 276
+Action extérieure de l'État;105;04;Contributions internationales;;;769 297 298;757 561 767;769 297 298;757 561 767
+Action extérieure de l'État;105;05;Coopération de sécurité et de défense;;;105 442 021;102 298 705;105 442 021;102 298 705
+Action extérieure de l'État;105;06;Soutien;;;233 086 951;250 560 416;238 224 915;253 984 038
+Action extérieure de l'État;105;07;Réseau diplomatique;;;654 211 696;646 920 719;652 755 696;646 461 988
+Action extérieure de l'État;151;01;Offre d'un service public de qualité aux Français à l'étranger;;;224 118 186;207 028 297;224 118 186;207 028 297
+Action extérieure de l'État;151;02;Accès des élèves français au réseau AEFE;;;110 030 500;110 000 000;110 030 500;110 000 000
+Action extérieure de l'État;151;03;Instruction des demandes de visa;;;53 129 716;51 409 400;53 129 716;51 409 400
+Action extérieure de l'État;185;01;Appui au réseau;;;43 478 914;43 017 823;43 478 914;43 017 823
+Action extérieure de l'État;185;02;Coopération culturelle et promotion du français;;;65 654 853;62 409 998;65 654 853;62 409 998
+Action extérieure de l'État;185;03;Objectifs de développement durable;;;5 754 772;5 668 170;5 754 772;5 668 170
+Action extérieure de l'État;185;04;Enseignement supérieur et recherche;;;95 202 448;102 048 610;95 202 448;102 048 610
+Action extérieure de l'État;185;05;Agence pour l'enseignement français à l'étranger;;;396 674 393;398 706 841;396 674 393;398 706 841
+Action extérieure de l'État;185;06;"Dépenses de personnel concourant au programme ""Diplomatie culturelle et d'influence""";;;75 575 658;72 967 171;75 575 658;72 967 171
+Action extérieure de l'État;185;07;Diplomatie économique et développement du tourisme;;;33 091 020;32 691 020;33 091 020;32 691 020
+Action extérieure de l'État;347;01;Préparation et organisation du Sommet du G7;;;;9 430 000;;9 430 000
+Action extérieure de l'État;347;02;Organisation des réunions ministérielles;;;;4 750 000;;2 350 000
+Action extérieure de l'État;347;03;Fonctionnement du Secrétariat général et communication;;;;220 000;;220 000
+Administration générale et territoriale de l'État;216;01;État-major et services centraux;;;356 616 502;373 658 660;356 616 502;373 658 660
+Administration générale et territoriale de l'État;216;03;Système d'information et de communication;;;80 401 439;57 534 704;82 493 189;57 685 404
+Administration générale et territoriale de l'État;216;04;Action sociale et formation;;;40 614 600;40 192 600;40 614 600;40 192 600
+Administration générale et territoriale de l'État;216;05;Affaires immobilières;;;111 185 621;89 145 404;145 605 805;149 475 535
+Administration générale et territoriale de l'État;216;06;Affaires juridiques et contentieuses;;;55 000 000;80 000 000;55 000 000;80 000 000
+Administration générale et territoriale de l'État;216;08;Immigration, asile et intégration;;;40 137 421;41 006 985;40 137 421;41 006 985
+Administration générale et territoriale de l'État;216;09;Sécurité et éducation routières;;;124 788 854;126 209 284;124 788 854;126 209 284
+Administration générale et territoriale de l'État;216;10;Fonds interministériel de prévention de la délinquance;;;110 415 501;72 900 000;100 415 501;72 900 000
+Administration générale et territoriale de l'État;232;01;Financement des partis;;;68 670 672;68 670 672;68 670 672;68 670 672
+Administration générale et territoriale de l'État;232;02;Organisation des élections;;;392 558 140;44 365 000;391 168 140;46 565 000
+Administration générale et territoriale de l'État;232;03;Commission nationale des comptes de campagne et des financements politiques;;;9 650 000;6 454 443;7 050 000;7 554 443
+Administration générale et territoriale de l'État;232;04;Cultes;;;3 051 537;2 757 037;3 051 537;2 777 037
+Administration générale et territoriale de l'État;232;05;Vie associative;;;132 000;89 890;132 000;89 890
+Administration générale et territoriale de l'État;307;01;Coordination de la sécurité des personnes et des biens;;;165 478 918;172 518 163;165 478 918;172 518 163
+Administration générale et territoriale de l'État;307;02;Réglementation générale, garantie de l'identité et de la nationalité et délivrance des titres;;;686 831 367;688 314 118;686 831 367;688 314 118
+Administration générale et territoriale de l'État;307;03;Contrôle de légalité et conseil aux collectivités territoriales;;;150 016 970;153 375 078;150 016 970;153 375 078
+Administration générale et territoriale de l'État;307;04;Pilotage territorial des politiques gouvernementales;;;523 354 044;514 178 284;523 101 907;514 169 010
+Administration générale et territoriale de l'État;307;05;Animation et soutien du réseau;;;180 620 305;166 074 751;165 308 375;161 753 859
+Agriculture, alimentation, forêt et affaires rurales;149;21;Adaptation des filières à l'évolution des marchés;;;204 384 785;219 250 000;205 143 544;219 650 000
+Agriculture, alimentation, forêt et affaires rurales;149;22;Gestion des crises et des aléas de la production agricole;;;3 814 777;5 484 000;5 487 672;5 484 000
+Agriculture, alimentation, forêt et affaires rurales;149;23;Appui au renouvellement et à la modernisation des exploitations agricoles;;;154 772 184;138 071 192;119 836 206;140 443 738
+Agriculture, alimentation, forêt et affaires rurales;149;24;Gestion équilibrée et durable des territoires;;;389 848 837;394 936 853;380 566 130;471 951 620
+Agriculture, alimentation, forêt et affaires rurales;149;25;Protection sociale;;;915 852 757;480 392 865;915 852 375;480 392 865
+Agriculture, alimentation, forêt et affaires rurales;149;26;Gestion durable de la forêt et développement de la filière bois;;;268 519 497;242 891 303;276 434 667;271 403 990
+Agriculture, alimentation, forêt et affaires rurales;149;27;Moyens de mise en oeuvre des politiques publiques et gestion des interventions;;;284 560 664;590 816 652;284 560 664;590 816 652
+Agriculture, alimentation, forêt et affaires rurales;149;28;Pêche et aquaculture;;;44 842 600;45 300 000;44 842 600;45 300 000
+Agriculture, alimentation, forêt et affaires rurales;206;01;Prévention et gestion des risques inhérents à la production végétale;;;25 521 000;31 871 000;25 320 000;31 716 000
+Agriculture, alimentation, forêt et affaires rurales;206;02;Lutte contre les maladies animales et protection des animaux;;;92 242 933;100 934 695;90 217 299;99 579 695
+Agriculture, alimentation, forêt et affaires rurales;206;03;Prévention et gestion des risques sanitaires liés aux denrées alimentaires;;;16 310 000;20 456 000;16 307 000;20 433 000
+Agriculture, alimentation, forêt et affaires rurales;206;04;Actions transversales;;;68 994 323;76 232 805;69 132 324;75 266 805
+Agriculture, alimentation, forêt et affaires rurales;206;05;Elimination des cadavres et des sous-produits animaux;;;4 266 000;3 300 000;3 869 000;3 800 000
+Agriculture, alimentation, forêt et affaires rurales;206;06;Mise en oeuvre de la politique de sécurité et de qualité sanitaires de l'alimentation;;;297 130 424;318 483 920;297 130 424;318 483 920
+Agriculture, alimentation, forêt et affaires rurales;206;08;Qualité de l'alimentation et offre alimentaire;;;3 711 500;3 711 500;3 710 500;3 710 500
+Agriculture, alimentation, forêt et affaires rurales;215;01;Moyens de l'administration centrale;;;206 971 467;206 591 927;205 905 403;210 594 176
+Agriculture, alimentation, forêt et affaires rurales;215;02;Évaluation de l'impact des politiques publiques et information économique;;;18 257 550;18 285 823;18 257 550;18 285 823
+Agriculture, alimentation, forêt et affaires rurales;215;03;Moyens des directions régionales de l'alimentation, de l'agriculture et de la forêt, des directions de l'alimentation, de l'agriculture et de la forêt et directions départementales des territoires (et de la mer);;;360 644 627;355 757 495;360 644 627;355 757 495
+Agriculture, alimentation, forêt et affaires rurales;215;04;Moyens communs;;;67 779 294;69 563 025;67 878 973;71 606 325
+Aide publique au développement;110;01;Aide économique et financière multilatérale;;;1 452 260 139;430 870 721;586 619 912;594 361 154
+Aide publique au développement;110;02;Aide économique et financière bilatérale;;;360 000 000;409 630 000;275 817 509;263 001 153
+Aide publique au développement;110;03;Traitement de la dette des pays pauvres;;;330 250 218;0;103 519 581;104 051 690
+Aide publique au développement;209;02;Coopération bilatérale;;;585 885 802;683 247 317;555 710 462;573 209 159
+Aide publique au développement;209;05;Coopération multilatérale;;;150 414 041;145 095 739;156 127 302;150 809 000
+Aide publique au développement;209;07;Coopération communautaire;;;742 451 124;849 852 395;742 451 124;849 852 395
+Aide publique au développement;209;08;"Dépenses de personnels concourant au programme ""Solidarité à l'égard des pays en développement""";;;184 499 624;164 417 981;184 499 624;164 417 981
+Aide publique au développement;209;09;Actions de co-développement;;;215 700;;215 700;
+Anciens combattants, mémoire et liens avec la nation;158;01;Indemnisation des orphelins de la déportation et des victimes de spoliations du fait des législations antisémites en vigueur pendant l'Occupation;;;46 444 098;46 414 864;46 444 098;46 414 864
+Anciens combattants, mémoire et liens avec la nation;158;02;Indemnisation des victimes d'actes de barbarie durant la seconde guerre mondiale;;;54 356 374;54 385 809;54 356 374;54 385 809
+Anciens combattants, mémoire et liens avec la nation;167;01;Journée défense et citoyenneté;;;15 503 766;14 787 483;15 710 000;14 624 062
+Anciens combattants, mémoire et liens avec la nation;167;02;Politique de mémoire;;;22 586 600;28 200 000;22 586 600;28 200 000
+Anciens combattants, mémoire et liens avec la nation;169;01;Administration de  la dette viagère;10;Pensions militaires d'invalidité de victimes de guerre et allocations rattachées;1 141 350 000;1 074 000 000;1 141 350 000;1 074 000 000
+Anciens combattants, mémoire et liens avec la nation;169;01;Administration de  la dette viagère;11;Retraite du combattant;748 000 000;743 900 000;748 000 000;743 900 000
+Anciens combattants, mémoire et liens avec la nation;169;02;Gestion  des droits liés aux pensions militaires d'invalidité;21;Soins médicaux gratuits et appareillage des mutilés;55 300 000;52 400 000;55 300 000;52 400 000
+Anciens combattants, mémoire et liens avec la nation;169;02;Gestion  des droits liés aux pensions militaires d'invalidité;22;Remboursement des réductions de transport accordées aux invalides;3 200 000;2 700 000;3 200 000;2 700 000
+Anciens combattants, mémoire et liens avec la nation;169;02;Gestion  des droits liés aux pensions militaires d'invalidité;23;Remboursement des prestations de sécurité sociale aux invalides;85 200 000;80 900 000;85 200 000;80 900 000
+Anciens combattants, mémoire et liens avec la nation;169;03;Solidarité;30;Fonds de solidarité pour les anciens combattants d'Afrique du Nord et d'Indochine;0;0;0;0
+Anciens combattants, mémoire et liens avec la nation;169;03;Solidarité;31;Majoration des rentes mutualistes des anciens combattants et victimes de guerre;252 000 000;247 400 000;252 000 000;247 400 000
+Anciens combattants, mémoire et liens avec la nation;169;03;Solidarité;32;Subventions aux associations et oeuvres diverses;658 010;260 000;658 010;260 000
+Anciens combattants, mémoire et liens avec la nation;169;03;Solidarité;33;Indemnités, pécules et frais de voyages sur les tombes;110 000;50 000;110 000;50 000
+Anciens combattants, mémoire et liens avec la nation;169;03;Solidarité;34;Action sociale en faveur du monde combattant : Office national des anciens combattants (ONAC);26 400 000;26 400 000;26 400 000;26 400 000
+Anciens combattants, mémoire et liens avec la nation;169;03;Solidarité;35;Office national des anciens combattants (ONAC) : subventions;56 801 489;58 027 168;56 801 489;58 027 168
+Anciens combattants, mémoire et liens avec la nation;169;03;Solidarité;36;Institution nationale des invalides : subventions;17 089 143;12 089 143;12 089 143;12 889 143
+Anciens combattants, mémoire et liens avec la nation;169;03;Solidarité;37;Conseil national des communes compagnons de la libération - Subventions;0;1 334 634;0;1 334 634
+Anciens combattants, mémoire et liens avec la nation;169;07;Actions en faveur des rapatriés;;;17 270 000;17 570 000;17 270 000;17 570 000
+Cohésion des territoires;109;01;Aides personnelles;;;15 452 000 000;13 538 131 300;15 452 000 000;13 538 131 300
+Cohésion des territoires;109;02;Information relative au logement et accompagnement des publics en difficulté;;;8 142 500;8 268 700;8 142 500;8 268 700
+Cohésion des territoires;109;03;Sécurisation des risques locatifs;;;9 300 000;9 800 000;9 300 000;9 800 000
+Cohésion des territoires;112;01;Attractivité économique et compétitivité des territoires;;;154 458 986;59 450 680;82 752 062;95 618 058
+Cohésion des territoires;112;02;Développement solidaire et équilibré des territoires;;;262 726 433;100 345 047;127 127 849;127 620 225
+Cohésion des territoires;112;04;Instruments de pilotage et d'étude;;;34 914 620;31 167 189;37 401 020;31 639 916
+Cohésion des territoires;135;01;Construction locative et amélioration du parc;;;204 803 000;55 300 000;204 803 000;55 300 000
+Cohésion des territoires;135;02;Soutien à l'accession à la propriété;;;3 700 000;3 900 000;3 700 000;3 900 000
+Cohésion des territoires;135;03;Lutte contre l'habitat indigne;;;4 706 000;7 200 000;4 706 000;7 200 000
+Cohésion des territoires;135;04;Réglementation, politique technique et qualité de la construction;;;53 379 000;162 995 000;53 379 000;163 875 000
+Cohésion des territoires;135;05;Soutien;;;14 665 771;17 187 771;14 665 771;17 187 771
+Cohésion des territoires;135;07;Urbanisme et aménagement;;;117 509 000;64 980 000;71 909 000;64 100 000
+Cohésion des territoires;135;08;Grand Paris;;;;;;
+Cohésion des territoires;147;01;Actions territorialisées et Dispositifs spécifiques de la politique de la ville;;;335 888 150;335 758 441;335 888 150;335 758 441
+Cohésion des territoires;147;02;Revitalisation économique et emploi;;;48 522 000;50 330 000;48 522 000;50 330 000
+Cohésion des territoires;147;03;Stratégie, ressources et évaluation;;;29 913 510;29 318 354;29 913 510;29 318 354
+Cohésion des territoires;147;04;Rénovation urbaine et amélioration du cadre de vie;;;100 036 000;15 000 000;15 036 000;15 000 000
+Cohésion des territoires;162;02;Eau - Agriculture en Bretagne;;;7 742 100;2 500 000;6 770 000;3 300 000
+Cohésion des territoires;162;04;Programme exceptionnel d'investissements en faveur de la Corse;;;18 772 200;27 500 000;18 759 700;20 000 000
+Cohésion des territoires;162;06;Plan gouvernemental sur le Marais Poitevin - Poitou Charentes;;;1 354 700;1 000 000;1 740 600;1 600 000
+Cohésion des territoires;162;08;Plan chlordécone en Martinique et en Guadeloupe;;;2 032 000;2 000 000;2 030 700;2 000 000
+Cohésion des territoires;162;09;Plan littoral 21;;;;1 000 000;;500 000
+Cohésion des territoires;177;11;Prévention de l'exclusion;;;62 061 191;50 445 224;62 061 191;50 445 224
+Cohésion des territoires;177;12;Hébergement et logement adapté;;;1 669 285 619;1 894 189 982;1 669 285 619;1 894 189 982
+Cohésion des territoires;177;14;Conduite et animation des politiques de l'hébergement et de l'inclusion sociale;;;10 332 657;9 058 657;10 332 657;9 058 657
+Conseil et contrôle de l'État;126;01;Représentation des activités économiques et sociales;;;27 587 857;26 746 048;27 587 857;26 746 048
+Conseil et contrôle de l'État;126;02;Fonctionnement de l'institution;;;11 387 040;11 645 295;10 737 040;11 645 295
+Conseil et contrôle de l'État;126;03;Communication et international;;;1 233 340;1 656 165;1 233 340;1 656 165
+Conseil et contrôle de l'État;164;21;Examen des comptes publics;;;40 224 089;40 884 022;40 224 089;40 884 022
+Conseil et contrôle de l'État;164;22;Contrôle des finances publiques;;;15 865 322;16 190 272;15 865 322;16 190 272
+Conseil et contrôle de l'État;164;23;Contrôle des gestions publiques;;;60 267 901;61 293 462;60 267 901;61 293 462
+Conseil et contrôle de l'État;164;24;Evaluation des politiques publiques;;;34 806 796;35 365 556;34 806 796;35 365 556
+Conseil et contrôle de l'État;164;25;Information des citoyens;;;7 112 549;7 373 072;7 112 549;7 373 072
+Conseil et contrôle de l'État;164;26;Mise en jeu de la responsabilité des comptables publics et des gestionnaires publics;;;4 675 399;4 821 477;4 675 399;4 821 477
+Conseil et contrôle de l'État;164;27;Pilotage et soutien des juridictions financières;;;56 344 946;52 902 346;51 154 946;51 444 346
+Conseil et contrôle de l'État;165;01;Fonction juridictionnelle : Conseil d'État;;;27 516 687;27 819 707;27 516 687;27 819 707
+Conseil et contrôle de l'État;165;02;Fonction juridictionnelle : Cours administratives d'appel;;;50 889 189;51 449 592;50 889 189;51 449 592
+Conseil et contrôle de l'État;165;03;Fonction juridictionnelle : Tribunaux administratifs;;;159 544 086;161 736 303;159 544 086;161 736 303
+Conseil et contrôle de l'État;165;04;Fonction consultative;;;11 404 551;11 530 140;11 404 551;11 530 140
+Conseil et contrôle de l'État;165;05;Fonction études, expertise et services rendus aux administrations de l'État et des collectivités;;;16 426 720;16 607 615;16 426 720;16 607 615
+Conseil et contrôle de l'État;165;06;Soutien;;;120 117 728;122 035 406;103 277 557;107 908 881
+Conseil et contrôle de l'État;165;07;Cour nationale du droit d'asile;;;25 924 867;28 190 732;25 924 867;28 190 732
+Conseil et contrôle de l'État;340;01;Haut Conseil des finances publiques;;;454 144;467 481;454 144;467 481
+Crédits non répartis;551;01;Provision relative aux rémunérations publiques;;;0;290 533 189;0;290 533 189
+Crédits non répartis;552;01;Dépenses accidentelles et imprévisibles;;;324 000 000;424 000 000;24 000 000;124 000 000
+Culture;131;01;Soutien à la création, à la production et à la diffusion du spectacle vivant;;;706 489 403;739 462 885;701 274 709;704 915 885
+Culture;131;02;Soutien à la création, à la production et à la diffusion des arts plastiques;;;90 538 040;109 053 706;77 186 141;73 978 514
+Culture;175;01;Monuments Historiques et patrimoine monumental;;;371 858 988;376 532 802;334 466 562;332 908 289
+Culture;175;02;Architecture et espaces protégés;;;31 681 624;32 130 588;31 671 624;32 130 588
+Culture;175;03;Patrimoine des musées de France;;;376 448 492;337 276 995;358 291 128;350 574 581
+Culture;175;04;Patrimoine archivistique et célébrations nationales;;;36 206 604;32 607 793;29 207 130;36 536 187
+Culture;175;07;Patrimoine linguistique;;;3 223 833;3 224 338;3 223 833;3 224 338
+Culture;175;08;Acquisition et enrichissement des collections publiques;;;9 990 311;9 490 311;9 990 311;9 490 311
+Culture;175;09;Patrimoine archéologique;;;135 958 590;135 960 196;132 994 242;132 460 196
+Culture;224;01;Soutien aux établissements d'enseignement supérieur et insertion professionnelle;;;264 001 886;264 956 389;274 301 886;265 303 457
+Culture;224;02;Soutien à la démocratisation et à l'éducation artistique et culturelle;;;119 168 406;173 368 406;119 168 406;173 368 406
+Culture;224;06;Action culturelle internationale;;;8 392 159;8 938 159;8 392 159;8 938 159
+Culture;224;07;Fonctions de soutien du ministère;;;784 448 266;794 061 457;776 404 954;793 232 485
+Culture;224;08;Développement et professionnalisation de l'emploi dans le spectacle;;;90 000 000;90 000 000;55 000 000;25 000 000
+Défense;144;03;Recherche et exploitation du renseignement intéressant la sécurité de la France;31;Renseignement extérieur;310 532 501;306 383 771;243 832 501;295 624 227
+Défense;144;03;Recherche et exploitation du renseignement intéressant la sécurité de la France;32;Renseignement de sécurité de défense;13 536 615;13 943 890;13 536 615;13 943 890
+Défense;144;07;Prospective de défense;01;Analyse stratégique;4 580 308;9 411 620;6 213 641;9 411 621
+Défense;144;07;Prospective de défense;02;Prospective des systèmes de forces;21 315 050;21 643 498;21 315 050;21 643 498
+Défense;144;07;Prospective de défense;03;Etudes amont;856 740 000;759 895 082;720 434 123;723 189 498
+Défense;144;07;Prospective de défense;04;Gestion des moyens et subventions;281 278 527;288 965 412;286 828 527;288 965 412
+Défense;144;08;Relations internationales et diplomatie de défense;;;43 794 441;42 873 613;43 794 441;42 873 613
+Défense;146;06;Dissuasion;14;Assurer la crédibilité technique de la dissuasion M51;199 589 290;180 757 191;582 125 402;645 268 828
+Défense;146;06;Dissuasion;15;Assurer la crédibilité technique de la dissuasion SNLE NG : adaptation M51;0;0;219 214 730;69 171 782
+Défense;146;06;Dissuasion;17;Assurer la crédibilité technique de la dissuasion - Air sol moyenne portée amélioré (ASMPA);108 939 719;33 093 480;62 008 395;77 757 029
+Défense;146;06;Dissuasion;18;Assurer la crédibilité technique de la dissuasion Simulation;501 775 783;504 237 342;528 157 899;493 922 829
+Défense;146;06;Dissuasion;19;Assurer la crédibilité technique de la dissuasion - Autres opérations;645 361 966;730 478 234;649 850 323;746 980 767
+Défense;146;06;Dissuasion;22;Assurer la crédibilité opérationnelle de la dissuasion - soutien et mise en oeuvre des forces - toutes opérations;778 075 703;964 696 562;746 494 453;745 931 907
+Défense;146;06;Dissuasion;23;Assurer la crédibilité technique de la posture - toutes opérations;143 435 053;455 433 378;256 633 996;291 250 387
+Défense;146;06;Dissuasion;24;Assurer la crédibilité technique de la dissuasion – SNLE 3G;0;0;117 733 692;176 056 977
+Défense;146;07;Commandement et maîtrise de l'information;24;Commander et conduire - Système de commandement et de conduite des opérations aériennes (SCCOA);41 900 000;39 900 000;222 216 996;183 525 884
+Défense;146;07;Commandement et maîtrise de l'information;25;Commander et conduire - Système d'information TERRE;7 260 000;171 000 000;52 345 333;39 003 061
+Défense;146;07;Commandement et maîtrise de l'information;27;Commander et conduire - Géographie numérique;281 349 040;222 000 000;55 317 486;58 928 895
+Défense;146;07;Commandement et maîtrise de l'information;28;Commander et conduire - Autres opérations;258 624 322;283 225 913;37 500 607;40 617 218
+Défense;146;07;Commandement et maîtrise de l'information;29;Commander et conduire - Système d'information des armées (SIA);0;0;100 293 242;94 533 905
+Défense;146;07;Commandement et maîtrise de l'information;32;Communiquer - Moyens de communication satellitaire;578 553 000;582 380 000;193 518 629;217 662 796
+Défense;146;07;Commandement et maîtrise de l'information;35;Communiquer - Autres opérations;242 672 800;254 780 000;256 669 837;248 905 630
+Défense;146;07;Commandement et maîtrise de l'information;36;Communiquer - CONTACT;0;1 032 200 000;150 948 997;148 242 445
+Défense;146;07;Commandement et maîtrise de l'information;39;Renseigner, surveiller, acquérir et reconnaître - Autres opérations;68 271 786;742 611 602;345 392 723;364 092 999
+Défense;146;07;Commandement et maîtrise de l'information;40;Renseigner, surveiller, acquérir et reconnaître - MUSIS;0;0;138 066 345;77 684 523
+Défense;146;07;Commandement et maîtrise de l'information;41;Communiquer - DESCARTES;0;0;48 589 084;60 391 736
+Défense;146;07;Commandement et maîtrise de l'information;42;Renseigner, surveiller, acquérir et reconnaître - CERES;0;0;70 134 546;60 125 692
+Défense;146;08;Projection - mobilité - soutien;42;Projeter les forces - Avion de transport futur (A400M);57 923 333;49 190 456;325 774 240;190 802 077
+Défense;146;08;Projection - mobilité - soutien;43;Projeter les forces - Autres opérations;180 649 126;178 418 312;203 787 748;268 171 373
+Défense;146;08;Projection - mobilité - soutien;46;Assurer la mobilité - Rénovation Cougar;0;0;31 594 801;11 161 407
+Défense;146;08;Projection - mobilité - soutien;47;Assurer la mobilité - Hélicoptère NH 90;0;32 300 000;337 029 587;445 710 515
+Défense;146;08;Projection - mobilité - soutien;48;Assurer la mobilité - Autres opérations;347 689 121;182 447 025;77 766 016;125 768 595
+Défense;146;08;Projection - mobilité - soutien;51;Maintenir le potentiel ami et autre - Porteur polyvalent terrestre (PPT);0;0;78 221 603;18 694 784
+Défense;146;08;Projection - mobilité - soutien;53;Maintenir le potentiel ami et autre - Autres opérations;29 616 794;28 638 128;49 779 100;59 526 610
+Défense;146;08;Projection - mobilité - soutien;55;Maintenir le potentiel ami et autre - MRTT;0;650 000 000;180 806 077;279 368 468
+Défense;146;09;Engagement et combat;56;Frapper à distance - Missile de croisière naval (MDCN);0;0;57 861 799;63 007 824
+Défense;146;09;Engagement et combat;59;Frapper à distance - RAFALE;59 330 489;1 178 969 959;482 997 888;585 099 441
+Défense;146;09;Engagement et combat;61;Frapper à distance - Autres opérations;68 209 571;54 947 146;293 634 798;426 111 278
+Défense;146;09;Engagement et combat;66;Opérer en milieu hostile - Véhicule blindé de combat d'infanterie (VBCI);0;0;48 381 979;45 883 531
+Défense;146;09;Engagement et combat;68;Opérer en milieu hostile - Hélicoptère HAP/HAD TIGRE;26 360 000;47 270 000;299 817 626;216 667 986
+Défense;146;09;Engagement et combat;69;Opérer en milieu hostile - Future torpille lourde (FTL);0;106 730 000;53 382 770;51 695 542
+Défense;146;09;Engagement et combat;71;Opérer en milieu hostile - Evolution Exocet;0;130 300 000;33 859 118;47 049 683
+Défense;146;09;Engagement et combat;73;Opérer en milieu hostile - Frégates multi-missions (FREMM);682 000 000;358 530 000;306 268 872;297 899 315
+Défense;146;09;Engagement et combat;74;Opérer en milieu hostile - SNA Barracuda;950 000 000;1 140 000 000;571 698 594;563 977 397
+Défense;146;09;Engagement et combat;75;Opérer en milieu hostile - Autres opérations et conduire des opérations spéciales;3 079 616 112;608 444 147;776 733 093;587 244 744
+Défense;146;09;Engagement et combat;77;Opérer en milieu hostile -  SCORPION;100 000 000;1 001 432 625;190 787 391;274 318 262
+Défense;146;09;Engagement et combat;78;Frapper à distance - Mirage 2000;85 585 271;190 574 456;143 930 750;125 613 014
+Défense;146;09;Engagement et combat;88;Opérer en milieu hostile - missile moyenne portée MMP;0;0;86 846 894;98 707 086
+Défense;146;09;Engagement et combat;89;Opérer en milieu hostile - Frégates de taille intermédiaire;0;0;0;125 216 449
+Défense;146;10;Protection et sauvegarde;79;Assurer la sûreté des approches - Autres opérations et assurer la sécurité de l'Etat, de la nation et des citoyens;302 520 691;1 217 121 095;204 045 573;147 481 248
+Défense;146;10;Protection et sauvegarde;80;Assurer la sûreté des approches - Alerte avancée;0;0;0;0
+Défense;146;10;Protection et sauvegarde;82;Assurer la protection des forces et des sites - Famille de systèmes sol-air futurs (FSAF);0;0;90 235 677;45 486 745
+Défense;146;10;Protection et sauvegarde;86;Assurer la protection des forces et des sites - Autres opérations et assurer la protection de l'homme;105 050 082;93 852 809;97 763 394;97 087 008
+Défense;146;11;Préparation et conduite des opérations d'armement;89;Fonctionnement et soutien DGA;82 428 072;72 033 590;84 903 182;89 134 625
+Défense;146;11;Préparation et conduite des opérations d'armement;90;Investissements pour les opérations d'armement;127 461 825;143 000 000;110 250 529;116 304 845
+Défense;146;12;Parts étrangères et programmes civils;96;Parts étrangères;0;0;0;0
+Défense;146;12;Parts étrangères et programmes civils;97;Programmes civils;0;0;0;0
+Défense;178;01;Planification  des moyens et conduite des opérations;10;Emploi des forces;257 830 822;282 385 295;252 776 493;276 955 475
+Défense;178;01;Planification  des moyens et conduite des opérations;11;Renseignement d'intérêt militaire;45 501 137;53 498 048;44 608 957;52 449 067
+Défense;178;01;Planification  des moyens et conduite des opérations;14;Systèmes d'information et de communication;177 865 064;186 741 352;187 220 652;195 952 031
+Défense;178;02;Préparation des forces terrestres;01;Commandement et activités des forces terrestres;177 354 016;158 929 405;174 834 089;156 746 828
+Défense;178;02;Préparation des forces terrestres;05;Ressources humaines des forces terrestres;79 956 006;80 927 500;78 382 598;79 311 274
+Défense;178;02;Préparation des forces terrestres;07;Maintien en condition opérationnelle du matériel des forces terrestres;919 772 067;957 776 328;776 371 499;884 048 111
+Défense;178;02;Préparation des forces terrestres;08;Environnement opérationnel des forces terrestres;158 196 240;186 414 037;196 761 020;189 193 272
+Défense;178;03;Préparation des forces navales;01;Commandement et activités des forces navales;260 998 295;285 784 474;305 474 124;310 477 408
+Défense;178;03;Préparation des forces navales;05;Ressources humaines des forces navales;43 636 588;44 167 269;42 644 378;42 681 826
+Défense;178;03;Préparation des forces navales;07;Maintien en condition opérationnelle du matériel des forces navales;1 510 913 729;2 023 827 995;1 585 332 909;1 822 843 464
+Défense;178;03;Préparation des forces navales;08;Environnement opérationnel des forces navales;67 757 794;71 467 227;66 363 530;69 705 805
+Défense;178;04;Préparation des forces aériennes;02;Commandement et activités centralisées des forces aériennes;7 405 740;7 582 151;7 040 660;7 427 930
+Défense;178;04;Préparation des forces aériennes;03;Activités des forces aériennes;259 496 788;269 362 989;258 241 106;268 297 419
+Défense;178;04;Préparation des forces aériennes;04;Activités des forces aériennes stratégiques;147 833 139;153 520 033;145 418 859;151 053 061
+Défense;178;04;Préparation des forces aériennes;05;Ressources humaines des forces aériennes;75 803 759;81 606 983;75 368 235;80 795 546
+Défense;178;04;Préparation des forces aériennes;06;Entretien et équipements des forces aériennes;2 466 801 264;2 087 254 063;1 490 343 939;1 615 692 020
+Défense;178;04;Préparation des forces aériennes;09;Service industriel aéronautique (SIAé);0;0;0;0
+Défense;178;05;Logistique et soutien interarmées;80;Fonction santé;221 768 951;202 139 813;120 358 703;126 329 666
+Défense;178;05;Logistique et soutien interarmées;82;Soutien des forces par les bases de défense;621 691 444;626 213 825;647 462 759;671 572 861
+Défense;178;05;Logistique et soutien interarmées;83;Soutiens complémentaires;140 097 818;131 081 032;146 468 449;138 510 815
+Défense;178;05;Logistique et soutien interarmées;84;Service interarmées des munitions;14 984 704;24 035 513;14 690 886;23 537 383
+Défense;178;05;Logistique et soutien interarmées;85;Service du commissariat aux armées;436 045 724;498 265 196;400 853 102;498 299 212
+Défense;178;06;Surcoûts liés aux opérations extérieures;;;280 000 000;405 000 000;280 000 000;405 000 000
+Défense;178;07;Surcoûts liés aux opérations intérieures;;;;;;
+Défense;212;04;Politique immobilière;;;1 717 379 499;2 116 075 850;1 339 785 093;1 744 159 477
+Défense;212;05;Systèmes d'information, d'administration et de gestion;;;126 196 962;148 334 258;146 897 177;137 674 951
+Défense;212;06;Politiques des ressources humaines;03;Reconversion;36 472 386;37 392 803;36 472 386;37 392 803
+Défense;212;06;Politiques des ressources humaines;04;Action sociale et autres politiques de ressources humaines (hors rémunérations des agents);105 379 317;114 691 975;105 379 317;115 637 975
+Défense;212;08;Politique culturelle et éducative;01;Actions culturelles et mise en valeur du patrimoine;22 240 138;26 594 109;22 240 138;33 946 351
+Défense;212;08;Politique culturelle et éducative;02;Gestion et communication des archives historiques de la défense;3 470 251;3 610 758;3 723 918;3 610 758
+Défense;212;10;Restructurations;;;63 768 223;75 043 754;61 260 449;66 537 610
+Défense;212;11;Pilotage, soutien et communication;;;364 300 290;368 965 815;429 636 751;419 782 314
+Défense;212;50;"Recherche et exploitation du renseignement intéressant la sécurité de la France - Personnel travaillant  pour le programme ""Environnement et prospective de la politique de défense""";01;Renseignement extérieur;425 994 392;445 544 692;425 994 392;445 544 692
+Défense;212;50;"Recherche et exploitation du renseignement intéressant la sécurité de la France - Personnel travaillant  pour le programme ""Environnement et prospective de la politique de défense""";02;Renseignement de sécurité et de défense;105 547 900;121 383 805;105 547 900;121 383 805
+Défense;212;51;"Prospective de défense - Personnel travaillant  pour le programme ""Environnement et prospective de la politique de défense""";01;DGRIS / Administration  centrale;25 702 225;25 360 000;25 702 225;25 360 000
+Défense;212;52;Relations internationales;01;DGA / Soutien aux exportations;7 764 526;7 744 361;7 764 526;7 744 361
+Défense;212;52;Relations internationales;02;DGRIS / Diplomatie de défense;78 675 589;79 037 084;78 675 589;79 037 084
+Défense;212;53;"Préparation et conduite des opérations d'armement - Personnel travaillant  pour le programme  ""Équipement des forces """;01;Soutien aux opérations d'armement;1 899 094 275;2 006 818 874;1 899 094 275;2 006 818 874
+Défense;212;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";01;Commandement des armées;101 650 374;114 187 110;101 650 374;114 187 110
+Défense;212;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";02;Organismes interarmées à vocation opérationnelle;228 098 384;212 423 855;228 098 384;212 423 855
+Défense;212;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";03;Organismes interarmées à vocation prospective et maitrise des armements;33 663 496;47 729 938;33 663 496;47 729 938
+Défense;212;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";04;Enseignement interarmées;55 098 392;49 343 112;55 098 392;49 343 112
+Défense;212;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";05;EMA / Relations internationales militaires / PPE;148 383 549;144 049 099;148 383 549;144 049 099
+Défense;212;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";06;Renseignement d'intérêt militaire;147 148 640;171 234 473;147 148 640;171 234 473
+Défense;212;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";07;Systèmes d'information et de communication;503 145 685;538 154 044;503 145 685;538 154 044
+Défense;212;55;"Préparation des forces terrestres - Personnel travaillant pour le programme ""Préparation et emploi des forces""";01;Ressources humaines des forces terrestres;6 866 799 415;7 219 727 909;6 866 799 415;7 219 727 909
+Défense;212;56;"Préparation des forces navales - Personnel travaillant pour le programme ""Préparation et emploi des forces""";01;Ressources humaines des forces navales;2 416 844 649;2 344 368 999;2 416 844 649;2 344 368 999
+Défense;212;56;"Préparation des forces navales - Personnel travaillant pour le programme ""Préparation et emploi des forces""";02;Rémunérations des ouvriers de l'Etat de la DCNS;0;0;0;0
+Défense;212;57;"Préparation des forces aériennes- Personnel travaillant pour le programme ""Préparation et emploi des forces""";01;Ressources humaines des forces aériennes;2 555 533 552;2 502 981 670;2 555 533 552;2 502 981 670
+Défense;212;57;"Préparation des forces aériennes- Personnel travaillant pour le programme ""Préparation et emploi des forces""";02;Service industriel aéronautique(SIAé);0;0;0;0
+Défense;212;58;"Logistique et soutien interarmées - Personnel travaillant pour le programme ""Préparation et emploi des forces""";01;Fonction pétrolière;130 990 575;124 455 859;130 990 575;124 455 859
+Défense;212;58;"Logistique et soutien interarmées - Personnel travaillant pour le programme ""Préparation et emploi des forces""";02;Logistique et soutien interarmées / CICoS;38 918 689;38 723 519;38 918 689;38 723 519
+Défense;212;58;"Logistique et soutien interarmées - Personnel travaillant pour le programme ""Préparation et emploi des forces""";03;Soutiens complémentaires;63 434;0;63 434;0
+Défense;212;58;"Logistique et soutien interarmées - Personnel travaillant pour le programme ""Préparation et emploi des forces""";04;Service interarmées des munitions;81 241 988;82 982 083;81 241 988;82 982 083
+Défense;212;58;"Logistique et soutien interarmées - Personnel travaillant pour le programme ""Préparation et emploi des forces""";05;Service du commissariat des armées;1 413 877 112;1 474 235 802;1 413 877 112;1 474 235 802
+Défense;212;58;"Logistique et soutien interarmées - Personnel travaillant pour le programme ""Préparation et emploi des forces""";06;Fonction santé;774 079 081;841 280 778;774 079 081;841 280 778
+Défense;212;59;"Surcoûts liés aux opérations - Personnel travaillant pour le programme ""Préparation et emploi des forces""";01;Surcoûts liés aux opérations extérieures;170 000 000;245 000 000;170 000 000;245 000 000
+Défense;212;59;"Surcoûts liés aux opérations - Personnel travaillant pour le programme ""Préparation et emploi des forces""";02;Surcoûts liés aux opérations intérieures;41 000 000;41 000 000;41 000 000;41 000 000
+Défense;212;60;"Politique immobilière - Personnel travaillant pour l'action ""Politique immobilière""";;;453 569 189;465 905 863;453 569 189;465 905 863
+Défense;212;61;Action sociale, chômage et pensions;01;Actions sociales et autres politiques des ressources humaines;173 757 736;173 733 246;173 757 736;173 733 246
+Défense;212;61;Action sociale, chômage et pensions;02;Reconversion des personnels militaires - Chômage;128 784 691;128 406 400;128 784 691;128 406 400
+Défense;212;61;Action sociale, chômage et pensions;03;Reconversion des personnels civils - Chômage;4 984 560;5 647 910;4 984 560;5 647 910
+Défense;212;62;"Politique culturelle et éducative - gestion et communication des archives historiques de la défense - Personnel travaillant pour l'action ""Politique culturelle et éducative""";;;35 688 082;38 172 825;35 688 082;38 172 825
+Défense;212;63;Restructurations - RH;01;Restructurations Personnels civils;53 080 756;32 856 355;53 080 756;32 856 355
+Défense;212;63;Restructurations - RH;02;Restructurations Personnels militaires;61 161 465;39 964 065;61 161 465;39 964 065
+Défense;212;64;"Pilotage, soutien  -  Personnel travaillant pour l'action "" Pilotage, soutien """;01;Personnel du SGA employeur;309 167 772;297 591 884;309 167 772;297 591 884
+Défense;212;64;"Pilotage, soutien  -  Personnel travaillant pour l'action "" Pilotage, soutien """;07;Personnel de l'action sociale;58 885 934;57 588 196;58 885 934;57 588 196
+Défense;212;64;"Pilotage, soutien  -  Personnel travaillant pour l'action "" Pilotage, soutien """;08;Personnel de l'agence de reconversion de la Défense;48 073 267;48 355 203;48 073 267;48 355 203
+Défense;212;65;"Journée défense et citoyenneté - Personnel travaillant pour le programme ""Liens entre la Nation et son armée""";;;69 658 263;81 663 582;69 658 263;81 663 582
+Défense;212;66;Rayonnement et contribution extérieure;01;Pilotage, soutien et communication - effectifs sortants remboursés sous PMEA Mindef;0;0;0;0
+Défense;212;66;Rayonnement et contribution extérieure;02;Pilotage, soutien et communication - effectifs sortants non remboursés sous PMEA Mindef;22 949 599;23 158 371;22 949 599;23 158 371
+Défense;212;66;Rayonnement et contribution extérieure;03;Pilotage, soutien et communication - effectifs sortants remboursés hors PMEA Mindef;0;0;0;0
+Défense;212;66;Rayonnement et contribution extérieure;04;Pilotage, soutien et communication - Présidence de la République;0;0;0;0
+Défense;212;66;Rayonnement et contribution extérieure;05;Pilotage, soutien et communication -  Elèves des classes préparatoires des lycées de la défense;1 168 073;1 168 073;1 168 073;1 168 073
+Défense;212;67;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;01;Sous-Direction des Bureau des Cabinets - Cabinet du Ministre de la Défense - Cabinet du Secrétaire d'Etat aux anciens combattants - Bureau des Officiers Généraux;39 320 386;44 152 720;39 320 386;44 152 720
+Défense;212;67;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;02;Contrôle général des armées;17 580 169;20 810 648;17 580 169;20 810 648
+Défense;212;67;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;03;Direction Générale des Systèmes d'Information et de Communication;6 776 371;6 764 261;6 776 371;6 764 261
+Défense;212;67;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;04;Délégation à l'Information et la Communication de la Défense;10 748 967;10 955 499;10 748 967;10 955 499
+Défense;212;67;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;05;Gendarmerie de la Sureté de l'Armement Nucléaire;4 584 238;4 671 694;4 584 238;4 671 694
+Défense;212;67;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;06;Contrôle Budgétaire et Comptable Ministériel défense - Agence Comptable des Services Industriels de l'Armement;9 809 056;7 530 409;9 809 056;7 530 409
+Défense;212;67;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;07;Direction de la Protection des Installations, moyens et activités de la Défense;2 234 349;2 372 663;2 234 349;2 372 663
+Direction de l'action du Gouvernement;129;01;Coordination du travail gouvernemental;;;90 057 528;93 593 820;90 122 031;93 658 323
+Direction de l'action du Gouvernement;129;02;Coordination de la sécurité et de la défense;;;347 928 014;352 009 374;343 331 519;353 733 321
+Direction de l'action du Gouvernement;129;03;Coordination de la politique européenne;;;16 542 508;16 455 987;16 542 508;16 455 987
+Direction de l'action du Gouvernement;129;10;Soutien;;;114 746 944;100 135 160;125 322 282;126 461 413
+Direction de l'action du Gouvernement;129;11;Stratégie et prospective;;;28 120 821;23 034 808;28 120 821;23 034 808
+Direction de l'action du Gouvernement;129;13;Ordre de la Légion d'honneur;;;27 101 336;27 095 036;27 101 336;27 095 036
+Direction de l'action du Gouvernement;129;14;Ordre de la Libération;;;1 332 499;;1 332 499;
+Direction de l'action du Gouvernement;129;15;Mission interministérielle de lutte contre les drogues et les conduites addictives;;;17 677 602;17 584 407;17 677 602;17 584 407
+Direction de l'action du Gouvernement;129;16;Modernisation de l'action publique;;;59 347 782;55 223 311;57 455 839;55 223 311
+Direction de l'action du Gouvernement;308;02;Commission nationale de l'informatique et des libertés;;;17 529 246;17 650 797;17 362 855;17 650 797
+Direction de l'action du Gouvernement;308;03;Conseil supérieur de l'audiovisuel;;;37 546 658;37 546 658;37 546 658;37 546 658
+Direction de l'action du Gouvernement;308;05;Contrôleur général des lieux de privation de liberté;;;5 110 285;5 201 949;5 190 135;5 281 799
+Direction de l'action du Gouvernement;308;06;Autres autorités indépendantes;;;3 225 883;4 417 070;3 225 883;4 417 070
+Direction de l'action du Gouvernement;308;07;Sécurité et protection des libertés;;;3 039 959;;3 039 959;
+Direction de l'action du Gouvernement;308;09;Défenseur des droits;;;22 594 603;22 446 164;22 594 603;22 446 164
+Direction de l'action du Gouvernement;308;10;Haute autorité pour la transparence de la vie publique;;;11 854 652;5 589 049;6 347 552;6 410 189
+Direction de l'action du Gouvernement;308;11;Régulation de la distribution de la presse;;;269 736;289 735;269 736;289 735
+Direction de l'action du Gouvernement;308;12;Commission nationale de contrôle des techniques de renseignement;;;;2 895 628;;2 895 628
+Direction de l'action du Gouvernement;308;13;Commission du secret de la Défense nationale;;;;571 613;;571 613
+Direction de l'action du Gouvernement;333;01;Fonctionnement courant des directions départementales interministérielles;;;160 954 164;163 241 764;160 954 164;163 241 764
+Direction de l'action du Gouvernement;333;02;Loyers et charges immobilières des administrations déconcentrées;;;470 244 275;482 416 114;323 926 954;326 875 046
+Direction de l'action du Gouvernement;333;03;Emplois déconcentrés des services du Premier ministre;;;177 558 404;181 599 753;177 558 404;181 599 753
+Écologie, développement et mobilité durables;113;01;Sites, paysages, publicité;;;6 968 325;6 767 226;6 968 325;6 767 226
+Écologie, développement et mobilité durables;113;02;logistique, formation et contentieux;;;5 631 514;5 631 514;5 631 514;5 631 514
+Écologie, développement et mobilité durables;113;07;Gestion des milieux et biodiversité;;;268 294 965;136 195 542;268 294 965;136 195 542
+Écologie, développement et mobilité durables;159;10;Gouvernance, évaluation, études et prospective en matière de développement durable;;;;14 664 147;;14 664 147
+Écologie, développement et mobilité durables;159;11;Etudes et expertise en matière de développement durable;;;210 994 361;206 040 570;210 994 361;206 040 570
+Écologie, développement et mobilité durables;159;12;Information géographique et cartographique;;;93 181 916;91 669 630;93 251 916;91 669 630
+Écologie, développement et mobilité durables;159;13;Météorologie;;;192 837 999;188 846 545;192 837 999;188 846 545
+Écologie, développement et mobilité durables;159;14;Economie sociale et solidaire;;;;15 250 000;;14 243 746
+Écologie, développement et mobilité durables;174;01;Politique de l'énergie;;;3 983 900;4 456 501;3 983 900;4 406 501
+Écologie, développement et mobilité durables;174;04;Gestion économique et sociale de l'après-mines;;;422 907 573;390 742 250;423 607 573;390 742 250
+Écologie, développement et mobilité durables;174;05;Lutte contre le changement climatique et pour la qualité de l'air;;;27 425 762;30 795 000;27 425 762;30 845 000
+Écologie, développement et mobilité durables;174;06;Soutien;;;1 126 563;1 300 000;1 126 563;1 300 000
+Écologie, développement et mobilité durables;181;01;Prévention des risques technologiques et des pollutions;;;103 438 322;106 896 627;88 208 322;91 666 627
+Écologie, développement et mobilité durables;181;09;Contrôle de la sûreté nucléaire et de la radioprotection;;;57 801 500;58 485 092;62 801 500;63 485 092
+Écologie, développement et mobilité durables;181;10;Prévention des risques naturels et hydrauliques;;;39 250 723;37 399 224;38 899 225;37 399 224
+Écologie, développement et mobilité durables;181;11;Gestion de l'après-mine et travaux de mise en sécurité, indemnisations et expropriations sur les sites;;;37 673 931;38 573 931;37 673 931;38 573 931
+Écologie, développement et mobilité durables;181;12;Agence de l'environnement et de la maîtrise de l'énergie (ADEME);;;;612 700 000;;612 700 000
+Écologie, développement et mobilité durables;203;01;Routes - Développement;;;1 000;;1 000;
+Écologie, développement et mobilité durables;203;04;Routes - Entretien;;;;321 179 608;;320 000 000
+Écologie, développement et mobilité durables;203;10;Infrastructures de transports collectifs et ferroviaires;;;2 426 677 026;;2 426 677 026;
+Écologie, développement et mobilité durables;203;11;Infrastructures fluviales, portuaires et aéroportuaires;;;303 867 064;;312 217 064;
+Écologie, développement et mobilité durables;203;12;Entretien et exploitation du réseau routier national;;;311 231 432;;317 313 350;
+Écologie, développement et mobilité durables;203;13;Soutien, régulation, contrôle et sécurité des services de transports terrestres;;;42 517 383;;47 517 383;
+Écologie, développement et mobilité durables;203;14;Soutien, régulation et contrôle dans les domaines des transports fluviaux, maritimes et aériens;;;26 409 452;;25 999 452;
+Écologie, développement et mobilité durables;203;15;Stratégie et soutien;;;13 516 053;;16 089 688;
+Écologie, développement et mobilité durables;203;41;Ferroviaire;;;;2 420 362 316;;2 421 612 316
+Écologie, développement et mobilité durables;203;42;Voies navigables;;;;251 415 663;;251 415 663
+Écologie, développement et mobilité durables;203;43;Ports;;;;70 894 836;;70 894 836
+Écologie, développement et mobilité durables;203;44;Transports collectifs;;;;27 258 624;;27 258 624
+Écologie, développement et mobilité durables;203;45;Transports combinés;;;;77 409 039;;22 409 039
+Écologie, développement et mobilité durables;203;47;Fonctions support;;;;15 553 522;;15 553 522
+Écologie, développement et mobilité durables;203;50;Transport routier;;;;4 758 710;;4 758 710
+Écologie, développement et mobilité durables;203;51;Sécurité ferroviaire;;;;7 500 000;;1 000 000
+Écologie, développement et mobilité durables;203;52;Transport aérien;;;;30 850 000;;24 709 000
+Écologie, développement et mobilité durables;205;01;Sécurité et sûreté maritimes;;;28 950 000;29 880 000;25 970 000;29 885 000
+Écologie, développement et mobilité durables;205;02;Gens de mer et enseignement maritime;;;27 915 190;28 050 000;27 615 190;28 050 000
+Écologie, développement et mobilité durables;205;03;Flotte de commerce;;;83 500 000;64 220 000;83 500 000;64 220 000
+Écologie, développement et mobilité durables;205;04;Action interministérielle de la mer;;;9 340 000;10 350 000;9 240 000;10 345 000
+Écologie, développement et mobilité durables;205;05;Soutien au programme;;;6 719 376;7 500 000;6 719 376;7 500 000
+Écologie, développement et mobilité durables;217;01;Stratégie, expertise et études en matière de développement durable;;;18 816 479;;18 816 479;
+Écologie, développement et mobilité durables;217;02;Fonction juridique;;;2 511 592;2 211 592;2 511 592;2 211 592
+Écologie, développement et mobilité durables;217;03;Politique et programmation de l'immobilier et des moyens de fonctionnement;;;76 620 816;76 870 876;125 752 674;119 858 197
+Écologie, développement et mobilité durables;217;04;Politique et gestion des systèmes d'information et des réseaux informatiques;;;21 444 238;24 044 238;21 444 238;24 044 238
+Écologie, développement et mobilité durables;217;05;Politique des ressources humaines et formation;;;214 275 050;234 122 214;214 275 050;234 122 214
+Écologie, développement et mobilité durables;217;06;Actions nationales, européennes et internationales en faveur du développement durable;;;8 791 891;12 451 891;8 791 891;12 451 891
+Écologie, développement et mobilité durables;217;07;"Personnels oeuvrant pour les politiques du programme ""Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables""";;;497 613 923;555 796 551;497 613 923;555 796 551
+Écologie, développement et mobilité durables;217;08;"Personnels oeuvrant pour les politiques du programme ""Infrastructures et services de transports""";;;606 106 341;594 446 661;606 106 341;594 446 661
+Écologie, développement et mobilité durables;217;09;"Personnels oeuvrant pour les politiques du programme ""Sécurité et éducation routières""";;;1 412 145;1 378 592;1 412 145;1 378 592
+Écologie, développement et mobilité durables;217;11;"Personnels oeuvrant pour les politiques du programme ""Affaires maritimes""";;;187 465 597;179 899 007;187 465 597;179 899 007
+Écologie, développement et mobilité durables;217;13;"Personnels oeuvrant pour les politiques du programme ""Paysages, eau et biodiversité""";;;253 320 654;267 285 540;253 320 654;267 285 540
+Écologie, développement et mobilité durables;217;15;"Personnels relevant du ministère de la "" Cohésion des territoires """;;;780 741 065;667 554 167;780 741 065;667 554 167
+Écologie, développement et mobilité durables;217;16;"Personnels oeuvrant pour les politiques du programme ""Prévention des risques""";;;240 882 165;239 141 944;240 882 165;239 141 944
+Écologie, développement et mobilité durables;217;18;Personnels relevant de programmes d'autres ministères;;;;;;
+Écologie, développement et mobilité durables;217;22;Personnels transférés aux collectivités territoriales;;;6 765 507;7 143 532;6 765 507;7 143 532
+Écologie, développement et mobilité durables;217;23;"Personnels oeuvrant pour les politiques des programmes ""énergie, climat et après-mines""";;;56 336 446;56 425 552;56 336 446;56 425 552
+Écologie, développement et mobilité durables;217;24;Personnels oeuvrant dans le domaine des transports aériens;;;2 099 616;2 119 578;2 099 616;2 119 578
+Écologie, développement et mobilité durables;217;25;Commission nationale du débat public;;;3 451 000;3 450 000;3 451 000;3 450 000
+Écologie, développement et mobilité durables;217;26;Autorité de contrôle des nuisances aéroportuaires (ACNUSA);;;1 700 000;1 700 000;1 700 000;1 700 000
+Écologie, développement et mobilité durables;217;27;Commission de régulation de l'énergie (CRE);;;20 605 323;20 860 000;20 605 323;20 860 000
+Écologie, développement et mobilité durables;217;28;"Personnels oeuvrant pour le développement durable et pour les politiques du programme ""expertise, information géographique et météorologique""";;;;52 338 970;;52 338 970
+Écologie, développement et mobilité durables;345;01;Solidarité avec les zones non interconnectées au réseau métropolitain;;;1 380 300 000;1 506 778 171;1 380 300 000;1 506 778 171
+Écologie, développement et mobilité durables;345;02;Protection des consommateurs en situation de précarité énergétique;;;496 900 000;753 639 487;496 900 000;753 639 487
+Écologie, développement et mobilité durables;345;03;Soutien à la cogénération;;;562 600 000;691 467 824;562 600 000;691 467 824
+Écologie, développement et mobilité durables;345;05;Frais de support;;;99 870 000;87 238 970;99 870 000;87 238 970
+Écologie, développement et mobilité durables;345;06;Médiateur de l'énergie;;;5 330 000;4 796 000;5 330 000;4 796 000
+Écologie, développement et mobilité durables;345;07;Fermeture de la centrale de Fessenheim;;;;0;;0
+Économie;134;02;Commerce, artisanat et services;;;61 896 986;57 422 031;55 396 986;54 454 830
+Économie;134;03;Actions en faveur des entreprises industrielles;;;265 913 507;246 254 324;268 801 919;248 480 272
+Économie;134;04;Développement des télécommunications, des postes et de la société de l'information;;;162 329 451;196 978 000;162 329 451;176 978 000
+Économie;134;07;Développement international des entreprises et attractivité du territoire;;;170 059 558;153 889 558;170 059 558;154 889 558
+Économie;134;08;Expertise, conseil et inspection;;;19 945 446;18 784 703;19 945 446;18 807 229
+Économie;134;13;Régulation des communications électroniques et des postes (ARCEP);;;23 143 069;53 575 779;23 143 069;27 045 779
+Économie;134;15;Mise en oeuvre du droit de la concurrence (Autorité de la concurrence);;;21 504 247;21 656 498;22 604 247;21 656 498
+Économie;134;16;Régulation concurrentielle des marchés;;;75 240 867;71 965 264;75 212 099;72 165 058
+Économie;134;17;Protection économique du consommateur;;;121 164 319;115 165 741;121 121 389;115 470 465
+Économie;134;18;Sécurité du consommateur;;;45 427 553;43 517 023;45 410 185;43 637 837
+Économie;134;20;Financement des entreprises;;;24 883 001;48 000 000;24 883 001;48 000 000
+Économie;134;21;Développement du tourisme;;;2 314 376;742 643;4 190 460;1 846 026
+Économie;134;22;Economie sociale et solidaire;;;4 920 570;150 000;4 729 112;
+Économie;220;01;Infrastructure statistique;;;137 706 030;134 935 546;137 589 938;133 342 596
+Économie;220;02;Information sur les entreprises et synthèses économiques;;;54 896 606;56 433 634;55 028 016;56 124 524
+Économie;220;03;Information démographique et sociale;;;71 866 702;70 948 280;72 186 630;70 033 567
+Économie;220;05;Pilotage et soutien;;;132 122 967;142 622 470;126 102 804;136 124 814
+Économie;220;06;Action régionale;;;58 118 182;54 885 397;58 154 577;54 756 378
+Économie;220;07;Formation initiale;;;4 724 594;4 957 469;4 724 594;4 957 469
+Économie;305;01;Définition et mise en oeuvre de la politique économique et financière de la France dans le cadre national, international et européen;;;327 598 021;332 320 309;327 598 021;332 320 309
+Économie;305;02;Développement international de l'économie française;;;84 463 837;85 782 622;84 463 837;85 782 622
+Économie;305;03;Elaboration de la législation fiscale;;;16 099 180;16 632 214;16 099 180;16 632 214
+Économie;343;01;Réseaux d'initiative publique;;;409 500 000;208 000 000;0;
+Engagements financiers de l'État;114;01;Agriculture et environnement;;;1 000 000;900 000;1 000 000;900 000
+Engagements financiers de l'État;114;02;Soutien au domaine social, logement, santé;;;21 900 000;38 290 000;21 900 000;38 290 000
+Engagements financiers de l'État;114;03;Financement des entreprises et industrie;;;4 000 000;1 400 000;4 000 000;1 400 000
+Engagements financiers de l'État;114;04;Développement international de l'économie française;01;Assurance-crédit;0;0;0;0
+Engagements financiers de l'État;114;04;Développement international de l'économie française;02;Assurance-prospection;0;32 000 000;0;32 000 000
+Engagements financiers de l'État;114;04;Développement international de l'économie française;03;Garantie de change;0;1 000 000;0;1 000 000
+Engagements financiers de l'État;114;04;Développement international de l'économie française;04;Garantie du risque économique;0;0;0;0
+Engagements financiers de l'État;114;04;Développement international de l'économie française;05;Garanties de taux d'intérêt Natixis;0;0;0;0
+Engagements financiers de l'État;114;04;Développement international de l'économie française;06;Garantie du risque exportateur;0;30 000 000;0;30 000 000
+Engagements financiers de l'État;114;05;Autres garanties;;;500 000;500 000;500 000;500 000
+Engagements financiers de l'État;117;01;Dette;;;40 600 000 000;40 235 000 000;40 600 000 000;40 235 000 000
+Engagements financiers de l'État;117;03;Trésorerie;;;948 000 000;962 000 000;948 000 000;962 000 000
+Engagements financiers de l'État;145;01;Épargne logement;;;192 032 000;148 928 000;192 032 000;148 928 000
+Engagements financiers de l'État;145;02;Instruments de financement du logement;;;1 468 000;1 072 000;1 468 000;1 072 000
+Engagements financiers de l'État;168;01;Participation de l'État aux majorations de rentes viagères;;;145 600 000;141 800 000;145 600 000;141 800 000
+Engagements financiers de l'État;336;01;Dotation en capital du Mécanisme européen de stabilité;;;0;0;0;0
+Engagements financiers de l'État;338;01;Augmentation de capital de la Banque européenne d'investissement;;;0;0;0;0
+Engagements financiers de l'État;344;01;Fonds de soutien relatif aux prêts et contrats financiers structurés à risque;;;0;0;183 256 145;183 916 762
+Enseignement scolaire;139;01;Enseignement pré-élémentaire;;;468 186 121;479 006 229;468 186 121;479 006 229
+Enseignement scolaire;139;02;Enseignement élémentaire;;;1 250 365 462;1 274 437 537;1 250 365 462;1 274 437 537
+Enseignement scolaire;139;03;Enseignement en collège;;;1 937 440 911;1 966 306 122;1 937 440 911;1 966 306 122
+Enseignement scolaire;139;04;Enseignement général et technologique en lycée;;;1 244 661 546;1 283 895 322;1 244 661 546;1 283 895 322
+Enseignement scolaire;139;05;Enseignement professionnel sous statut scolaire;;;781 210 450;788 361 457;781 210 450;788 361 457
+Enseignement scolaire;139;06;Enseignement post-baccalauréat en lycée;;;281 558 862;285 069 858;281 558 862;285 069 858
+Enseignement scolaire;139;07;Dispositifs spécifiques de scolarisation;;;155 510 335;158 693 218;155 510 335;158 693 218
+Enseignement scolaire;139;08;Actions sociales en faveur des élèves;;;71 350 298;73 850 911;71 350 298;73 850 911
+Enseignement scolaire;139;09;Fonctionnement des établissements;;;686 388 731;677 187 666;686 388 731;677 187 666
+Enseignement scolaire;139;10;Formation initiale et continue des enseignants;;;147 381 154;152 493 860;147 381 154;152 493 860
+Enseignement scolaire;139;11;Remplacement;;;176 450 278;179 668 926;176 450 278;179 668 926
+Enseignement scolaire;139;12;Soutien;;;234 215 109;234 215 109;234 215 109;234 215 109
+Enseignement scolaire;140;01;Enseignement pré-élémentaire;;;5 210 855 295;5 289 782 511;5 210 855 295;5 289 782 511
+Enseignement scolaire;140;02;Enseignement élémentaire;;;10 504 590 574;10 770 265 921;10 504 590 574;10 770 265 921
+Enseignement scolaire;140;03;Besoins éducatifs particuliers;;;1 849 067 583;1 865 801 529;1 849 067 583;1 865 801 529
+Enseignement scolaire;140;04;Formation des personnels enseignants;;;784 326 371;852 620 063;784 326 371;852 620 063
+Enseignement scolaire;140;05;Remplacement;;;1 799 747 386;1 849 196 296;1 799 747 386;1 849 196 296
+Enseignement scolaire;140;06;Pilotage et encadrement pédagogique;;;1 281 768 779;1 291 212 211;1 281 768 779;1 291 212 211
+Enseignement scolaire;140;07;Personnels en situations diverses;;;95 371 362;96 641 108;95 371 362;96 641 108
+Enseignement scolaire;141;01;Enseignement en collège;;;11 531 120 649;11 583 984 111;11 531 120 649;11 583 984 111
+Enseignement scolaire;141;02;Enseignement général et technologique en lycée;;;7 182 615 278;7 266 124 251;7 182 615 278;7 266 124 251
+Enseignement scolaire;141;03;Enseignement professionnel sous statut scolaire;;;4 368 736 653;4 419 071 279;4 368 736 653;4 419 071 279
+Enseignement scolaire;141;04;Apprentissage;;;7 205 714;7 271 926;7 205 714;7 271 926
+Enseignement scolaire;141;05;Enseignement post-baccalauréat en lycée;;;2 098 402 807;2 121 990 702;2 098 402 807;2 121 990 702
+Enseignement scolaire;141;06;Besoins éducatifs particuliers;;;1 213 011 651;1 226 602 085;1 213 011 651;1 226 602 085
+Enseignement scolaire;141;07;Aide à l'insertion professionnelle;;;57 692 522;58 249 240;57 692 522;58 249 240
+Enseignement scolaire;141;08;Information et orientation;;;317 233 595;324 332 603;317 233 595;324 332 603
+Enseignement scolaire;141;09;Formation continue des adultes et validation des acquis de l'expérience;;;122 589 858;124 037 355;122 589 858;124 037 355
+Enseignement scolaire;141;10;Formation des personnels enseignants et d'orientation;;;685 093 889;690 231 010;685 093 889;690 231 010
+Enseignement scolaire;141;11;Remplacement;;;1 461 099 639;1 482 953 555;1 461 099 639;1 482 953 555
+Enseignement scolaire;141;12;Pilotage, administration et encadrement pédagogique;;;3 303 539 419;3 345 051 026;3 303 539 419;3 345 051 026
+Enseignement scolaire;141;13;Personnels en situations diverses;;;92 576 316;93 603 980;92 576 316;93 603 980
+Enseignement scolaire;143;01;Mise en oeuvre de l'enseignement dans les établissements publics;;;736 363 711;759 083 701;736 363 711;759 083 701
+Enseignement scolaire;143;02;Mise en oeuvre des enseignements dans les établissements privés;;;583 112 438;588 592 245;583 112 438;588 592 245
+Enseignement scolaire;143;03;Aide sociale aux élèves (enseignement public et privé);;;89 510 737;95 969 408;89 510 737;95 969 408
+Enseignement scolaire;143;04;Évolution des compétences et dynamique territoriale;;;3 159 551;3 384 218;3 159 551;3 384 218
+Enseignement scolaire;143;05;Moyens communs à l'enseignement technique agricole, public et privé;;;5 521 995;5 521 995;5 521 995;5 521 995
+Enseignement scolaire;214;01;Pilotage et mise en oeuvre des politiques éducatives;;;397 087 371;425 905 298;397 087 371;425 905 298
+Enseignement scolaire;214;02;Évaluation et contrôle;;;79 857 152;82 259 353;79 857 152;82 259 353
+Enseignement scolaire;214;03;Communication;;;13 738 824;14 099 945;13 738 824;14 099 945
+Enseignement scolaire;214;04;Expertise juridique;;;16 629 177;17 109 280;16 629 177;17 109 280
+Enseignement scolaire;214;05;Action internationale;;;13 778 608;13 943 512;13 778 608;13 943 512
+Enseignement scolaire;214;06;Politique des ressources humaines;;;704 898 969;729 397 869;704 898 969;729 397 869
+Enseignement scolaire;214;07;Établissements d'appui de la politique éducative;;;154 191 475;156 668 611;154 191 475;156 668 611
+Enseignement scolaire;214;08;Logistique, système d'information, immobilier;;;596 714 628;777 527 960;613 749 695;707 050 680
+Enseignement scolaire;214;09;Certification;;;198 568 540;202 980 668;198 568 540;202 980 668
+Enseignement scolaire;214;10;Transports scolaires;;;3 322 845;3 322 845;3 322 845;3 322 845
+Enseignement scolaire;230;01;Vie scolaire et éducation à la responsabilité;;;2 379 544 287;2 481 996 570;2 379 544 287;2 481 996 570
+Enseignement scolaire;230;02;Santé scolaire;;;493 002 729;507 362 659;493 002 729;507 362 659
+Enseignement scolaire;230;03;Inclusion scolaire des élèves en situation de handicap;;;799 121 200;1 162 793 639;799 121 200;1 162 793 639
+Enseignement scolaire;230;04;Action sociale;;;815 493 445;881 458 968;815 493 445;881 458 968
+Enseignement scolaire;230;05;Politique de l'internat et établissements à la charge de l'Etat;;;53 668 061;55 504 596;53 668 061;55 504 596
+Enseignement scolaire;230;06;Actions éducatives complémentaires aux enseignements;;;533 208 664;324 047 586;456 077 414;324 047 586
+Gestion des finances publiques et des ressources humaines;148;01;Formation des fonctionnaires;;;83 130 000;84 397 851;83 130 000;84 397 851
+Gestion des finances publiques et des ressources humaines;148;02;Action sociale interministérielle;;;124 226 458;119 874 239;124 226 458;119 817 739
+Gestion des finances publiques et des ressources humaines;148;03;Appui ressources humaines et apprentissage;;;32 786 573;34 841 969;32 786 573;34 898 469
+Gestion des finances publiques et des ressources humaines;156;01;Fiscalité des grandes entreprises;;;111 311 303;113 691 712;114 911 303;117 341 712
+Gestion des finances publiques et des ressources humaines;156;02;Fiscalité des PME;;;1 682 200 158;1 636 645 632;1 681 450 158;1 641 547 632
+Gestion des finances publiques et des ressources humaines;156;03;Fiscalité des particuliers et fiscalité directe locale;;;2 212 729 350;2 186 550 770;2 208 684 350;2 181 942 770
+Gestion des finances publiques et des ressources humaines;156;05;Gestion financière de l'État hors fiscalité;;;730 072 672;716 732 882;729 442 672;715 842 882
+Gestion des finances publiques et des ressources humaines;156;06;Gestion des pensions;;;64 149 835;63 622 571;64 149 835;63 622 571
+Gestion des finances publiques et des ressources humaines;156;07;Gestion financière du secteur public local hors fiscalité;;;1 363 809 800;1 342 617 894;1 360 439 800;1 343 173 894
+Gestion des finances publiques et des ressources humaines;156;08;Gestion des fonds déposés;;;57 029 463;53 517 729;56 940 463;53 434 329
+Gestion des finances publiques et des ressources humaines;156;09;Soutien;;;2 024 408 991;1 998 281 441;1 870 278 008;1 937 224 841
+Gestion des finances publiques et des ressources humaines;218;01;Etat-major et politiques transversales;;;313 373 601;303 981 654;313 378 572;303 991 654
+Gestion des finances publiques et des ressources humaines;218;02;Expertise, audit, évaluation et contrôle;;;69 633 151;75 110 890;69 633 257;73 710 890
+Gestion des finances publiques et des ressources humaines;218;05;Prestations d'appui et support;;;455 128 837;419 060 610;461 547 839;433 153 372
+Gestion des finances publiques et des ressources humaines;218;07;Pilotage des finances publiques et projets interministériels;;;165 297 678;187 148 750;163 276 912;193 048 750
+Gestion des finances publiques et des ressources humaines;302;01;Surveillance douanière des flux de personnes et de marchandises et lutte contre la grande fraude douanière.;;;520 792 448;531 068 927;516 836 187;529 944 549
+Gestion des finances publiques et des ressources humaines;302;03;Préservation de la sécurité et de la sûreté de l'espace national et européen;;;176 289 023;194 905 187;170 994 640;200 180 601
+Gestion des finances publiques et des ressources humaines;302;04;Promotion des échanges internationaux et qualité du dédouanement;;;266 242 261;264 729 945;265 104 265;265 888 679
+Gestion des finances publiques et des ressources humaines;302;05;Fiscalité douanière, énergétique et environnementale;;;282 420 209;261 881 790;281 665 772;261 790 474
+Gestion des finances publiques et des ressources humaines;302;06;Soutien des services opérationnels;;;294 477 317;306 564 891;291 663 629;306 265 518
+Immigration, asile et intégration;104;11;Accueil des étrangers primo arrivants;;;173 508 000;191 431 000;173 508 000;191 431 000
+Immigration, asile et intégration;104;12;Actions d'accompagnement des étrangers en situation régulière;;;29 753 320;38 431 000;29 753 320;38 431 000
+Immigration, asile et intégration;104;14;Accès à la nationalité française;;;945 600;1 069 222;1 005 600;1 029 767
+Immigration, asile et intégration;104;15;Accompagnement des réfugiés;;;26 743 400;43 160 100;26 743 400;43 160 100
+Immigration, asile et intégration;104;16;Accompagnement du plan de traitement des foyers de  travailleurs migrants;;;8 538 000;8 538 000;8 538 000;8 538 000
+Immigration, asile et intégration;303;01;Circulation des étrangers et politique des visas;;;520 000;520 000;520 000;520 000
+Immigration, asile et intégration;303;02;Garantie de l'exercice du droit d'asile;;;868 670 923;953 015 461;740 910 000;985 452 829
+Immigration, asile et intégration;303;03;Lutte contre l'immigration irrégulière;;;89 017 850;82 626 000;89 157 350;82 826 000
+Immigration, asile et intégration;303;04;Soutien;;;26 850 403;33 627 961;27 611 053;31 757 961
+Investissements d'avenir;421;01;Nouveaux cursus à l'université;;;250 000 000;0;0;12 500 000
+Investissements d'avenir;421;02;Programmes prioritaires de recherche;;;400 000 000;0;0;20 000 000
+Investissements d'avenir;421;03;Équipements structurants de recherche;;;350 000 000;0;0;
+Investissements d'avenir;421;04;Soutien des grandes universités de recherche;;;700 000 000;0;0;10 000 000
+Investissements d'avenir;421;05;Constitution d'écoles universitaires de recherche;;;300 000 000;0;0;20 000 000
+Investissements d'avenir;421;06;Créations expérimentales de sociétés universitaires et scientifiques;;;400 000 000;0;0;50 000 000
+Investissements d'avenir;421;07;Territoires d'innovation pédagogique;;;500 000 000;0;0;30 000 000
+Investissements d'avenir;422;01;Intégration des SATT, incubateurs et accélérateurs;;;150 000 000;0;0;10 000 000
+Investissements d'avenir;422;02;"Fonds national post-maturation ""Frontier venture""";;;500 000 000;0;0;100 000 000
+Investissements d'avenir;422;03;Démonstrateurs et territoires d'innovation de grande ambition;;;1 500 000 000;0;0;70 000 000
+Investissements d'avenir;422;04;Nouveaux écosystèmes d'innovation;;;230 000 000;0;0;10 000 000
+Investissements d'avenir;422;05;Accélération du développement des écosystèmes d'innovation performants;;;620 000 000;0;0;37 000 000
+Investissements d'avenir;423;01;Soutien à l'innovation collaborative;;;550 000 000;0;0;60 000 000
+Investissements d'avenir;423;02;Accompagnement et transformation des filières;;;1 000 000 000;0;0;25 000 000
+Investissements d'avenir;423;03;Industrie du futur;;;350 000 000;0;0;0
+Investissements d'avenir;423;04;Adaptation et qualification de la main d'oeuvre;;;100 000 000;0;0;25 000 000
+Investissements d'avenir;423;05;Concours d'innovation;;;300 000 000;0;0;50 000 000
+Investissements d'avenir;423;06;Fonds national d'amorçage n° 2;;;500 000 000;0;0;250 000 000
+Investissements d'avenir;423;07;Fonds à l'internationalisation des PME;;;200 000 000;0;0;100 000 000
+Investissements d'avenir;423;08;"Fonds de fonds ""Multicap Croissance"" n° 2";;;400 000 000;0;0;200 000 000
+Investissements d'avenir;423;09;Grands défis;;;700 000 000;0;0;0
+Justice;101;01;Aide juridictionnelle;;;364 196 004;395 934 152;364 196 004;395 934 152
+Justice;101;02;Développement de l'accès au droit et du réseau judiciaire de proximité;;;8 475 350;8 292 350;8 475 350;8 292 350
+Justice;101;03;Aide aux victimes;;;26 066 500;27 705 000;26 066 500;27 705 000
+Justice;101;04;Médiation familiale et espaces de rencontre;;;4 366 342;6 252 900;4 366 342;6 252 900
+Justice;101;05;Indemnisation des avoués;;;;;;
+Justice;107;01;Garde et contrôle des personnes placées sous main de justice;;;3 626 166 107;2 325 050 843;2 145 256 107;2 163 607 482
+Justice;107;02;Accueil et accompagnement des personnes placées sous main de justice;;;1 788 590 145;763 455 170;1 130 065 996;1 050 855 170
+Justice;107;04;Soutien et formation;;;348 342 631;400 127 907;339 002 631;343 763 411
+Justice;166;01;Traitement et jugement des contentieux civils;;;967 221 325;1 003 205 954;967 221 325;1 003 205 954
+Justice;166;02;Conduite de la politique pénale et jugement des affaires pénales;;;1 203 367 487;1 207 279 602;1 203 367 487;1 217 279 602
+Justice;166;03;Cassation;;;50 371 552;50 498 470;50 371 552;50 498 470
+Justice;166;05;Enregistrement des décisions judiciaires;;;11 833 030;12 347 989;11 833 030;12 347 989
+Justice;166;06;Soutien;;;1 014 323 910;985 976 569;908 120 241;972 456 569
+Justice;166;07;Formation;;;151 115 109;163 119 636;151 115 109;163 119 636
+Justice;166;08;Support à l'accès au droit et à la justice;;;23 216 703;27 570 472;23 216 703;27 570 472
+Justice;182;01;Mise en oeuvre des décisions judiciaires;;;709 866 212;733 683 762;700 587 013;723 737 981
+Justice;182;03;Soutien;;;97 614 869;100 250 749;94 612 526;97 931 806
+Justice;182;04;Formation;;;35 592 656;41 428 863;33 540 206;35 578 863
+Justice;310;01;État major;;;11 120 200;11 376 319;11 120 200;11 376 319
+Justice;310;02;Activité normative;;;25 248 686;26 283 414;25 248 686;26 283 414
+Justice;310;03;Évaluation, contrôle, études et recherche;;;18 899 890;19 417 350;18 899 890;19 692 350
+Justice;310;04;Gestion de l'administration centrale;;;114 580 193;130 187 239;124 210 193;145 972 659
+Justice;310;09;Action informatique ministérielle;;;154 447 370;544 214 566;160 432 866;190 715 683
+Justice;310;10;Action sociale ministérielle;;;37 074 009;40 550 691;37 074 009;40 550 691
+Justice;335;01;Conseil supérieur de la magistrature;;;3 773 574;4 510 619;4 545 098;4 767 119
+Médias, livre et industries culturelles;180;01;Relations financières avec l'AFP;;;132 476 239;131 476 239;132 476 239;131 476 239
+Médias, livre et industries culturelles;180;02;Aides à la presse;;;125 917 207;119 430 676;125 917 207;119 430 676
+Médias, livre et industries culturelles;180;05;Soutien aux médias de proximité;;;1 587 160;1 581 660;1 587 160;1 581 660
+Médias, livre et industries culturelles;180;06;Soutien à l'expression radiophonique locale;;;30 923 418;30 748 639;30 923 418;30 748 639
+Médias, livre et industries culturelles;180;07;Compagnie internationale de radio et télévision (CIRT);;;1 666 500;1 666 500;1 666 500;1 666 500
+Médias, livre et industries culturelles;334;01;Livre et lecture;;;262 300 701;246 652 598;260 282 250;255 408 250
+Médias, livre et industries culturelles;334;02;Industries culturelles;;;16 432 051;15 106 051;16 432 051;15 106 051
+Outre-mer;123;01;Logement;;;246 000 000;226 000 000;231 750 000;228 115 237
+Outre-mer;123;02;Aménagement  du territoire;;;144 232 023;161 238 860;163 727 738;166 005 514
+Outre-mer;123;03;Continuité territoriale;;;41 662 353;41 123 746;41 662 353;41 123 746
+Outre-mer;123;04;Sanitaire, social, culture, jeunesse et sports;;;29 975 836;19 600 000;21 725 836;19 600 000
+Outre-mer;123;06;Collectivités territoriales;;;300 345 536;261 915 550;279 860 466;225 628 714
+Outre-mer;123;07;Insertion économique et coopération régionales;;;954 500;909 500;954 500;909 500
+Outre-mer;123;08;Fonds exceptionnel d'investissement;;;40 000 000;40 000 000;34 767 379;36 000 000
+Outre-mer;123;09;Appui à l'accès aux financements bancaires;;;45 623 254;25 000 000;13 230 678;17 331 633
+Outre-mer;138;01;Soutien aux entreprises;;;1 027 625 023;1 079 037 757;1 030 387 552;1 078 537 757
+Outre-mer;138;02;Aide à l'insertion et à la qualification professionnelle;;;246 161 149;247 452 286;246 703 952;252 530 007
+Outre-mer;138;03;Pilotage des politiques des outre-mer;;;2 131 993;2 525 000;2 131 993;2 525 000
+Pouvoirs publics;501;01;Présidence de la République;;;100 000 000;103 000 000;100 000 000;103 000 000
+Pouvoirs publics;511;01;Assemblée nationale;;;517 890 000;517 890 000;517 890 000;517 890 000
+Pouvoirs publics;521;01;Sénat;;;311 627 700;311 627 700;311 627 700;311 627 700
+Pouvoirs publics;521;02;Jardin du Luxembourg;;;11 956 900;11 956 900;11 956 900;11 956 900
+Pouvoirs publics;521;03;Musée du Luxembourg;;;;;;
+Pouvoirs publics;531;01;Conseil constitutionnel;;;13 696 974;11 719 229;13 696 974;11 719 229
+Pouvoirs publics;532;01;Haute Cour;;;0;0;0;0
+Pouvoirs publics;533;01;Cour de justice de la République;;;861 500;861 500;861 500;861 500
+Pouvoirs publics;541;01;La Chaîne parlementaire - Assemblée nationale;;;16 641 162;16 641 162;16 641 162;16 641 162
+Pouvoirs publics;541;02;Public Sénat;;;18 246 000;18 046 000;18 246 000;18 046 000
+Pouvoirs publics;542;01;Indemnités des représentants français au Parlement européen;;;0;0;0;0
+Recherche et enseignement supérieur;142;01;Enseignement supérieur;;;303 821 229;309 750 669;302 983 950;310 613 390
+Recherche et enseignement supérieur;142;02;Recherche, développement et transfert de technologie;;;36 686 171;35 788 099;36 686 171;35 788 099
+Recherche et enseignement supérieur;150;01;Formation initiale et continue du baccalauréat à la licence;;;3 127 997 204;3 174 551 974;3 127 997 204;3 174 551 974
+Recherche et enseignement supérieur;150;02;Formation initiale et continue de niveau master;;;2 507 190 044;2 526 079 920;2 507 190 044;2 526 079 920
+Recherche et enseignement supérieur;150;03;Formation initiale et continue de niveau doctorat;;;366 070 727;373 890 840;366 070 727;373 890 840
+Recherche et enseignement supérieur;150;04;Établissements d'enseignement privés;;;78 897 852;79 895 852;78 897 852;79 895 852
+Recherche et enseignement supérieur;150;05;Bibliothèques et documentation;;;445 648 048;447 670 831;445 648 048;447 670 831
+Recherche et enseignement supérieur;150;13;Diffusion des savoirs et musées;;;115 780 204;116 921 136;115 780 204;116 921 136
+Recherche et enseignement supérieur;150;14;Immobilier;;;1 191 095 316;1 218 691 456;1 153 525 156;1 216 071 627
+Recherche et enseignement supérieur;150;15;Pilotage et support du programme;;;1 534 966 563;1 561 206 753;1 534 966 563;1 561 206 753
+Recherche et enseignement supérieur;150;17;Recherche;;;3 896 774 728;3 924 777 425;3 896 774 728;3 924 777 425
+Recherche et enseignement supérieur;172;01;Pilotage et animation;;;176 929 384;176 516 280;175 159 384;175 943 810
+Recherche et enseignement supérieur;172;02;Agence nationale de la recherche;;;703 410 704;736 131 661;639 385 362;773 270 416
+Recherche et enseignement supérieur;172;11;Recherches interdisciplinaires et transversales;;;62 729 705;62 657 661;62 729 705;62 657 661
+Recherche et enseignement supérieur;172;12;Diffusion, valorisation et transfert des connaissances et des technologies;;;149 001 398;149 019 948;149 001 398;149 019 948
+Recherche et enseignement supérieur;172;13;Grandes infrastructures de recherche;;;239 415 000;257 335 892;239 415 000;257 335 892
+Recherche et enseignement supérieur;172;14;Moyens généraux et d'appui à la recherche;;;847 485 795;889 372 248;847 485 795;889 372 248
+Recherche et enseignement supérieur;172;15;Recherches scientifiques et technologiques en sciences de la vie et de la santé;;;1 219 788 012;1 215 973 215;1 214 454 679;1 216 306 548
+Recherche et enseignement supérieur;172;16;Recherches scientifiques et technologiques en sciences et techniques de l'information;;;983 226 401;982 627 219;983 226 401;982 627 219
+Recherche et enseignement supérieur;172;17;Recherches scientifiques et technologiques dans le domaine de l'énergie;;;630 360 764;726 356 278;611 494 588;735 376 278
+Recherche et enseignement supérieur;172;18;Recherches scientifiques et technologiques dans le domaine de l'environnement;;;1 096 475 486;1 122 803 927;1 096 475 486;1 122 803 927
+Recherche et enseignement supérieur;172;19;Recherches scientifiques et technologiques en sciences humaines et sciences sociales;;;405 087 324;405 109 906;405 087 324;405 109 906
+Recherche et enseignement supérieur;186;01;Recherche culturelle;;;9 947 728;10 459 854;9 878 966;10 378 966
+Recherche et enseignement supérieur;186;03;Culture scientifique et technique;;;105 464 710;101 691 732;106 691 732;101 691 732
+Recherche et enseignement supérieur;190;10;Recherche dans le domaine de l'énergie;01;Commissariat à l'énergie atomique et aux énergies alternatives (CEA);484 425 935;477 500 000;484 425 935;477 500 000
+Recherche et enseignement supérieur;190;10;Recherche dans le domaine de l'énergie;02;IFP Energies nouvelles (IFPEN);134 418 048;130 418 048;134 418 048;130 418 048
+Recherche et enseignement supérieur;190;10;Recherche dans le domaine de l'énergie;03;Gestion des matières et déchets radioactifs : CNE - reprise des sources;467 781;500 000;467 781;500 000
+Recherche et enseignement supérieur;190;11;Recherche dans le domaine des risques;01;Institut national de l'environnement industriel et des risques (INERIS);6 373 110;6 373 110;6 373 110;6 373 110
+Recherche et enseignement supérieur;190;11;Recherche dans le domaine des risques;02;Institut de radioprotection et de sûreté nucléaire (IRSN);170 964 999;170 964 999;170 964 999;170 964 999
+Recherche et enseignement supérieur;190;12;Recherche dans le domaine des transports, de la construction et de l'aménagement;01;Institut français des sciences et technologies des transports, de l’aménagement et des réseaux (IFSTTAR);85 797 612;86 920 000;85 797 612;86 920 000
+Recherche et enseignement supérieur;190;12;Recherche dans le domaine des transports, de la construction et de l'aménagement;03;Centre scientifique et technique du bâtiment (CSTB);14 693 032;14 693 032;14 693 032;14 693 032
+Recherche et enseignement supérieur;190;13;Recherche partenariale dans le développement et l'aménagement durable;01;Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES);1 551 198;1 551 198;1 551 198;1 551 198
+Recherche et enseignement supérieur;190;13;Recherche partenariale dans le développement et l'aménagement durable;02;Agence de l'environnement et de la maîtrise de l'énergie (ADEME);0;0;0;0
+Recherche et enseignement supérieur;190;13;Recherche partenariale dans le développement et l'aménagement durable;04;Recherche en matière de transport (PREDIT);0;0;965 735;804 780
+Recherche et enseignement supérieur;190;13;Recherche partenariale dans le développement et l'aménagement durable;05;Construction (PREBAT, C2D2, RGCU);0;0;276 099;230 082
+Recherche et enseignement supérieur;190;13;Recherche partenariale dans le développement et l'aménagement durable;06;Urbanisme et territoire (PUCA, MUTS);0;0;1 120 134;933 445
+Recherche et enseignement supérieur;190;13;Recherche partenariale dans le développement et l'aménagement durable;07;Changement global (GMES, adaptation au changement climatique);0;0;753 671;628 059
+Recherche et enseignement supérieur;190;13;Recherche partenariale dans le développement et l'aménagement durable;08;Risque, santé, environnement;0;0;1 770 746;1 475 621
+Recherche et enseignement supérieur;190;13;Recherche partenariale dans le développement et l'aménagement durable;09;Biodiversité;0;0;698 847;582 373
+Recherche et enseignement supérieur;190;13;Recherche partenariale dans le développement et l'aménagement durable;10;Innovation et prospective dans le domaine du développement et de l'aménagement durable;0;0;414 768;345 640
+Recherche et enseignement supérieur;190;14;Recherche et développement dans le domaine de l'aéronautique civile;01;Recherches en amont;59 665 448;99 872 000;59 665 448;88 708 726
+Recherche et enseignement supérieur;190;14;Recherche et développement dans le domaine de l'aéronautique civile;02;Subventions à des organismes de recherche;128 000;128 000;128 000;128 000
+Recherche et enseignement supérieur;190;14;Recherche et développement dans le domaine de l'aéronautique civile;03;Equipementier;8 495 704;35 000 000;8 495 704;13 865 342
+Recherche et enseignement supérieur;190;14;Recherche et développement dans le domaine de l'aéronautique civile;04;Avions;0;0;0;0
+Recherche et enseignement supérieur;190;14;Recherche et développement dans le domaine de l'aéronautique civile;05;Moteurs;0;0;0;0
+Recherche et enseignement supérieur;190;14;Recherche et développement dans le domaine de l'aéronautique civile;06;Hélicoptères;0;0;0;0
+Recherche et enseignement supérieur;190;15;Charges nucléaires de long terme des installations du CEA;;;740 000 000;740 000 000;740 000 000;740 000 000
+Recherche et enseignement supérieur;191;01;Recherche duale en sciences du vivant;;;7 775 100;7 940 000;7 775 100;7 940 000
+Recherche et enseignement supérieur;191;02;Recherche duale en sciences et techniques de l'information et de la communication;;;6 349 900;6 698 031;6 349 900;6 698 031
+Recherche et enseignement supérieur;191;03;Recherche duale dans le domaine aérospatial;;;152 756 714;152 756 714;152 756 714;152 756 714
+Recherche et enseignement supérieur;191;04;Autres recherches et développements technologiques duaux;;;13 193 031;12 680 000;13 193 031;12 680 000
+Recherche et enseignement supérieur;192;01;Organismes de formation supérieure et de recherche;;;311 809 859;317 863 262;323 624 859;317 863 262
+Recherche et enseignement supérieur;192;02;Soutien et diffusion de l'innovation technologique;;;346 734 986;347 378 979;346 734 986;347 378 979
+Recherche et enseignement supérieur;192;03;Soutien de la recherche industrielle stratégique;;;110 749 456;74 379 456;124 249 456;114 500 000
+Recherche et enseignement supérieur;193;01;Développement de la technologie spatiale au service de la science;;;184 388 824;202 151 044;184 388 824;202 151 044
+Recherche et enseignement supérieur;193;02;Développement de la technologie spatiale au service de l'observation de la terre;;;280 098 631;297 992 423;280 098 631;297 992 423
+Recherche et enseignement supérieur;193;03;Développement de la technologie spatiale au service de la recherche en sciences de l'information et de la communication;;;119 335 650;133 545 426;119 335 650;133 545 426
+Recherche et enseignement supérieur;193;04;Maîtrise de l'accès à l'espace;;;517 095 406;577 486 954;517 095 406;577 486 954
+Recherche et enseignement supérieur;193;05;Maîtrise des technologies orbitales et de l'innovation technologique;;;223 347 310;240 451 670;223 347 310;240 451 670
+Recherche et enseignement supérieur;193;06;Moyens généraux et d'appui à la recherche;;;84 170 531;87 017 775;84 170 531;87 017 775
+Recherche et enseignement supérieur;193;07;Développement des satellites de météorologie;;;58 148 000;83 328 827;58 148 000;83 328 827
+Recherche et enseignement supérieur;231;01;Aides directes;;;2 259 658 321;2 266 881 981;2 259 658 321;2 266 881 981
+Recherche et enseignement supérieur;231;02;Aides indirectes;;;273 663 747;270 522 470;270 433 872;274 881 670
+Recherche et enseignement supérieur;231;03;Santé des étudiants et activités associatives, culturelles et sportives;;;60 817 862;60 636 862;60 817 862;60 636 862
+Recherche et enseignement supérieur;231;04;Pilotage et animation du programme;;;97 233 066;97 125 554;97 233 066;97 125 554
+Régimes sociaux et de retraite;195;01;Versements au fonds spécial de retraite de la caisse autonome nationale de sécurité sociale dans les mines;;;1 215 715 400;1 177 431 263;1 215 715 400;1 177 431 263
+Régimes sociaux et de retraite;195;02;Régime de retraite de la SEITA;;;157 537 690;153 348 211;157 537 690;153 348 211
+Régimes sociaux et de retraite;195;04;Caisse des retraites des régies ferroviaires d'outre-mer;;;2 242 216;2 138 042;2 242 216;2 138 042
+Régimes sociaux et de retraite;195;07;Versements liés à la liquidation de l'ORTF;;;250 000;170 000;250 000;170 000
+Régimes sociaux et de retraite;195;11;Régime de retraite complémentaire des exploitants agricoles (RCO);;;55 000 000;55 000 000;55 000 000;55 000 000
+Régimes sociaux et de retraite;197;01;Régimes de retraite et de sécurité sociale des marins;;;828 068 119;824 324 582;828 068 119;824 324 582
+Régimes sociaux et de retraite;198;03;Régime de retraite du personnel de la SNCF;;;3 253 096 778;3 283 495 491;3 253 096 778;3 283 495 491
+Régimes sociaux et de retraite;198;04;Régime de retraite du personnel de la RATP;;;680 600 000;709 304 659;680 600 000;709 304 659
+Régimes sociaux et de retraite;198;05;Autres régimes;;;115 400 000;127 017 013;115 400 000;127 017 013
+Relations avec les collectivités territoriales;119;01;Soutien aux projets des communes et groupements de communes;;;1 680 779 990;1 855 279 990;1 134 554 883;1 417 727 153
+Relations avec les collectivités territoriales;119;02;Dotation générale de décentralisation des communes;;;184 308 258;130 308 258;144 308 258;130 308 258
+Relations avec les collectivités territoriales;119;03;Soutien aux projets des départements et des régions;;;215 855 969;211 855 969;215 855 969;461 855 969
+Relations avec les collectivités territoriales;119;04;Dotation générale de décentralisation des départements;;;265 337 672;265 337 672;265 337 672;265 337 672
+Relations avec les collectivités territoriales;119;05;Dotation générale de décentralisation des régions;;;993 728 778;908 104 567;993 728 778;908 104 567
+Relations avec les collectivités territoriales;119;06;Dotation générale de décentralisation concours particuliers;;;227 559 287;227 575 588;227 559 287;227 575 588
+Relations avec les collectivités territoriales;119;07;Soutien à l'investissement - Part métropoles;;;450 000 000;0;200 000 000;0
+Relations avec les collectivités territoriales;122;01;Aides exceptionnelles aux collectivités territoriales;;;147 559 603;42 000 000;112 559 603;106 665 967
+Relations avec les collectivités territoriales;122;02;Administration des relations avec les collectivités territoriales;;;2 463 826;2 463 826;2 517 151;2 517 151
+Relations avec les collectivités territoriales;122;04;Dotations Outre-Mer;;;139 320 030;140 208 046;139 320 030;140 208 046
+Remboursements et dégrèvements;200;11;Remboursements et restitutions liés à la mécanique de l'impôt;01;Impôts sur les sociétés;17 174 000 000;16 097 000 000;17 174 000 000;16 097 000 000
+Remboursements et dégrèvements;200;11;Remboursements et restitutions liés à la mécanique de l'impôt;02;Taxe sur la valeur ajoutée;52 419 000 000;51 481 460 000;52 419 000 000;51 481 460 000
+Remboursements et dégrèvements;200;11;Remboursements et restitutions liés à la mécanique de l'impôt;03;Plafonnement des impositions directes;0;0;0;0
+Remboursements et dégrèvements;200;11;Remboursements et restitutions liés à la mécanique de l'impôt;04;Autres remboursements et dégrèvements liés à la mécanique de l’impôt;164 424 000;179 789 000;164 424 000;179 789 000
+Remboursements et dégrèvements;200;12;Remboursements et dégrèvements liées à des politiques publiques;01;Prime pour l'emploi;0;0;0;0
+Remboursements et dégrèvements;200;12;Remboursements et dégrèvements liées à des politiques publiques;02;Impôt sur le revenu;2 628 000 000;3 691 000 000;2 628 000 000;3 691 000 000
+Remboursements et dégrèvements;200;12;Remboursements et dégrèvements liées à des politiques publiques;03;Impôt sur les sociétés;11 519 000 000;15 521 000 000;11 519 000 000;15 521 000 000
+Remboursements et dégrèvements;200;12;Remboursements et dégrèvements liées à des politiques publiques;04;Taxe intérieure sur les produits pétroliers;1 119 852 000;1 422 560 000;1 119 852 000;1 422 560 000
+Remboursements et dégrèvements;200;12;Remboursements et dégrèvements liées à des politiques publiques;05;Taxe intérieure de consommation sur le gaz naturel;3 000 000;3 000 000;3 000 000;3 000 000
+Remboursements et dégrèvements;200;12;Remboursements et dégrèvements liées à des politiques publiques;06;Contribution pour l'audiovisuel public;511 395 000;594 400 000;511 395 000;594 400 000
+Remboursements et dégrèvements;200;12;Remboursements et dégrèvements liées à des politiques publiques;07;Prélèvement sur le produit des jeux;0;0;0;0
+Remboursements et dégrèvements;200;13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;01;Impôts sur le revenu - Dégrèvements et restitution de sommes indûment perçues;2 348 000 000;2 055 000 000;2 348 000 000;2 055 000 000
+Remboursements et dégrèvements;200;13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;02;Impôts sur les sociétés - Dégrèvements et restitution de sommes indûment perçues;1 317 000 000;839 000 000;1 317 000 000;839 000 000
+Remboursements et dégrèvements;200;13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;03;Autres impôts directs et taxes assimilées - Dégrèvements et restitution de sommes indûment perçues;1 627 434 000;2 075 000 000;1 627 434 000;2 075 000 000
+Remboursements et dégrèvements;200;13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;04;Taxe sur la valeur ajoutée - Dégrèvements et restitution de sommes indûment perçues;2 200 000 000;2 136 265 000;2 200 000 000;2 136 265 000
+Remboursements et dégrèvements;200;13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;05;Enregistrement, timbre, autres contributions et taxes indirectes - Dégrèvements et restitution de sommes indûment perçues;500 000 000;650 000 000;500 000 000;650 000 000
+Remboursements et dégrèvements;200;13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;06;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat;716 000 000;710 000 000;716 000 000;710 000 000
+Remboursements et dégrèvements;200;13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;07;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Admissions en non valeur - Créances liées aux impôts;2 200 000 000;2 050 000 000;2 200 000 000;2 050 000 000
+Remboursements et dégrèvements;200;13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;08;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;513 000 000;650 000 000;513 000 000;650 000 000
+Remboursements et dégrèvements;201;01;Taxe professionnelle et contribution économique territoriale  et autres impôts économiques créés ou modifiés dans le cadre de la réforme de la taxe professionnelle;;;6 599 356 000;6 490 000 000;6 599 356 000;6 490 000 000
+Remboursements et dégrèvements;201;02;Taxes foncières;;;1 075 960 000;1 161 000 000;1 075 960 000;1 161 000 000
+Remboursements et dégrèvements;201;03;Taxe d'habitation;;;3 717 184 000;6 864 000 000;3 717 184 000;6 864 000 000
+Remboursements et dégrèvements;201;04;Admission en non valeur d'impôts locaux;;;481 000 000;531 000 000;481 000 000;531 000 000
+Santé;183;02;Aide médicale de l'Etat;;;815 213 193;923 703 824;815 213 193;923 703 824
+Santé;183;03;Fonds d'indemnisation des victimes de l'amiante;;;8 000 000;8 000 000;8 000 000;8 000 000
+Santé;204;11;Pilotage de la politique de santé publique;;;196 394 306;251 786 677;196 394 306;251 786 677
+Santé;204;12;Santé des populations;;;1 817 015;945 000;1 817 015;945 000
+Santé;204;14;Prévention des maladies chroniques et qualité de vie des malades;;;56 640 048;52 723 547;56 640 048;52 723 547
+Santé;204;15;Prévention des risques liés à l'environnement et à l'alimentation;;;19 466 889;18 308 000;19 466 889;18 308 000
+Santé;204;16;Veille et sécurité sanitaire;;;1 365 674;1 142 401;1 365 674;1 142 401
+Santé;204;17;Politique des produits de santé et de la qualité des pratiques et des soins;;;130 373 889;121 743 155;130 373 889;121 743 155
+Santé;204;18;Projets régionaux de santé;;;35 000;;35 000;
+Santé;204;19;Modernisation de l'offre de soins;;;35 326 804;38 193 804;36 626 804;39 493 804
+Sécurités;152;01;Ordre et sécurité publics;;;3 347 405 055;3 380 370 406;3 347 405 055;3 380 370 406
+Sécurités;152;02;Sécurité routière;;;744 779 288;737 311 123;744 779 288;737 311 123
+Sécurités;152;03;Missions de police judiciaire et concours à la justice;;;2 023 812 206;2 038 917 844;2 023 812 206;2 038 917 844
+Sécurités;152;04;Commandement, ressources humaines et logistique;;;2 563 493 395;2 623 072 083;2 357 665 153;2 367 414 819
+Sécurités;152;05;Exercice des missions militaires;;;135 104 733;133 725 218;135 104 733;133 725 218
+Sécurités;161;11;Prévention et gestion de crises;;;33 328 984;32 313 991;36 598 984;36 028 991
+Sécurités;161;12;Préparation et interventions spécialisées des moyens nationaux;;;258 967 635;666 657 442;294 651 783;340 451 116
+Sécurités;161;13;Soutien aux acteurs de la sécurité civile;;;167 899 300;144 955 038;168 049 300;146 755 038
+Sécurités;161;14;Fonctionnement, soutien et logistique;;;9 495 541;11 467 983;8 445 541;10 667 983
+Sécurités;176;01;Ordre public et protection de la souveraineté;;;1 330 436 696;1 271 147 295;1 330 436 696;1 271 147 295
+Sécurités;176;02;Sécurité et paix publiques;;;2 986 189 941;2 923 540 409;2 986 189 941;2 923 540 409
+Sécurités;176;03;Sécurité routière;;;452 674 269;453 816 811;452 674 269;453 816 811
+Sécurités;176;04;Police des étrangers et sûreté des transports internationaux;;;887 565 876;905 967 514;887 565 876;905 967 514
+Sécurités;176;05;Missions de police judiciaire et concours à la justice;;;2 602 213 704;2 783 274 883;2 602 213 704;2 783 274 883
+Sécurités;176;06;Commandement, ressources humaines et logistique;;;2 234 650 029;2 512 791 819;2 100 527 937;2 226 669 727
+Sécurités;207;01;Observation, prospective, réglementation et soutien au programme;;;2 881 927;2 874 988;2 881 927;2 874 988
+Sécurités;207;02;Démarches interministérielles et communication;;;15 116 846;16 272 446;15 116 846;16 272 446
+Sécurités;207;03;Éducation routière;;;20 828 679;20 798 596;20 828 679;20 798 596
+Solidarité, insertion et égalité des chances;124;10;Fonctionnement des services;;;12 468 375;15 741 082;12 468 375;15 875 689
+Solidarité, insertion et égalité des chances;124;11;Systèmes d'information;;;31 095 000;47 329 752;31 095 000;46 009 074
+Solidarité, insertion et égalité des chances;124;12;Affaires immobilières;;;51 423 712;80 180 091;71 317 389;88 434 892
+Solidarité, insertion et égalité des chances;124;14;Communication;;;5 264 562;4 729 562;5 264 562;4 729 562
+Solidarité, insertion et égalité des chances;124;15;Affaires européennes et internationales;;;6 129 048;5 479 048;6 129 048;5 479 048
+Solidarité, insertion et égalité des chances;124;16;Statistiques, études et recherche;;;9 955 176;9 147 448;9 955 176;9 147 448
+Solidarité, insertion et égalité des chances;124;17;Financement des agences régionales de santé;;;604 267 500;594 826 665;604 267 500;594 826 665
+Solidarité, insertion et égalité des chances;124;18;Personnels mettant en oeuvre les politiques sociales et de la santé;;;271 800 359;248 461 852;271 800 359;248 461 852
+Solidarité, insertion et égalité des chances;124;19;Personnels mettant en oeuvre les politiques du sport, de la jeunesse, de l'éducation populaire et de la vie associative;;;296 091 602;283 656 943;296 091 602;283 656 943
+Solidarité, insertion et égalité des chances;124;20;Personnels mettant en oeuvre les politiques pour les droits des femmes;;;12 776 465;15 614 630;12 776 465;15 614 630
+Solidarité, insertion et égalité des chances;124;21;Personnels mettant en œuvre les politiques de la ville, du logement et de l'hébergement;;;40 772 876;50 470 339;40 772 876;50 470 339
+Solidarité, insertion et égalité des chances;124;22;Personnels transversaux et de soutien;;;121 533 998;132 188 241;121 533 998;132 188 241
+Solidarité, insertion et égalité des chances;124;23;Politique des ressources humaines;;;24 335 344;22 961 571;24 335 344;23 007 257
+Solidarité, insertion et égalité des chances;137;11;Actions et expérimentations pour la culture de l'égalité et en faveur de l'égalité professionnelle, politique et sociale;;;5 572 400;4 899 426;5 572 400;4 899 426
+Solidarité, insertion et égalité des chances;137;12;Promotion des droits, prévention et lutte contre les violences sexistes;;;16 327 700;18 391 170;16 327 700;18 391 170
+Solidarité, insertion et égalité des chances;137;13;Soutien du programme égalité entre les femmes et les hommes;;;1 023 781;1 560 107;1 023 781;1 560 107
+Solidarité, insertion et égalité des chances;137;14;Actions de soutien, d'expérimentation en faveur de l’égalité entre les femmes et les hommes ;;;20 500;;20 500;
+Solidarité, insertion et égalité des chances;137;15;Prévention et lutte contre la prostitution et la traite des êtres humains;;;6 827 945;5 020 878;6 827 945;5 020 878
+Solidarité, insertion et égalité des chances;157;11;Fonctionnement des maisons départementales des personnes handicapées;;;7 500;;7 500;
+Solidarité, insertion et égalité des chances;157;12;Allocations et aides en faveur des personnes handicapées;;;10 577 584 246;11 317 454 863;10 577 584 246;11 317 454 863
+Solidarité, insertion et égalité des chances;157;13;Pilotage du programme et animation des politiques inclusives;;;28 435 684;23 837 562;28 435 684;23 837 562
+Solidarité, insertion et égalité des chances;304;11;Prime d'activité et autres dispositifs;;;4 958 005 000;5 670 958 855;4 958 005 000;5 670 958 855
+Solidarité, insertion et égalité des chances;304;12;Economie sociale et solidaire;;;222 325;;222 325;
+Solidarité, insertion et égalité des chances;304;13;Ingénierie, outils de la gouvernance et expérimentations;;;888 639;676 511;888 639;676 511
+Solidarité, insertion et égalité des chances;304;14;Aide alimentaire;;;44 155 404;51 921 573;44 155 404;51 921 573
+Solidarité, insertion et égalité des chances;304;15;Qualification en travail social;;;6 529 335;6 144 246;6 529 335;6 144 246
+Solidarité, insertion et égalité des chances;304;16;Protection juridique des majeurs;;;650 000 000;647 221 843;650 000 000;647 221 843
+Solidarité, insertion et égalité des chances;304;17;Protection et accompagnement des enfants, des jeunes et des familles vulnérables;;;31 915 800;143 071 791;31 915 800;143 071 791
+Solidarité, insertion et égalité des chances;304;18;Aide à la réinsertion familiale et sociale des anciens migrants dans leur pays d’origine (ARFS);;;10 000 000;1 000 000;10 000 000;1 000 000
+Sport, jeunesse et vie associative;163;01;Développement de la vie associative;;;24 973 051;23 305 928;24 973 051;23 305 928
+Sport, jeunesse et vie associative;163;02;Actions en faveur de la jeunesse et de l'éducation populaire;;;71 412 668;69 711 938;71 412 668;69 711 938
+Sport, jeunesse et vie associative;163;04;Développement du service civique;;;385 020 000;447 639 627;385 020 000;447 639 627
+Sport, jeunesse et vie associative;219;01;Promotion du sport pour le plus grand nombre;;;35 675 296;89 677 556;35 675 296;89 677 556
+Sport, jeunesse et vie associative;219;02;Développement du sport de haut niveau;;;160 939 360;209 045 890;164 595 058;210 127 885
+Sport, jeunesse et vie associative;219;03;Prévention par le sport et protection des sportifs;;;19 144 890;20 280 125;19 144 890;20 280 125
+Sport, jeunesse et vie associative;219;04;Promotion des métiers du sport;;;27 977 700;28 140 860;27 977 700;28 140 860
+Travail et emploi;102;01;Amélioration de l’efficacité du service public de l’emploi;01;Indemnisation des demandeurs d'emploi;1 482 500 000;2 609 821 800;1 482 500 000;2 609 821 800
+Travail et emploi;102;01;Amélioration de l’efficacité du service public de l’emploi;02;Coordination du service public de l'emploi;1 528 000 000;1 467 890 806;1 528 000 000;1 467 890 806
+Travail et emploi;102;02;Amélioration des dispositifs en faveur de l’emploi des personnes les plus éloignées du marché du travail;01;Insertion dans l'emploi au moyen de contrats aidés;1 849 369 697;819 216 332;2 480 061 004;1 508 246 860
+Travail et emploi;102;02;Amélioration des dispositifs en faveur de l’emploi des personnes les plus éloignées du marché du travail;02;Accompagnement des publics les plus en difficultés;2 198 440 660;1 754 319 705;2 118 503 860;1 755 819 705
+Travail et emploi;102;03;Plan d'investissement des compétences;;;;514 595 098;;503 270 298
+Travail et emploi;103;01;Anticipation et accompagnement des conséquences des mutations économiques sur l'emploi;01;Développement de l’emploi en TPE-PME;3 669 876 180;58 449 753;1 978 288 658;1 171 310 811
+Travail et emploi;103;01;Anticipation et accompagnement des conséquences des mutations économiques sur l'emploi;02;Implication des branches et des entreprises dans la prévention du licenciement et le reclassement des salariés;383 703 725;211 356 076;354 050 502;279 033 366
+Travail et emploi;103;02;Amélioration de l'insertion dans l'emploi par l'adaptation des qualifications et la reconnaissance des compétences;03;Reconnaissance des compétences acquises par les personnes;1 920 000;1 000 000;1 920 000;1 000 000
+Travail et emploi;103;02;Amélioration de l'insertion dans l'emploi par l'adaptation des qualifications et la reconnaissance des compétences;04;Amélioration de l'accès à la qualification par le développement de l'alternance et de la certification;1 704 404 288;1 656 959 270;1 842 381 464;1 849 779 074
+Travail et emploi;103;03;Développement de l'emploi;01;Baisse du coût du travail pour faciliter le développement de territoires et de secteurs à forts potentiels d'emploi;2 620 836 598;2 784 580 211;2 620 836 598;2 784 580 211
+Travail et emploi;103;03;Développement de l'emploi;02;Promotion de l'activité;239 128 293;237 792 326;239 128 293;238 292 326
+Travail et emploi;103;04;Plan d'investissement des compétences;;;;751 650 282;;428 204 032
+Travail et emploi;111;01;Santé et sécurité au travail;;;24 377 400;24 408 599;24 637 400;24 108 599
+Travail et emploi;111;02;Qualité et effectivité du droit;;;11 010 000;24 026 130;11 417 000;24 026 130
+Travail et emploi;111;03;Dialogue social et démocratie sociale;;;5 520 500;106 493 659;42 460 500;38 389 984
+Travail et emploi;111;04;Lutte contre le travail illégal;;;;;;
+Travail et emploi;155;07;Fonds social européen - Assistance technique;;;;;;
+Travail et emploi;155;08;Fonctionnement des services;;;12 522 530;5 801 609;10 375 324;3 650 539
+Travail et emploi;155;09;Systèmes d'information;;;25 229 487;13 194 735;23 908 808;13 194 735
+Travail et emploi;155;10;Affaires immobilières;;;11 361 524;3 668 426;25 081 945;3 761 874
+Travail et emploi;155;11;Communication;;;3 873 380;3 473 380;3 946 758;3 546 758
+Travail et emploi;155;12;Etudes, statistiques évaluation et recherche;;;9 382 001;8 626 721;9 308 134;8 230 508
+Travail et emploi;155;13;Politique des ressources humaines;;;31 190 018;29 456 466;31 588 108;28 524 020
+Travail et emploi;155;14;Personnels mettant en oeuvre les politiques d'accès et retour à l'emploi;;;75 326 158;73 705 084;75 326 158;73 705 084
+Travail et emploi;155;15;Personnels mettant en oeuvre les politiques d'accompagnement des mutations économiques et développement de l'emploi;;;75 235 042;82 336 944;75 235 042;82 336 944
+Travail et emploi;155;16;Personnels mettant en oeuvre les politiques d'amélioration de la qualité de l'emploi et des relations du travail;;;335 241 774;343 501 969;335 241 774;343 501 969
+Travail et emploi;155;17;Personnels de statistiques, études et recherche;;;24 751 950;22 292 428;24 751 950;22 292 428
+Travail et emploi;155;18;Personnels transversaux et de soutien;;;118 823 531;99 571 406;118 823 531;99 571 406
+;;;;;;;;;

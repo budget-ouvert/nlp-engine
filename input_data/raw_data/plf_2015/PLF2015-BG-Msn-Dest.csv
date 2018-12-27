@@ -1,0 +1,772 @@
+Gestion;2015;;;;;;;;
+Type Budget;Budget général;;;;;;;;
+;;;;;;Données;;;
+Mission;Programme;Action;Libellé action;Sous-action;Libellé SSA;AELF 2014;AEPLF; CPLF 2014; CPPLF
+Action extérieure de l'État;105;1;Coordination de l'action diplomatique;0;;87 958 112;82 729 358;87 958 112;82 729 358
+Action extérieure de l'État;105;2;Action européenne;0;;49 790 333;49 428 699;49 790 333;49 428 699
+Action extérieure de l'État;105;4;Contributions internationales;0;;799 105 555;756 277 501;799 105 555;756 277 501
+Action extérieure de l'État;105;5;Coopération de sécurité et de défense;0;;94 321 357;93 763 570;94 321 357;93 763 570
+Action extérieure de l'État;105;6;Soutien;0;;229 337 164;230 623 705;236 737 164;235 588 705
+Action extérieure de l'État;105;7;Réseau diplomatique;0;;579 987 000;581 877 313;579 987 000;581 877 313
+Action extérieure de l'État;151;1;Offre d'un service public de qualité aux Français à l'étranger;0;;211 255 969;200 200 705;211 255 969;200 200 705
+Action extérieure de l'État;151;2;Accès des élèves français au réseau AEFE;0;;118 812 000;125 500 000;118 812 000;125 500 000
+Action extérieure de l'État;151;3;Instruction des demandes de visa;0;;45 944 594;48 056 543;45 944 594;48 056 543
+Action extérieure de l'État;185;1;Animation du réseau;0;;44 280 002;43 980 917;44 280 002;43 980 917
+Action extérieure de l'État;185;2;Coopération culturelle et promotion du français;0;;74 199 735;67 314 899;74 199 735;67 314 899
+Action extérieure de l'État;185;3;Enjeux globaux;0;;8 784 800;8 643 800;8 784 800;8 643 800
+Action extérieure de l'État;185;4;Attractivité et recherche;0;;101 296 167;106 233 188;101 296 167;106 233 188
+Action extérieure de l'État;185;5;Agence pour l'enseignement français à l'étranger;0;;417 337 600;408 164 838;417 337 600;408 164 838
+Action extérieure de l'État;185;6;"Dépenses de personnel concourant au programme ""Diplomatie culturelle et d'influence""";0;;79 631 819;80 790 050;79 631 819;80 790 050
+Action extérieure de l'État;185;7;Développement international – Tourisme;0;;0;30 380 000;0;30 380 000
+Action extérieure de l'État;341;1;Préparation et suivi de la COP21;0;;0;20 500 000;0;19 000 000
+Action extérieure de l'État;341;2;Organisation de la COP21;0;;0;151 000 000;0;16 900 000
+Action extérieure de l'État;341;3;Accueil des délégations étrangères;0;;0;7 500 000;0;7 500 000
+Administration générale et territoriale de l'État;216;1;État-major et services centraux;0;;382 108 553;342 311 079;382 502 436;342 311 078
+Administration générale et territoriale de l'État;216;3;Système d'information et de communication;0;;50 428 225;47 828 596;50 208 225;47 828 596
+Administration générale et territoriale de l'État;216;4;Action sociale et formation;0;;36 456 568;36 638 614;36 456 568;36 638 614
+Administration générale et territoriale de l'État;216;5;Affaires immobilières;0;;213 850 267;85 950 957;112 417 430;125 900 073
+Administration générale et territoriale de l'État;216;6;Affaires juridiques et contentieuses;0;;77 446 463;77 446 463;77 446 463;77 446 463
+Administration générale et territoriale de l'État;216;8;Immigration, asile et intégration;0;;41 343 819;39 401 382;41 343 819;39 401 382
+Administration générale et territoriale de l'État;216;9;Sécurité et éducation routières;0;;80 894 568;89 316 997;80 894 568;89 316 997
+Administration générale et territoriale de l'État;232;1;Financement des partis;0;;68 670 671;58 342 272;68 670 671;58 342 272
+Administration générale et territoriale de l'État;232;2;Organisation des élections;0;;236 564 342;236 376 000;236 050 130;235 980 000
+Administration générale et territoriale de l'État;232;3;Commission nationale des comptes de campagne et des financements politiques;0;;4 895 572;5 589 749;6 050 523;6 744 700
+Administration générale et territoriale de l'État;232;4;Cultes;0;;2 114 700;1 936 037;2 114 700;1 936 037
+Administration générale et territoriale de l'État;232;5;Vie associative;0;;79 167;75 000;79 167;75 000
+Administration générale et territoriale de l'État;307;1;Coordination de la sécurité des personnes et des biens;0;;174 105 039;162 381 999;174 105 039;162 381 999
+Administration générale et territoriale de l'État;307;2;Réglementation générale, garantie de l'identité et de la nationalité et délivrance des titres;0;;636 672 630;640 040 057;636 672 630;640 040 057
+Administration générale et territoriale de l'État;307;3;Contrôle de légalité et conseil aux collectivités territoriales;0;;157 907 728;149 171 822;157 907 728;149 171 822
+Administration générale et territoriale de l'État;307;4;Pilotage territorial des politiques gouvernementales;0;;530 665 143;541 082 453;530 665 143;541 082 453
+Administration générale et territoriale de l'État;307;5;Animation et soutien du réseau;0;;227 600 888;225 831 027;225 940 906;225 038 027
+Agriculture, alimentation, forêt et affaires rurales;149;11;Gestion des forêts publiques et protection de la forêt;0;;240 061 785;218 248 048;244 065 443;222 251 706
+Agriculture, alimentation, forêt et affaires rurales;149;12;Développement économique de la filière et gestion durable;0;;66 450 332;50 404 332;68 655 287;52 609 287
+Agriculture, alimentation, forêt et affaires rurales;149;13;Fonds stratégique de la forêt et du bois;0;;10 667 234;10 667 234;21 823 190;21 823 190
+Agriculture, alimentation, forêt et affaires rurales;154;11;Adaptation des filières à l'évolution des marchés;0;;236 399 008;167 195 334;298 429 246;169 442 578
+Agriculture, alimentation, forêt et affaires rurales;154;12;Gestion des crises et des aléas de la production;0;;28 548 666;27 718 666;28 540 399;27 718 666
+Agriculture, alimentation, forêt et affaires rurales;154;13;Appui au renouvellement et à la modernisation des exploitations agricoles;0;;133 060 128;149 500 000;225 799 701;177 042 300
+Agriculture, alimentation, forêt et affaires rurales;154;14;Gestion équilibrée et durable des territoires;0;;800 286 662;997 213 024;819 661 998;763 248 024
+Agriculture, alimentation, forêt et affaires rurales;154;15;Moyens de mise en oeuvre des politiques publiques et gestion des interventions;0;;253 519 881;282 251 967;253 519 881;282 251 967
+Agriculture, alimentation, forêt et affaires rurales;206;1;Prévention et gestion des risques inhérents à la production végétale;0;;22 812 209;22 567 515;22 812 209;22 567 515
+Agriculture, alimentation, forêt et affaires rurales;206;2;Lutte contre les maladies animales et protection des animaux;0;;99 796 275;94 759 615;98 681 275;94 759 615
+Agriculture, alimentation, forêt et affaires rurales;206;3;Prévention et gestion des risques sanitaires liés aux denrées alimentaires;0;;15 138 888;15 423 339;15 138 888;15 423 339
+Agriculture, alimentation, forêt et affaires rurales;206;4;Actions transversales;0;;72 219 658;74 624 370;72 334 658;74 003 370
+Agriculture, alimentation, forêt et affaires rurales;206;5;Elimination des cadavres et des sous-produits animaux;0;;2 200 000;2 900 000;3 200 000;4 200 000
+Agriculture, alimentation, forêt et affaires rurales;206;6;Mise en oeuvre de la politique de sécurité et de qualité sanitaires de l'alimentation;0;;286 819 125;286 431 222;286 819 125;286 431 222
+Agriculture, alimentation, forêt et affaires rurales;206;8;Qualité de l'alimentation et offre alimentaire;0;;4 156 000;3 865 430;4 156 000;3 865 430
+Agriculture, alimentation, forêt et affaires rurales;215;1;Moyens de l'administration centrale;0;;204 822 727;204 159 049;211 263 127;209 785 385
+Agriculture, alimentation, forêt et affaires rurales;215;2;Évaluation de l'impact des politiques publiques et information économique;0;;18 583 211;18 540 433;18 583 211;18 540 433
+Agriculture, alimentation, forêt et affaires rurales;215;3;Moyens des directions régionales de l'alimentation, de l'agriculture et de la forêt, des directions de l'alimentation, de l'agriculture et de la forêt et directions départementales des territoires (et de la mer);0;;430 410 461;421 896 287;430 410 461;421 896 287
+Agriculture, alimentation, forêt et affaires rurales;215;4;Moyens communs;0;;67 113 951;71 767 360;71 273 551;73 947 438
+Aide publique au développement;110;1;Aide économique et financière multilatérale;0;;1 581 174 272;286 704 541;635 866 049;635 398 901
+Aide publique au développement;110;2;Aide économique et financière bilatérale;0;;395 606 400;432 760 000;312 749 289;316 254 171
+Aide publique au développement;110;3;Traitement de la dette des pays pauvres;0;;383 340 083;0;161 274 852;107 346 928
+Aide publique au développement;209;2;Coopération bilatérale;0;;592 471 400;584 259 663;564 158 056;557 084 323
+Aide publique au développement;209;5;Coopération multilatérale;0;;323 832 026;288 421 560;329 333 913;293 923 447
+Aide publique au développement;209;7;Coopération communautaire;0;;680 860 000;703 800 000;680 860 000;703 800 000
+Aide publique au développement;209;8;"Dépenses de personnels concourant au programme ""Solidarité à l'égard des pays en développement""";0;;206 163 873;201 792 732;206 163 873;201 792 732
+Aide publique au développement;209;9;Actions de co-développement;0;;16 000;0;8 516 000;0
+Anciens combattants, mémoire et liens avec la nation;158;1;Indemnisation des orphelins de la déportation et des victimes de spoliations du fait des législations antisémites en vigueur pendant l'Occupation;0;;51 326 890;45 746 919;50 726 890;46 051 419
+Anciens combattants, mémoire et liens avec la nation;158;2;Indemnisation des victimes d'actes de barbarie durant la seconde guerre mondiale;0;;53 289 107;54 504 130;53 289 107;54 504 130
+Anciens combattants, mémoire et liens avec la nation;167;1;Journée défense et citoyenneté;0;;89 891 695;29 776 000;93 891 695;19 050 000
+Anciens combattants, mémoire et liens avec la nation;167;2;Politique de mémoire;0;;23 540 226;22 700 000;23 540 226;22 700 000
+Anciens combattants, mémoire et liens avec la nation;169;1;Administration de  la dette viagère;0;;2 230 384 700;2 080 250 000;2 230 384 700;2 080 250 000
+Anciens combattants, mémoire et liens avec la nation;169;1;Administration de  la dette viagère;10;Pensions militaires d'invalidité de victimes de guerre et allocations rattachées;1 422 444 700;1 295 550 000;1 422 444 700;1 295 550 000
+Anciens combattants, mémoire et liens avec la nation;169;1;Administration de  la dette viagère;11;Retraite du combattant;807 940 000;784 700 000;807 940 000;784 700 000
+Anciens combattants, mémoire et liens avec la nation;169;2;Gestion  des droits liés aux pensions militaires d'invalidité;0;Retraite du combattant;151 738 953;146 374 830;151 738 953;146 374 830
+Anciens combattants, mémoire et liens avec la nation;169;2;Gestion  des droits liés aux pensions militaires d'invalidité;21;Soins médicaux gratuits et appareillage des mutilés;51 838 953;48 300 000;51 838 953;48 300 000
+Anciens combattants, mémoire et liens avec la nation;169;2;Gestion  des droits liés aux pensions militaires d'invalidité;22;Remboursement des réductions de transport accordées aux invalides;3 400 000;3 474 830;3 400 000;3 474 830
+Anciens combattants, mémoire et liens avec la nation;169;2;Gestion  des droits liés aux pensions militaires d'invalidité;23;Remboursement des prestations de sécurité sociale aux invalides;96 500 000;94 600 000;96 500 000;94 600 000
+Anciens combattants, mémoire et liens avec la nation;169;3;Solidarité;0;Remboursement des prestations de sécurité sociale aux invalides;347 341 637;351 862 725;347 341 637;351 862 725
+Anciens combattants, mémoire et liens avec la nation;169;3;Solidarité;30;Fonds de solidarité pour les anciens combattants d'Afrique du Nord et d'Indochine;0;0;0;0
+Anciens combattants, mémoire et liens avec la nation;169;3;Solidarité;31;Majoration des rentes mutualistes des anciens combattants et victimes de guerre;255 000 000;258 300 000;255 000 000;258 300 000
+Anciens combattants, mémoire et liens avec la nation;169;3;Solidarité;32;Subventions aux associations et oeuvres diverses;769 000;260 000;769 000;260 000
+Anciens combattants, mémoire et liens avec la nation;169;3;Solidarité;33;Indemnités, pécules et frais de voyages sur les tombes;110 000;110 000;110 000;110 000
+Anciens combattants, mémoire et liens avec la nation;169;3;Solidarité;34;Action sociale en faveur du monde combattant : Office national des anciens combattants (ONAC);21 900 000;23 400 000;21 900 000;23 400 000
+Anciens combattants, mémoire et liens avec la nation;169;3;Solidarité;35;Office national des anciens combattants (ONAC) : subventions;57 473 494;57 703 582;57 473 494;57 703 582
+Anciens combattants, mémoire et liens avec la nation;169;3;Solidarité;36;Institution nationale des invalides : subventions;12 089 143;12 089 143;12 089 143;12 089 143
+Anciens combattants, mémoire et liens avec la nation;169;7;Actions en faveur des rapatriés;0;Institution nationale des invalides : subventions;17 800 000;19 400 000;17 800 000;19 400 000
+Conseil et contrôle de l'État;126;1;Représentation des activités économiques et sociales;0;Institution nationale des invalides : subventions;27 331 624;26 136 551;27 331 624;26 136 551
+Conseil et contrôle de l'État;126;2;Fonctionnement de l'institution;0;Institution nationale des invalides : subventions;14 143 128;9 605 691;9 993 128;9 610 691
+Conseil et contrôle de l'État;126;3;Communication et international;0;Institution nationale des invalides : subventions;1 175 246;2 612 756;1 175 246;2 612 756
+Conseil et contrôle de l'État;164;21;Examen des comptes publics;0;Institution nationale des invalides : subventions;39 411 568;39 667 618;39 411 568;39 667 618
+Conseil et contrôle de l'État;164;22;Contrôle des finances publiques;0;Institution nationale des invalides : subventions;15 877 306;15 783 300;15 877 306;15 783 300
+Conseil et contrôle de l'État;164;23;Contrôle des gestions publiques;0;Institution nationale des invalides : subventions;60 051 215;59 348 903;60 051 215;59 348 903
+Conseil et contrôle de l'État;164;24;Evaluation des politiques publiques;0;Institution nationale des invalides : subventions;34 641 782;34 566 324;34 641 782;34 566 324
+Conseil et contrôle de l'État;164;25;Information des citoyens;0;Institution nationale des invalides : subventions;7 337 030;7 164 114;7 337 030;7 164 114
+Conseil et contrôle de l'État;164;26;Mise en jeu de la responsabilité des comptables publics et des gestionnaires publics;0;Institution nationale des invalides : subventions;4 707 640;4 669 182;4 707 640;4 669 182
+Conseil et contrôle de l'État;164;27;Pilotage et soutien des juridictions financières;0;Institution nationale des invalides : subventions;53 054 223;51 941 168;54 393 682;53 271 168
+Conseil et contrôle de l'État;165;1;Fonction juridictionnelle : Conseil d'État;0;Institution nationale des invalides : subventions;25 463 387;26 267 856;25 463 387;26 267 856
+Conseil et contrôle de l'État;165;2;Fonction juridictionnelle : Cours administratives d'appel;0;Institution nationale des invalides : subventions;49 388 216;49 861 380;49 388 216;49 861 380
+Conseil et contrôle de l'État;165;3;Fonction juridictionnelle : Tribunaux administratifs;0;Institution nationale des invalides : subventions;148 236 201;153 497 512;148 236 201;153 497 512
+Conseil et contrôle de l'État;165;4;Fonction consultative;0;Institution nationale des invalides : subventions;10 821 500;11 174 213;10 821 500;11 174 213
+Conseil et contrôle de l'État;165;5;Fonction études, expertise et services rendus aux administrations de l'État et des collectivités;0;Institution nationale des invalides : subventions;16 037 582;16 094 949;16 037 582;16 094 949
+Conseil et contrôle de l'État;165;6;Soutien;0;Institution nationale des invalides : subventions;114 359 806;107 691 343;102 909 806;103 573 505
+Conseil et contrôle de l'État;165;7;Cour nationale du droit d'asile;0;Institution nationale des invalides : subventions;22 219 329;22 865 727;22 219 329;22 865 727
+Conseil et contrôle de l'État;340;1;Haut Conseil des finances publiques;0;Institution nationale des invalides : subventions;818 675;816 546;818 675;816 546
+Culture;131;1;Soutien à la création, à la production et à la diffusion du spectacle vivant;0;Institution nationale des invalides : subventions;664 858 970;657 079 626;683 729 404;667 882 452
+Culture;131;2;Soutien à la création, à la production et à la diffusion des arts plastiques;0;Institution nationale des invalides : subventions;61 657 273;60 654 297;63 465 833;66 379 106
+Culture;175;1;Patrimoine monumental;0;Institution nationale des invalides : subventions;345 234 450;340 367 541;332 233 123;327 853 214
+Culture;175;2;Architecture;0;Institution nationale des invalides : subventions;27 750 912;27 763 666;27 850 912;27 863 666
+Culture;175;3;Patrimoine des musées de France;0;Institution nationale des invalides : subventions;336 698 512;331 111 072;339 599 408;339 534 402
+Culture;175;4;Patrimoine archivistique et célébrations nationales;0;Institution nationale des invalides : subventions;23 537 512;23 784 753;27 123 638;24 769 753
+Culture;175;7;Patrimoine linguistique;0;Institution nationale des invalides : subventions;2 620 333;2 911 333;2 620 333;2 911 333
+Culture;175;8;Acquisition et enrichissement des collections publiques;0;Institution nationale des invalides : subventions;8 355 013;8 353 013;8 355 013;8 353 013
+Culture;175;9;Patrimoine archéologique;0;Institution nationale des invalides : subventions;16 881 872;11 281 849;8 778 500;19 725 906
+Culture;224;1;Soutien aux établissements d'enseignement supérieur et insertion professionnelle;0;Institution nationale des invalides : subventions;239 061 564;254 026 659;248 941 564;264 763 561
+Culture;224;2;Soutien à la démocratisation et à l'éducation artistique et culturelle;0;Institution nationale des invalides : subventions;85 779 738;81 513 267;85 779 738;81 513 267
+Culture;224;6;Action culturelle internationale;0;Institution nationale des invalides : subventions;6 114 559;5 992 059;6 114 559;5 992 059
+Culture;224;7;Fonctions de soutien du ministère;0;Institution nationale des invalides : subventions;741 697 368;749 370 826;739 958 860;747 680 239
+Défense;144;3;Recherche et exploitation du renseignement intéressant la sécurité de la France;0;Institution nationale des invalides : subventions;681 285 081;280 658 903;743 321 353;268 440 274
+Défense;144;3;Recherche et exploitation du renseignement intéressant la sécurité de la France;31;Renseignement extérieur;588 154 421;269 964 991;650 190 694;257 746 362
+Défense;144;3;Recherche et exploitation du renseignement intéressant la sécurité de la France;32;Renseignement de sécurité de défense;93 130 660;10 693 912;93 130 659;10 693 912
+Défense;144;7;Prospective de défense;0;Renseignement de sécurité de défense;1 179 463 369;1 034 024 131;1 117 307 054;1 030 024 131
+Défense;144;7;Prospective de défense;1;Analyse stratégique;6 107 599;6 118 465;6 920 603;6 118 465
+Défense;144;7;Prospective de défense;2;Prospective des systèmes de forces;33 329 888;20 807 820;33 240 436;20 807 820
+Défense;144;7;Prospective de défense;3;Etudes amont;807 866 830;742 910 675;744 986 963;738 910 675
+Défense;144;7;Prospective de défense;4;Gestion des moyens et subventions;332 159 052;264 187 171;332 159 052;264 187 171
+Défense;144;8;Relations internationales et diplomatie de défense;0;Gestion des moyens et subventions;116 306 622;35 407 736;116 305 561;35 407 736
+Défense;146;6;Dissuasion;0;Gestion des moyens et subventions;2 415 487 104;2 962 829 523;1 900 743 819;2 587 399 774
+Défense;146;6;Dissuasion;14;Assurer la crédibilité technique de la dissuasion M51;498 415 865;411 011 046;530 372 026;610 913 670
+Défense;146;6;Dissuasion;15;Assurer la crédibilité technique de la dissuasion SNLE NG : adaptation M51;0;0;180 357 579;190 919 706
+Défense;146;6;Dissuasion;17;Assurer la crédibilité technique de la dissuasion - Air sol moyenne portée amélioré (ASMPA);34 300 000;16 264 796;10 854 695;26 582 615
+Défense;146;6;Dissuasion;18;Assurer la crédibilité technique de la dissuasion Simulation;561 990 984;479 946 802;50 000 000;505 336 200
+Défense;146;6;Dissuasion;19;Assurer la crédibilité technique de la dissuasion - Autres opérations;653 297 316;526 972 365;313 453 327;569 996 729
+Défense;146;6;Dissuasion;22;Assurer la crédibilité opérationnelle de la dissuasion - soutien et mise en oeuvre des forces - toutes opérations;259 150 519;1 097 459 785;626 446 820;636 145 954
+Défense;146;6;Dissuasion;23;Assurer la crédibilité technique de la posture - toutes opérations;408 332 420;431 174 729;189 259 372;47 504 900
+Défense;146;7;Commandement et maîtrise de l'information;0;Assurer la crédibilité technique de la posture - toutes opérations;1 597 265 813;4 093 931 183;1 275 958 927;558 846 785
+Défense;146;7;Commandement et maîtrise de l'information;24;Commander et conduire - Système de commandement et de conduite des opérations aériennes (SCCOA);213 320 000;621 758 053;172 262 622;0
+Défense;146;7;Commandement et maîtrise de l'information;25;Commander et conduire - Système d'information TERRE;3 430 000;12 809 197;60 806 034;53 683 355
+Défense;146;7;Commandement et maîtrise de l'information;27;Commander et conduire - Géographie numérique;40 000 000;120 600 000;38 085 340;30 965 013
+Défense;146;7;Commandement et maîtrise de l'information;28;Commander et conduire - Autres opérations;164 014;0;53 404 667;36 416 853
+Défense;146;7;Commandement et maîtrise de l'information;29;Commander et conduire - Système d'information des armées (SIA);347 000 000;345 200 000;93 656 257;81 832 042
+Défense;146;7;Commandement et maîtrise de l'information;32;Communiquer - SYRACUSE III;68 845 000;74 597 600;105 515 035;0
+Défense;146;7;Commandement et maîtrise de l'information;33;Communiquer - Moyen d'élongation pour les communications HF interarmées et OTAN en réseau (MELCHIOR);5 880 000;24 200 000;21 609 695;0
+Défense;146;7;Commandement et maîtrise de l'information;35;Communiquer - Autres opérations;461 629 000;1 190 142 643;271 202 783;0
+Défense;146;7;Commandement et maîtrise de l'information;36;Communiquer - CONTACT;0;335 000 000;75 674 075;1 193 633
+Défense;146;7;Commandement et maîtrise de l'information;39;Renseigner, surveiller, acquérir et reconnaître - Autres opérations;456 997 799;1 073 423 690;361 431 519;241 143 857
+Défense;146;7;Commandement et maîtrise de l'information;40;Renseigner, surveiller, acquérir et reconnaître - MUSIS;0;0;0;113 612 032
+Défense;146;7;Commandement et maîtrise de l'information;41;Déploiement des Services de Communication et architecture des réseaux de télécommunications sécurisées (DESCARTES);0;121 200 000;8 380 704;0
+Défense;146;7;Commandement et maîtrise de l'information;42;Capacité de Renseignement Electromagnétique Spatiale (CERES);0;175 000 000;13 930 196;0
+Défense;146;8;Projection - mobilité - soutien;0;Capacité de Renseignement Electromagnétique Spatiale (CERES);1 703 251 748;3 626 981 645;925 599 966;988 684 563
+Défense;146;8;Projection - mobilité - soutien;42;Projeter les forces - Avion de transport futur (A400M);319 200 000;794 039 727;381 824 539;430 485 083
+Défense;146;8;Projection - mobilité - soutien;43;Projeter les forces - Autres opérations;46 720 000;128 600 000;62 436 219;79 122 984
+Défense;146;8;Projection - mobilité - soutien;46;Assurer la mobilité - Rénovation Cougar;0;0;28 406 930;26 655 972
+Défense;146;8;Projection - mobilité - soutien;47;Assurer la mobilité - Hélicoptère NH 90;784 969 159;1 038 200 000;281 281 721;279 693 779
+Défense;146;8;Projection - mobilité - soutien;48;Assurer la mobilité - Autres opérations;55 998 094;40 345 685;45 288 591;42 044 261
+Défense;146;8;Projection - mobilité - soutien;51;Maintenir le potentiel ami et autre - Porteur polyvalent terrestre (PPT);110 700 000;0;62 434 147;16 807 344
+Défense;146;8;Projection - mobilité - soutien;53;Maintenir le potentiel ami et autre - Autres opérations;25 664 495;25 796 233;37 996 403;31 661 919
+Défense;146;8;Projection - mobilité - soutien;55;Multi-Role transport Tanker (MRTT);360 000 000;1 600 000 000;25 931 416;82 213 221
+Défense;146;9;Engagement et combat;0;Multi-Role transport Tanker (MRTT);3 868 641 316;3 849 038 775;3 695 338 909;3 111 894 957
+Défense;146;9;Engagement et combat;56;Frapper à distance - Missile de croisière naval (MDCN);0;0;181 690 424;131 796 754
+Défense;146;9;Engagement et combat;58;Frapper à distance - Armement air-sol modulaire (AASM);0;0;37 731 829;28 440 875
+Défense;146;9;Engagement et combat;59;Frapper à distance - RAFALE;183 969 361;369 137 595;1 018 970 168;686 727 110
+Défense;146;9;Engagement et combat;61;Frapper à distance - Autres opérations;301 554 932;199 492 017;240 270 684;287 000 149
+Défense;146;9;Engagement et combat;66;Opérer en milieu hostile - Véhicule blindé de combat d'infanterie (VBCI);191 500 000;149 441 737;220 136 265;84 133 565
+Défense;146;9;Engagement et combat;68;Opérer en milieu hostile - Hélicoptère HAP/HAD TIGRE;74 489 176;206 000 000;207 024 517;224 102 733
+Défense;146;9;Engagement et combat;69;Opérer en milieu hostile - Future torpille lourde (FTL);185 000 000;88 800 000;47 790 416;34 205 897
+Défense;146;9;Engagement et combat;71;Opérer en milieu hostile - Evolution Exocet;0;0;33 009 947;44 272 153
+Défense;146;9;Engagement et combat;73;Opérer en milieu hostile - Frégates multi-missions (FREMM);0;507 000 000;461 760 113;362 714 805
+Défense;146;9;Engagement et combat;74;Opérer en milieu hostile - SNA Barracuda;1 754 000 000;1 181 000 000;572 937 573;599 726 995
+Défense;146;9;Engagement et combat;75;Opérer en milieu hostile - Autres opérations et conduire des opérations spéciales;721 127 847;731 167 426;504 177 522;513 041 234
+Défense;146;9;Engagement et combat;77;Opérer en milieu hostile -  SCORPION;457 000 000;417 000 000;20 544 090;77 935 654
+Défense;146;9;Engagement et combat;87;Opérer en milieu hostile - Armement individuel du fantassin (AIF);0;0;0;0
+Défense;146;9;Engagement et combat;88;Missile Moyenne Portée (MMP);0;0;17 769 628;37 797 033
+Défense;146;10;Protection et sauvegarde;0;Missile Moyenne Portée (MMP);453 564 500;468 394 861;336 773 667;326 144 999
+Défense;146;10;Protection et sauvegarde;79;Assurer la sûreté des approches - Autres opérations et assurer la sécurité de l'Etat, de la nation et des citoyens;94 164 838;386 188 320;111 415 299;140 527 815
+Défense;146;10;Protection et sauvegarde;80;Assurer la sûreté des approches - Alerte avancée;0;0;0;0
+Défense;146;10;Protection et sauvegarde;82;Assurer la protection des forces et des sites - Famille de systèmes sol-air futurs (FSAF);250 600 000;5 000 000;81 569 066;43 507 374
+Défense;146;10;Protection et sauvegarde;86;Assurer la protection des forces et des sites - Autres opérations et assurer la protection de l'homme;108 799 662;77 206 541;128 815 083;142 109 810
+Défense;146;11;Préparation et conduite des opérations d'armement;0;Assurer la protection des forces et des sites - Autres opérations et assurer la protection de l'homme;2 143 485 420;184 707 488;2 143 485 420;213 546 131
+Défense;146;11;Préparation et conduite des opérations d'armement;89;Soutien DGA;1 874 857 795;79 951 833;1 889 642 994;95 422 156
+Défense;146;11;Préparation et conduite des opérations d'armement;90;Investissements pour les opérations d'armement;139 953 625;104 755 655;125 168 426;118 123 975
+Défense;146;12;Parts étrangères et programmes civils;0;Investissements pour les opérations d'armement;0;0;0;0
+Défense;146;12;Parts étrangères et programmes civils;96;Parts étrangères;0;0;0;0
+Défense;146;12;Parts étrangères et programmes civils;97;Programmes civils;0;0;0;0
+Défense;178;1;Planification  des moyens et conduite des opérations;0;Programmes civils;1 554 522 107;464 520 346;1 579 743 440;446 590 458
+Défense;178;1;Planification  des moyens et conduite des opérations;10;Emploi des forces;721 910 214;237 289 365;720 325 217;231 527 421
+Défense;178;1;Planification  des moyens et conduite des opérations;11;Renseignement d'intérêt militaire;167 741 367;37 670 695;167 274 982;36 751 898
+Défense;178;1;Planification  des moyens et conduite des opérations;14;Systèmes d'information et de communication;664 870 526;189 560 286;692 143 241;178 311 139
+Défense;178;2;Préparation des forces terrestres;0;Systèmes d'information et de communication;7 559 778 991;1 400 897 020;7 514 755 747;1 279 715 526
+Défense;178;2;Préparation des forces terrestres;1;Commandement et activités des forces terrestres;152 525 373;155 025 982;152 525 373;141 919 456
+Défense;178;2;Préparation des forces terrestres;5;Ressources humaines des forces terrestres;6 262 194 346;108 862 643;6 262 194 346;100 121 299
+Défense;178;2;Préparation des forces terrestres;7;Maintien en condition opérationnelle du matériel des forces terrestres;780 472 331;782 582 331;739 518 920;784 887 451
+Défense;178;2;Préparation des forces terrestres;8;Environnement opérationnel des forces terrestres;364 586 941;354 426 064;360 517 108;252 787 320
+Défense;178;3;Préparation des forces navales;0;Environnement opérationnel des forces terrestres;4 600 639 527;3 002 627 944;4 451 421 195;1 958 514 541
+Défense;178;3;Préparation des forces navales;1;Commandement et activités des forces navales;260 835 803;256 511 950;260 185 642;255 595 803
+Défense;178;3;Préparation des forces navales;5;Ressources humaines des forces navales;2 530 471 752;42 061 426;2 530 414 798;40 801 359
+Défense;178;3;Préparation des forces navales;7;Maintien en condition opérationnelle du matériel des forces navales;1 670 878 443;2 583 805 334;1 523 382 768;1 543 584 866
+Défense;178;3;Préparation des forces navales;8;Environnement opérationnel des forces navales;138 453 529;120 249 234;137 437 987;118 532 513
+Défense;178;4;Préparation des forces aériennes;0;Environnement opérationnel des forces navales;4 439 804 218;2 170 819 840;4 327 769 894;1 866 605 808
+Défense;178;4;Préparation des forces aériennes;2;Commandement et activités centralisées des forces aériennes;11 960 000;16 321 764;11 960 000;16 006 598
+Défense;178;4;Préparation des forces aériennes;3;Activités des forces aériennes;236 244 566;265 660 308;236 244 566;264 202 576
+Défense;178;4;Préparation des forces aériennes;4;Activités des forces aériennes stratégiques;45 030 900;140 514 871;45 030 900;137 764 871
+Défense;178;4;Préparation des forces aériennes;5;Ressources humaines des forces aériennes;2 598 729 135;71 655 707;2 598 729 135;71 116 195
+Défense;178;4;Préparation des forces aériennes;6;Entretien et équipements des forces aériennes;1 547 839 617;1 676 667 190;1 435 805 293;1 377 515 568
+Défense;178;4;Préparation des forces aériennes;9;Service industriel aéronautique (SIAé);0;0;0;0
+Défense;178;5;Logistique et soutien interarmées;0;Service industriel aéronautique (SIAé);4 057 596 390;1 464 237 938;3 852 413 904;1 256 308 100
+Défense;178;5;Logistique et soutien interarmées;80;Fonction santé;1 032 315 777;238 995 948;934 418 659;139 207 720
+Défense;178;5;Logistique et soutien interarmées;81;Fonction pétrolière;157 968 274;32 633 336;157 661 397;31 834 608
+Défense;178;5;Logistique et soutien interarmées;82;Soutien des forces par les bases de défense;2 355 347 306;839 990 275;2 244 362 067;734 479 400
+Défense;178;5;Logistique et soutien interarmées;83;Soutiens complémentaires;142 260 557;132 642 838;146 460 557;136 160 718
+Défense;178;5;Logistique et soutien interarmées;84;Service interarmées des munitions;90 251 687;9 328 802;90 197 632;9 098 764
+Défense;178;5;Logistique et soutien interarmées;85;Service du commissariat aux armées;279 452 789;210 646 739;279 313 592;205 526 890
+Défense;178;6;Surcoûts liés aux opérations extérieures;0;Service du commissariat aux armées;450 000 000;280 000 000;450 000 000;280 000 000
+Défense;178;7;Surcoûts liés aux opérations intérieures;0;Service du commissariat aux armées;11 000 000;0;11 000 000;0
+Défense;212;4;Politique immobilière;0;Service du commissariat aux armées;1 787 738 543;1 705 281 522;1 225 421 473;1 051 380 515
+Défense;212;5;Systèmes d'information, d'administration et de gestion;0;Service du commissariat aux armées;132 305 420;148 720 305;132 190 593;113 449 136
+Défense;212;6;Politiques des ressources humaines;0;Service du commissariat aux armées;525 970 580;129 182 990;522 370 580;129 119 990
+Défense;212;6;Politiques des ressources humaines;3;Reconversion;202 429 079;32 711 802;198 829 079;32 648 802
+Défense;212;6;Politiques des ressources humaines;4;Action sociale et autres politiques de ressources humaines (hors rémunérations des agents);323 541 501;96 471 188;323 541 501;96 471 188
+Défense;212;8;Politique culturelle et éducative;0;Action sociale et autres politiques de ressources humaines (hors rémunérations des agents);69 146 464;28 796 300;68 737 204;28 396 300
+Défense;212;8;Politique culturelle et éducative;1;Actions culturelles et mise en valeur du patrimoine;26 197 384;23 599 013;26 197 384;23 599 013
+Défense;212;8;Politique culturelle et éducative;2;Gestion et communication des archives historiques de la défense;42 949 080;5 197 287;42 539 820;4 797 287
+Défense;212;10;Restructurations;0;Gestion et communication des archives historiques de la défense;306 549 674;144 947 669;334 577 633;193 879 073
+Défense;212;11;Pilotage, soutien et communication;0;Gestion et communication des archives historiques de la défense;744 805 581;440 267 880;695 358 859;444 594 876
+Défense;212;50;"Recherche et exploitation du renseignement intéressant la sécurité de la France - Personnel travaillant  pour le programme ""Environnement et prospective de la politique de défense""";0;Gestion et communication des archives historiques de la défense;0;472 224 452;0;472 224 452
+Défense;212;50;"Recherche et exploitation du renseignement intéressant la sécurité de la France - Personnel travaillant  pour le programme ""Environnement et prospective de la politique de défense""";1;Renseignement extérieur;0;402 967 947;0;402 967 947
+Défense;212;50;"Recherche et exploitation du renseignement intéressant la sécurité de la France - Personnel travaillant  pour le programme ""Environnement et prospective de la politique de défense""";2;Renseignement de sécurité et de défense;0;69 256 505;0;69 256 505
+Défense;212;51;"Prospective de défense - Personnel travaillant  pour le programme ""Environnement et prospective de la politique de défense""";0;Renseignement de sécurité et de défense;0;85 041 291;0;85 041 291
+Défense;212;51;"Prospective de défense - Personnel travaillant  pour le programme ""Environnement et prospective de la politique de défense""";1;Gestion des moyens et subventions;0;5 115 610;0;5 115 610
+Défense;212;51;"Prospective de défense - Personnel travaillant  pour le programme ""Environnement et prospective de la politique de défense""";2;Prospective des systèmes de force et soutien à l'industrie;0;79 925 681;0;79 925 681
+Défense;212;52;"Relations internationales - Personnel travaillant  pour le programme ""Environnement et prospective de la politique de défense""";0;Prospective des systèmes de force et soutien à l'industrie;0;71 910 467;0;71 910 467
+Défense;212;52;"Relations internationales - Personnel travaillant  pour le programme ""Environnement et prospective de la politique de défense""";1;Soutien aux exportations;0;0;0;0
+Défense;212;52;"Relations internationales - Personnel travaillant  pour le programme ""Environnement et prospective de la politique de défense""";2;Diplomatie de défense;0;71 910 467;0;71 910 467
+Défense;212;53;"Préparation et conduite des opérations d'armement - Personnel travaillant  pour le programme  ""Équipement des forces """;0;Diplomatie de défense;0;1 893 025 191;0;1 893 025 191
+Défense;212;53;"Préparation et conduite des opérations d'armement - Personnel travaillant  pour le programme  ""Équipement des forces """;1;Soutien aux opérations d'armement;0;1 893 025 191;0;1 893 025 191
+Défense;212;53;"Préparation et conduite des opérations d'armement - Personnel travaillant  pour le programme  ""Équipement des forces """;2;Soutien - expérimentation-terre;0;0;0;0
+Défense;212;53;"Préparation et conduite des opérations d'armement - Personnel travaillant  pour le programme  ""Équipement des forces """;3;Soutien - expérimentation-marine;0;0;0;0
+Défense;212;53;"Préparation et conduite des opérations d'armement - Personnel travaillant  pour le programme  ""Équipement des forces """;4;Soutien - expérimentation-air;0;0;0;0
+Défense;212;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";0;Soutien - expérimentation-air;0;1 076 546 677;0;1 076 546 677
+Défense;212;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";1;Commandement des armées;0;116 675 662;0;116 675 662
+Défense;212;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";2;Organismes interarmées à vocation opérationnelle;0;70 024 291;0;70 024 291
+Défense;212;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";3;Organismes interarmées à vocation prospective et maitrise des armements;0;46 682 861;0;46 682 861
+Défense;212;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";4;Enseignement interarmées;0;93 365 721;0;93 365 721
+Défense;212;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";5;Participations organismes multinationaux et étrangers;0;140 048 583;0;140 048 583
+Défense;212;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";6;Renseignement d'intérêt militaire;0;127 528 362;0;127 528 362
+Défense;212;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";7;Systèmes d'information et de communication;0;482 221 197;0;482 221 197
+Défense;212;55;"Préparation des forces terrestres - Personnel travaillant pour le programme ""Préparation et emploi des forces""";0;Systèmes d'information et de communication;0;5 944 952 136;0;5 944 952 136
+Défense;212;55;"Préparation des forces terrestres - Personnel travaillant pour le programme ""Préparation et emploi des forces""";1;Ressources humaines des forces terrestres;0;5 944 952 136;0;5 944 952 136
+Défense;212;56;"Préparation des forces navales - Personnel travaillant pour le programme ""Préparation et emploi des forces""";0;Ressources humaines des forces terrestres;0;2 415 975 913;0;2 415 975 913
+Défense;212;56;"Préparation des forces navales - Personnel travaillant pour le programme ""Préparation et emploi des forces""";1;Ressources humaines des forces navales;0;2 415 975 913;0;2 415 975 913
+Défense;212;56;"Préparation des forces navales - Personnel travaillant pour le programme ""Préparation et emploi des forces""";2;Rémunérations des ouvriers de l'Etat de la DCNS;0;0;0;0
+Défense;212;57;"Préparation des forces aériennes- Personnel travaillant pour le programme ""Préparation et emploi des forces""";0;Rémunérations des ouvriers de l'Etat de la DCNS;0;2 461 978 115;0;2 461 978 115
+Défense;212;57;"Préparation des forces aériennes- Personnel travaillant pour le programme ""Préparation et emploi des forces""";1;Ressources humaines des forces aériennes;0;2 461 978 115;0;2 461 978 115
+Défense;212;57;"Préparation des forces aériennes- Personnel travaillant pour le programme ""Préparation et emploi des forces""";2;Service industriel aéronautique(SIAé);0;0;0;0
+Défense;212;58;"Logistique et soutien interarmées - Personnel travaillant pour le programme ""Préparation et emploi des forces""";0;Service industriel aéronautique(SIAé);0;2 710 082 374;0;2 710 082 374
+Défense;212;58;"Logistique et soutien interarmées - Personnel travaillant pour le programme ""Préparation et emploi des forces""";1;Fonction pétrolière;0;121 802 258;0;121 802 258
+Défense;212;58;"Logistique et soutien interarmées - Personnel travaillant pour le programme ""Préparation et emploi des forces""";2;Soutien des forces par les bases de défense;0;1 481 958 332;0;1 481 958 332
+Défense;212;58;"Logistique et soutien interarmées - Personnel travaillant pour le programme ""Préparation et emploi des forces""";3;Soutiens complémentaires;0;16 964 172;0;16 964 172
+Défense;212;58;"Logistique et soutien interarmées - Personnel travaillant pour le programme ""Préparation et emploi des forces""";4;Service interarmées des munitions;0;78 017 024;0;78 017 024
+Défense;212;58;"Logistique et soutien interarmées - Personnel travaillant pour le programme ""Préparation et emploi des forces""";5;Service du commissariat des armées;0;243 337 477;0;243 337 477
+Défense;212;58;"Logistique et soutien interarmées - Personnel travaillant pour le programme ""Préparation et emploi des forces""";6;Fonction santé;0;768 003 111;0;768 003 111
+Défense;212;59;"Surcoûts liés aux opérations - Personnel travaillant pour le programme ""Préparation et emploi des forces""";0;Fonction santé;0;181 000 000;0;181 000 000
+Défense;212;59;"Surcoûts liés aux opérations - Personnel travaillant pour le programme ""Préparation et emploi des forces""";1;Surcoûts liés aux opérations extérieures;0;170 000 000;0;170 000 000
+Défense;212;59;"Surcoûts liés aux opérations - Personnel travaillant pour le programme ""Préparation et emploi des forces""";2;Surcoûts liés aux opérations intérieures;0;11 000 000;0;11 000 000
+Défense;212;60;"Politique immobilière - Personnel travaillant pour l'action ""Politique immobilière""";0;Surcoûts liés aux opérations intérieures;0;312 965 158;0;312 965 158
+Défense;212;61;"Politiques des ressources humaines - Personnel travaillant pour l'action ""Politiques des ressources""";0;Surcoûts liés aux opérations intérieures;0;319 487 564;0;319 487 564
+Défense;212;61;"Politiques des ressources humaines - Personnel travaillant pour l'action ""Politiques des ressources""";1;Actions sociales et autres politiques des ressources humaines;0;180 152 628;0;180 152 628
+Défense;212;61;"Politiques des ressources humaines - Personnel travaillant pour l'action ""Politiques des ressources""";2;Reconversion des personnels militaires - Chômage;0;116 149 924;0;116 149 924
+Défense;212;61;"Politiques des ressources humaines - Personnel travaillant pour l'action ""Politiques des ressources""";3;Reconversion des personnels civils - Chômage;0;23 185 012;0;23 185 012
+Défense;212;62;"Politique culturelle et éducative - gestion et communication des archives historiques de la défense - Personnel travaillant pour l'action ""Politique culturelle et éducative""";0;Reconversion des personnels civils - Chômage;0;37 414 491;0;37 414 491
+Défense;212;63;"Restructurations - Personnel travaillant pour l'action ""Restructurations""";0;Reconversion des personnels civils - Chômage;0;180 854 630;0;180 854 630
+Défense;212;63;"Restructurations - Personnel travaillant pour l'action ""Restructurations""";1;Restructurations Personnels civils;0;61 392 110;0;61 392 110
+Défense;212;63;"Restructurations - Personnel travaillant pour l'action ""Restructurations""";2;Restructurations Personnels militaires;0;119 462 520;0;119 462 520
+Défense;212;64;"Pilotage, soutien et communication -  Personnel travaillant pour l'action ""Pilotage, soutien et communication""";0;Restructurations Personnels militaires;0;485 027 347;0;485 027 347
+Défense;212;64;"Pilotage, soutien et communication -  Personnel travaillant pour l'action ""Pilotage, soutien et communication""";1;Personnel du SGA employeur;0;303 265 237;0;303 265 237
+Défense;212;64;"Pilotage, soutien et communication -  Personnel travaillant pour l'action ""Pilotage, soutien et communication""";2;Personnel des cabinets et des organismes rattachés;0;72 275 124;0;72 275 124
+Défense;212;64;"Pilotage, soutien et communication -  Personnel travaillant pour l'action ""Pilotage, soutien et communication""";3;Effectifs sortants remboursés;0;0;0;0
+Défense;212;64;"Pilotage, soutien et communication -  Personnel travaillant pour l'action ""Pilotage, soutien et communication""";4;Effectifs sortants non remboursés;0;10 833 400;0;10 833 400
+Défense;212;64;"Pilotage, soutien et communication -  Personnel travaillant pour l'action ""Pilotage, soutien et communication""";5;Présidence de la République;0;0;0;0
+Défense;212;64;"Pilotage, soutien et communication -  Personnel travaillant pour l'action ""Pilotage, soutien et communication""";6;Ecole des mousses et classes préparatoires des lycées de la défense;0;1 989 361;0;1 989 361
+Défense;212;64;"Pilotage, soutien et communication -  Personnel travaillant pour l'action ""Pilotage, soutien et communication""";7;Personnel de l'action sociale;0;57 056 665;0;57 056 665
+Défense;212;64;"Pilotage, soutien et communication -  Personnel travaillant pour l'action ""Pilotage, soutien et communication""";8;Personnel de l'agence de reconversion de la Défense;0;39 607 560;0;39 607 560
+Défense;212;65;"Journée défense et citoyenneté - Personnel travaillant pour le programme ""Liens entre la Nation et son armée""";0;Personnel de l'agence de reconversion de la Défense;0;73 333 775;0;73 333 775
+Direction de l'action du Gouvernement;129;1;Coordination du travail gouvernemental;0;Personnel de l'agence de reconversion de la Défense;136 773 511;137 681 565;139 373 541;137 681 565
+Direction de l'action du Gouvernement;129;2;Coordination de la sécurité et de la défense;0;Personnel de l'agence de reconversion de la Défense;242 148 587;261 487 201;244 196 292;293 302 183
+Direction de l'action du Gouvernement;129;3;Coordination de la politique européenne;0;Personnel de l'agence de reconversion de la Défense;15 992 625;16 425 191;15 992 625;16 425 191
+Direction de l'action du Gouvernement;129;10;Soutien;0;Personnel de l'agence de reconversion de la Défense;74 585 869;77 197 609;78 246 606;81 065 566
+Direction de l'action du Gouvernement;129;11;Stratégie et prospective;0;Personnel de l'agence de reconversion de la Défense;26 493 323;26 271 828;26 493 323;26 271 828
+Direction de l'action du Gouvernement;129;13;Ordre de la Légion d'honneur;0;Personnel de l'agence de reconversion de la Défense;25 606 353;27 027 946;25 606 353;27 027 946
+Direction de l'action du Gouvernement;129;14;Ordre de la Libération;0;Personnel de l'agence de reconversion de la Défense;1 354 652;1 384 652;1 354 652;1 384 652
+Direction de l'action du Gouvernement;129;15;Mission interministérielle de lutte contre les drogues et les conduites addictives;0;Personnel de l'agence de reconversion de la Défense;20 661 060;19 634 250;20 661 060;19 634 250
+Direction de l'action du Gouvernement;308;2;Commission nationale de l'informatique et des libertés;0;Personnel de l'agence de reconversion de la Défense;15 885 711;22 996 339;17 934 431;18 906 566
+Direction de l'action du Gouvernement;308;3;Conseil supérieur de l'audiovisuel;0;Personnel de l'agence de reconversion de la Défense;31 013 447;38 035 396;35 763 447;38 035 396
+Direction de l'action du Gouvernement;308;5;Contrôleur général des lieux de privation de liberté;0;Personnel de l'agence de reconversion de la Défense;5 170 567;4 781 456;4 555 449;4 921 415
+Direction de l'action du Gouvernement;308;6;Autres autorités indépendantes;0;Personnel de l'agence de reconversion de la Défense;3 095 581;3 323 741;3 095 581;3 323 741
+Direction de l'action du Gouvernement;308;7;Sécurité et protection des libertés;0;Personnel de l'agence de reconversion de la Défense;806 704;788 147;806 704;788 147
+Direction de l'action du Gouvernement;308;9;Défenseur des droits;0;Personnel de l'agence de reconversion de la Défense;39 199 277;25 349 095;29 472 667;29 238 117
+Direction de l'action du Gouvernement;308;10;Haute autorité pour la transparence de la vie publique;0;Personnel de l'agence de reconversion de la Défense;3 747 946;3 136 711;2 847 946;3 636 711
+Direction de l'action du Gouvernement;333;1;Fonctionnement courant des directions départementales interministérielles;0;Personnel de l'agence de reconversion de la Défense;91 500 000;89 890 716;91 500 000;89 890 716
+Direction de l'action du Gouvernement;333;2;Loyers et charges immobilières des administrations déconcentrées;0;Personnel de l'agence de reconversion de la Défense;395 810 726;403 904 686;350 510 191;348 984 000
+Direction de l'action du Gouvernement;333;3;Emplois déconcentrés des services du Premier ministre;0;Personnel de l'agence de reconversion de la Défense;106 827 046;106 452 621;106 827 046;106 452 621
+Écologie, développement et mobilité durables;113;1;Sites, paysages, publicité;0;Personnel de l'agence de reconversion de la Défense;7 156 698;6 000 000;6 168 898;6 000 000
+Écologie, développement et mobilité durables;113;2;logistique, formation et contentieux;0;Personnel de l'agence de reconversion de la Défense;6 480 499;5 933 672;6 136 414;5 933 672
+Écologie, développement et mobilité durables;113;7;Gestion des milieux et biodiversité;0;Personnel de l'agence de reconversion de la Défense;263 524 711;265 093 735;261 727 460;263 993 735
+Écologie, développement et mobilité durables;159;1;Production de l'information géographique;0;Personnel de l'agence de reconversion de la Défense;81 168 800;82 025 000;81 168 800;82 025 000
+Écologie, développement et mobilité durables;159;2;Recherche dans le domaine de l'information géographique;0;Personnel de l'agence de reconversion de la Défense;15 231 229;14 475 000;15 231 229;14 475 000
+Écologie, développement et mobilité durables;159;3;Pilotage de la politique d'information géographique;0;Personnel de l'agence de reconversion de la Défense;560 000;532 000;560 000;532 000
+Écologie, développement et mobilité durables;170;1;Observation et prévision météorologiques;0;Personnel de l'agence de reconversion de la Défense;185 352 497;183 152 000;185 352 497;183 152 000
+Écologie, développement et mobilité durables;170;2;Recherche dans le domaine météorologique;0;Personnel de l'agence de reconversion de la Défense;22 908 736;22 628 000;22 908 736;22 628 000
+Écologie, développement et mobilité durables;174;1;Politique de l'énergie;0;Personnel de l'agence de reconversion de la Défense;5 828 000;5 507 500;6 188 324;5 952 691
+Écologie, développement et mobilité durables;174;4;Gestion économique et sociale de l'après-mines;0;Personnel de l'agence de reconversion de la Défense;548 523 962;503 697 000;553 423 962;506 797 000
+Écologie, développement et mobilité durables;174;5;Lutte contre le changement climatique;0;Personnel de l'agence de reconversion de la Défense;34 531 344;31 160 000;34 531 344;31 160 000
+Écologie, développement et mobilité durables;174;6;Soutien;0;Personnel de l'agence de reconversion de la Défense;1 647 446;1 263 647;1 647 446;1 263 647
+Écologie, développement et mobilité durables;181;1;Prévention des risques technologiques et des pollutions;0;Personnel de l'agence de reconversion de la Défense;248 209 343;167 923 412;110 409 343;107 855 412
+Écologie, développement et mobilité durables;181;9;Contrôle de la sûreté nucléaire et de la radioprotection;0;Personnel de l'agence de reconversion de la Défense;54 145 071;54 170 170;59 160 343;59 185 442
+Écologie, développement et mobilité durables;181;10;Prévention des risques naturels et hydrauliques;0;Personnel de l'agence de reconversion de la Défense;37 840 000;40 155 000;37 840 000;40 155 000
+Écologie, développement et mobilité durables;181;11;Gestion de l'après-mine et travaux de mise en sécurité, indemnisations et expropriations sur les sites;0;Personnel de l'agence de reconversion de la Défense;41 800 000;41 800 000;41 800 000;41 800 000
+Écologie, développement et mobilité durables;203;1;Développement des infrastructures routières;0;Personnel de l'agence de reconversion de la Défense;0;0;0;0
+Écologie, développement et mobilité durables;203;10;Infrastructures de transports collectifs et ferroviaires;0;Personnel de l'agence de reconversion de la Défense;2 886 233 825;2 476 968 610;2 886 233 825;2 476 968 610
+Écologie, développement et mobilité durables;203;11;Infrastructures fluviales, portuaires et aéroportuaires;0;Personnel de l'agence de reconversion de la Défense;324 912 844;318 098 595;338 198 188;325 098 595
+Écologie, développement et mobilité durables;203;12;Entretien et exploitation du réseau routier national;0;Personnel de l'agence de reconversion de la Défense;331 921 078;332 094 078;337 381 078;337 784 078
+Écologie, développement et mobilité durables;203;13;Soutien, régulation, contrôle et sécurité des services de transports terrestres;0;Personnel de l'agence de reconversion de la Défense;48 973 937;48 797 536;53 973 937;53 797 536
+Écologie, développement et mobilité durables;203;14;Soutien, régulation et contrôle dans les domaines des transports fluviaux, maritimes et aériens;0;Personnel de l'agence de reconversion de la Défense;23 745 042;24 175 126;27 945 042;30 095 126
+Écologie, développement et mobilité durables;203;15;Stratégie et soutien;0;Personnel de l'agence de reconversion de la Défense;18 942 607;18 250 000;18 942 607;18 250 000
+Écologie, développement et mobilité durables;205;1;Sécurité et sûreté maritimes;0;Personnel de l'agence de reconversion de la Défense;26 138 328;26 077 418;26 607 347;26 517 418
+Écologie, développement et mobilité durables;205;2;Gens de mer et enseignement maritime;0;Personnel de l'agence de reconversion de la Défense;30 201 719;30 205 719;30 201 719;30 205 719
+Écologie, développement et mobilité durables;205;3;Flotte de commerce;0;Personnel de l'agence de reconversion de la Défense;71 065 000;69 815 200;71 065 000;69 815 200
+Écologie, développement et mobilité durables;205;4;Action interministérielle de la mer;0;Personnel de l'agence de reconversion de la Défense;10 150 304;10 099 359;10 235 304;10 221 343
+Écologie, développement et mobilité durables;205;5;Soutien au programme;0;Personnel de l'agence de reconversion de la Défense;6 054 729;7 459 705;6 454 729;6 459 705
+Écologie, développement et mobilité durables;205;6;Gestion durable des Pêches et de  l'Aquaculture;0;Personnel de l'agence de reconversion de la Défense;48 047 000;47 930 616;48 047 000;47 930 616
+Écologie, développement et mobilité durables;217;1;Stratégie, expertise et études en matière de développement durable;0;Personnel de l'agence de reconversion de la Défense;249 718 472;247 642 967;249 718 472;247 642 967
+Écologie, développement et mobilité durables;217;2;Fonction juridique;0;Personnel de l'agence de reconversion de la Défense;2 892 798;2 809 211;2 892 798;2 809 211
+Écologie, développement et mobilité durables;217;3;Politique et programmation de l'immobilier et des moyens de fonctionnement;0;Personnel de l'agence de reconversion de la Défense;536 767 329;682 178 375;164 659 569;158 612 692
+Écologie, développement et mobilité durables;217;4;Politique et gestion des systèmes d'information et des réseaux informatiques;0;Personnel de l'agence de reconversion de la Défense;25 423 737;24 992 714;25 423 737;24 992 714
+Écologie, développement et mobilité durables;217;5;Politique des ressources humaines et formation;0;Personnel de l'agence de reconversion de la Défense;207 570 928;217 933 851;207 570 928;217 933 851
+Écologie, développement et mobilité durables;217;6;Action européenne et internationale;0;Personnel de l'agence de reconversion de la Défense;9 111 921;8 848 636;9 111 921;8 848 636
+Écologie, développement et mobilité durables;217;7;"Personnels oeuvrant pour les politiques du programme ""Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables""";0;Personnel de l'agence de reconversion de la Défense;494 953 072;501 024 880;494 953 072;501 024 880
+Écologie, développement et mobilité durables;217;8;"Personnels oeuvrant pour les politiques du programme ""Infrastructures et services de transports""";0;Personnel de l'agence de reconversion de la Défense;630 111 161;618 093 708;630 111 161;618 093 708
+Écologie, développement et mobilité durables;217;9;"Personnels oeuvrant pour les politiques du programme ""Sécurité et éducation routières""";0;Personnel de l'agence de reconversion de la Défense;39 337 655;38 781 295;39 337 655;38 781 295
+Écologie, développement et mobilité durables;217;11;"Personnels oeuvrant pour les politiques du programme ""Sécurité et affaires maritimes""";0;Personnel de l'agence de reconversion de la Défense;182 254 227;184 216 321;182 254 227;184 216 321
+Écologie, développement et mobilité durables;217;13;"Personnels oeuvrant pour les politiques du programme ""Paysages, eau et biodiversité""";0;Personnel de l'agence de reconversion de la Défense;214 083 832;213 580 190;214 083 832;213 580 190
+Écologie, développement et mobilité durables;217;15;Personnels relevant du ministère du logement et de l'égalité des territoires;0;Personnel de l'agence de reconversion de la Défense;0;0;0;0
+Écologie, développement et mobilité durables;217;16;"Personnels oeuvrant pour les politiques du programme ""Prévention des risques""";0;Personnel de l'agence de reconversion de la Défense;223 785 981;233 720 377;223 785 981;233 720 377
+Écologie, développement et mobilité durables;217;18;Personnels relevant de programmes d'autres ministères;0;Personnel de l'agence de reconversion de la Défense;0;0;0;0
+Écologie, développement et mobilité durables;217;22;Personnels transférés aux collectivités territoriales;0;Personnel de l'agence de reconversion de la Défense;15 721 692;9 091 745;15 721 692;9 091 745
+Écologie, développement et mobilité durables;217;23;"Personnels oeuvrant pour les politiques des programmes ""énergie, climat et après-mines""";0;Personnel de l'agence de reconversion de la Défense;54 708 916;55 732 443;54 708 916;55 732 443
+Écologie, développement et mobilité durables;217;24;Personnels oeuvrant dans le domaine des transports aériens;0;Personnel de l'agence de reconversion de la Défense;2 041 143;2 038 783;2 041 143;2 038 783
+Écologie, développement et mobilité durables;217;25;Commission nationale du débat public;0;Personnel de l'agence de reconversion de la Défense;2 426 251;2 426 251;2 426 251;2 426 251
+Écologie, développement et mobilité durables;217;26;Autorité de contrôle des nuisances aéroportuaires (ACNUSA);0;Personnel de l'agence de reconversion de la Défense;1 597 058;1 597 058;1 597 058;1 597 058
+Économie;134;2;Commerce, artisanat et services;0;Personnel de l'agence de reconversion de la Défense;87 861 453;77 262 608;87 861 453;66 804 440
+Économie;134;3;Actions en faveur des entreprises industrielles;0;Personnel de l'agence de reconversion de la Défense;184 854 596;151 240 887;194 554 744;167 314 562
+Économie;134;4;Développement des télécommunications, des postes et de la société de l'information;0;Personnel de l'agence de reconversion de la Défense;194 556 321;173 083 402;194 556 321;173 083 402
+Économie;134;7;Développement international des entreprises et attractivité du territoire;0;Personnel de l'agence de reconversion de la Défense;97 110 000;108 770 209;97 110 000;108 770 209
+Économie;134;8;Expertise, conseil et inspection;0;Personnel de l'agence de reconversion de la Défense;18 630 865;18 930 127;18 630 865;18 930 127
+Économie;134;13;Régulation des communications électroniques et des postes (ARCEP);0;Personnel de l'agence de reconversion de la Défense;22 794 053;22 700 239;22 794 053;22 700 239
+Économie;134;14;Régulation et contrôle des marchés de l'énergie (CRE);0;Personnel de l'agence de reconversion de la Défense;18 886 332;19 043 410;18 886 332;19 043 410
+Économie;134;15;Mise en oeuvre du droit de la concurrence (Autorité de la concurrence);0;Personnel de l'agence de reconversion de la Défense;20 701 450;20 244 535;20 701 450;20 244 535
+Économie;134;16;Régulation concurrentielle des marchés;0;Personnel de l'agence de reconversion de la Défense;72 025 466;73 951 609;72 023 117;73 951 609
+Économie;134;17;Protection économique du consommateur;0;Personnel de l'agence de reconversion de la Défense;121 924 123;123 101 087;120 561 047;123 101 087
+Économie;134;18;Sécurité du consommateur;0;Personnel de l'agence de reconversion de la Défense;45 223 685;45 580 237;45 222 210;45 580 237
+Économie;134;20;Financement des entreprises;0;Personnel de l'agence de reconversion de la Défense;43 250 863;30 098 673;43 250 863;30 098 673
+Économie;134;21;Développement du tourisme;0;Personnel de l'agence de reconversion de la Défense;34 948 717;3 594 760;37 032 710;4 882 645
+Économie;220;1;Infrastructure statistique;0;Personnel de l'agence de reconversion de la Défense;150 477 955;140 665 489;150 543 988;140 519 458
+Économie;220;2;Information sur les entreprises et synthèses économiques;0;Personnel de l'agence de reconversion de la Défense;52 521 763;51 838 355;52 709 762;51 948 471
+Économie;220;3;Information démographique et sociale;0;Personnel de l'agence de reconversion de la Défense;68 666 782;65 469 481;69 144 653;65 733 331
+Économie;220;5;Soutien;0;Personnel de l'agence de reconversion de la Défense;133 556 724;138 123 763;128 413 146;136 237 848
+Économie;220;6;Action régionale;0;Personnel de l'agence de reconversion de la Défense;56 087 059;55 063 410;56 137 191;55 092 773
+Économie;305;1;Définition et mise en oeuvre de la politique économique et financière de la France dans le cadre national, international et européen;0;Personnel de l'agence de reconversion de la Défense;383 994 171;373 759 844;383 994 171;373 759 844
+Économie;305;2;Développement international de l'économie française;0;Personnel de l'agence de reconversion de la Défense;91 862 854;84 265 685;91 862 854;84 265 685
+Économie;305;3;Elaboration de la législation fiscale;0;Personnel de l'agence de reconversion de la Défense;15 732 297;15 782 153;15 732 297;15 782 153
+Économie;343;1;Réseaux d'initiative publique;0;Personnel de l'agence de reconversion de la Défense;0;1 412 000 000;0;0
+Égalité des territoires et logement;109;1;Aides personnelles;0;Personnel de l'agence de reconversion de la Défense;5 087 688 259;10 967 854 015;5 087 688 259;10 967 854 015
+Égalité des territoires et logement;109;2;Information relative au logement et accompagnement des publics en difficulté;0;Personnel de l'agence de reconversion de la Défense;8 094 500;8 000 000;8 094 500;8 000 000
+Égalité des territoires et logement;109;3;Sécurisation des risques locatifs;0;Personnel de l'agence de reconversion de la Défense;9 000 000;9 300 000;9 000 000;9 300 000
+Égalité des territoires et logement;135;1;Construction locative et amélioration du parc;0;Personnel de l'agence de reconversion de la Défense;451 647 256;405 000 000;276 829 666;171 400 000
+Égalité des territoires et logement;135;2;Soutien à l'accession à la propriété;0;Personnel de l'agence de reconversion de la Défense;4 100 000;3 895 000;4 100 000;3 895 000
+Égalité des territoires et logement;135;3;Lutte contre l'habitat indigne;0;Personnel de l'agence de reconversion de la Défense;6 502 500;4 800 000;6 502 500;4 800 000
+Égalité des territoires et logement;135;4;Réglementation, politique technique et qualité de la construction;0;Personnel de l'agence de reconversion de la Défense;51 227 247;48 851 865;51 177 399;48 851 865
+Égalité des territoires et logement;135;5;Soutien;0;Personnel de l'agence de reconversion de la Défense;17 029 087;14 885 000;17 029 087;14 885 000
+Égalité des territoires et logement;135;7;Urbanisme et aménagement;0;Personnel de l'agence de reconversion de la Défense;45 661 041;44 906 630;45 456 979;44 906 630
+Égalité des territoires et logement;135;8;Grand Paris;0;Personnel de l'agence de reconversion de la Défense;0;0;0;0
+Égalité des territoires et logement;177;11;Prévention de l'exclusion;0;Personnel de l'agence de reconversion de la Défense;56 256 650;59 172 498;56 256 650;59 172 498
+Égalité des territoires et logement;177;12;Hébergement et logement adapté;0;Personnel de l'agence de reconversion de la Défense;1 242 455 421;1 300 441 328;1 242 455 421;1 300 441 328
+Égalité des territoires et logement;177;14;Conduite et animation des politiques de l'hébergement et de l'inclusion sociale;0;Personnel de l'agence de reconversion de la Défense;17 130 966;15 879 500;17 130 966;15 879 500
+Égalité des territoires et logement;337;1;Personnels oeuvrant pour les politiques de l'urbanisme, de l'aménagement, du logement et de l'habitat;0;Personnel de l'agence de reconversion de la Défense;689 341 454;660 619 702;689 341 454;660 619 702
+Égalité des territoires et logement;337;2;"Personnels oeuvrant au soutien du programme "" Conduite et pilotage des politiques du logement et de l’égalité des territoires """;0;Personnel de l'agence de reconversion de la Défense;114 745 887;116 573 150;114 745 887;116 573 150
+Engagements financiers de l'État;114;1;Agriculture et environnement;0;Personnel de l'agence de reconversion de la Défense;1 500 000;1 000 000;1 500 000;1 000 000
+Engagements financiers de l'État;114;2;Soutien au domaine social, logement, santé;0;Personnel de l'agence de reconversion de la Défense;8 500 000;10 000 000;8 500 000;10 000 000
+Engagements financiers de l'État;114;3;Financement des entreprises et industrie;0;Personnel de l'agence de reconversion de la Défense;10 000 000;10 000 000;10 000 000;10 000 000
+Engagements financiers de l'État;114;4;Développement international de l'économie française;0;Personnel de l'agence de reconversion de la Défense;138 200 000;149 300 000;138 200 000;149 300 000
+Engagements financiers de l'État;114;4;Développement international de l'économie française;1;Assurance-crédit;0;0;0;0
+Engagements financiers de l'État;114;4;Développement international de l'économie française;2;Assurance-prospection;110 000 000;111 500 000;110 000 000;111 500 000
+Engagements financiers de l'État;114;4;Développement international de l'économie française;3;Garantie de change;4 000 000;4 000 000;4 000 000;4 000 000
+Engagements financiers de l'État;114;4;Développement international de l'économie française;4;Garantie du risque économique;4 200 000;3 800 000;4 200 000;3 800 000
+Engagements financiers de l'État;114;4;Développement international de l'économie française;5;Garanties de taux d'intérêt Natixis;0;0;0;0
+Engagements financiers de l'État;114;4;Développement international de l'économie française;6;Garantie du risque exportateur;20 000 000;30 000 000;20 000 000;30 000 000
+Engagements financiers de l'État;114;5;Autres garanties;0;Garantie du risque exportateur;50 200 000;34 700 000;50 200 000;34 700 000
+Engagements financiers de l'État;117;1;Dette;0;Garantie du risque exportateur;45 740 000 000;43 401 000 000;45 740 000 000;43 401 000 000
+Engagements financiers de l'État;117;3;Trésorerie;0;Garantie du risque exportateur;914 000 000;936 000 000;914 000 000;936 000 000
+Engagements financiers de l'État;145;1;Épargne logement;0;Garantie du risque exportateur;565 818 720;474 342 650;565 951 720;474 342 650
+Engagements financiers de l'État;145;2;Instruments de financement du logement;0;Garantie du risque exportateur;3 100 000;2 357 350;3 100 000;2 357 350
+Engagements financiers de l'État;168;1;Participation de l'État aux majorations de rentes viagères;0;Garantie du risque exportateur;171 000 000;168 000 000;171 000 000;168 000 000
+Engagements financiers de l'État;336;1;Dotation en capital du Mécanisme européen de stabilité;0;Garantie du risque exportateur;0;0;3 261 744 000;0
+Engagements financiers de l'État;338;1;Augmentation de capital de la Banque européenne d'investissement;0;Garantie du risque exportateur;0;0;0;0
+Engagements financiers de l'État;344;1;Fonds de soutien relatif aux prêts et contrats financiers structurés à risque;0;Garantie du risque exportateur;50 000 000;1 427 000 000;50 000 000;50 000 000
+Enseignement scolaire;139;1;Enseignement pré-élémentaire;0;Garantie du risque exportateur;444 551 721;446 097 372;444 551 721;446 097 372
+Enseignement scolaire;139;2;Enseignement élémentaire;0;Garantie du risque exportateur;1 173 325 035;1 179 553 087;1 173 325 035;1 179 553 087
+Enseignement scolaire;139;3;Enseignement en collège;0;Garantie du risque exportateur;1 875 059 545;1 888 806 270;1 875 059 545;1 888 806 270
+Enseignement scolaire;139;4;Enseignement général et technologique en lycée;0;Garantie du risque exportateur;1 205 512 523;1 208 594 547;1 205 512 523;1 208 594 547
+Enseignement scolaire;139;5;Enseignement professionnel sous statut scolaire;0;Garantie du risque exportateur;762 782 735;765 434 835;762 782 735;765 434 835
+Enseignement scolaire;139;6;Enseignement post-baccalauréat en lycée;0;Garantie du risque exportateur;260 536 460;261 442 313;260 536 460;261 442 313
+Enseignement scolaire;139;7;Dispositifs spécifiques de scolarisation;0;Garantie du risque exportateur;150 613 151;151 136 814;150 613 151;151 136 814
+Enseignement scolaire;139;8;Actions sociales en faveur des élèves;0;Garantie du risque exportateur;63 664 651;65 112 276;63 664 651;65 112 276
+Enseignement scolaire;139;9;Fonctionnement des établissements;0;Garantie du risque exportateur;635 424 285;644 451 786;635 424 285;644 451 786
+Enseignement scolaire;139;10;Formation initiale et continue des enseignants;0;Garantie du risque exportateur;87 228 331;120 471 435;87 228 331;120 471 435
+Enseignement scolaire;139;11;Remplacement;0;Garantie du risque exportateur;168 225 173;168 810 070;168 225 173;168 810 070
+Enseignement scolaire;139;12;Soutien;0;Garantie du risque exportateur;274 858 100;276 146 670;274 858 100;276 146 670
+Enseignement scolaire;140;1;Enseignement pré-élémentaire;0;Garantie du risque exportateur;4 931 942 089;5 011 030 538;4 931 942 089;5 011 030 538
+Enseignement scolaire;140;2;Enseignement élémentaire;0;Garantie du risque exportateur;9 412 523 840;9 607 373 241;9 412 523 840;9 607 373 241
+Enseignement scolaire;140;3;Besoins éducatifs particuliers;0;Garantie du risque exportateur;1 731 955 780;1 759 688 309;1 731 955 780;1 759 688 309
+Enseignement scolaire;140;4;Formation des personnels enseignants;0;Garantie du risque exportateur;463 536 231;684 125 584;463 536 231;684 125 584
+Enseignement scolaire;140;5;Remplacement;0;Garantie du risque exportateur;1 610 075 895;1 635 944 995;1 610 075 895;1 635 944 995
+Enseignement scolaire;140;6;Pilotage et encadrement pédagogique;0;Garantie du risque exportateur;1 033 916 451;1 050 425 049;1 033 916 451;1 050 425 049
+Enseignement scolaire;140;7;Personnels en situations diverses;0;Garantie du risque exportateur;76 397 433;91 241 579;76 397 433;91 241 579
+Enseignement scolaire;141;1;Enseignement en collège;0;Garantie du risque exportateur;10 870 430 960;11 003 585 615;10 870 430 960;11 003 585 615
+Enseignement scolaire;141;2;Enseignement général et technologique en lycée;0;Garantie du risque exportateur;6 859 711 614;6 918 488 709;6 859 711 614;6 918 488 709
+Enseignement scolaire;141;3;Enseignement professionnel sous statut scolaire;0;Garantie du risque exportateur;4 173 348 983;4 212 138 586;4 173 348 983;4 212 138 586
+Enseignement scolaire;141;4;Apprentissage;0;Garantie du risque exportateur;7 187 205;7 240 348;7 187 205;7 240 348
+Enseignement scolaire;141;5;Enseignement post-baccalauréat en lycée;0;Garantie du risque exportateur;2 007 100 774;2 024 758 776;2 007 100 774;2 024 758 776
+Enseignement scolaire;141;6;Besoins éducatifs particuliers;0;Garantie du risque exportateur;1 159 380 942;1 169 528 755;1 159 380 942;1 169 528 755
+Enseignement scolaire;141;7;Aide à l'insertion professionnelle;0;Garantie du risque exportateur;53 979 615;54 404 760;53 979 615;54 404 760
+Enseignement scolaire;141;8;Information et orientation;0;Garantie du risque exportateur;303 139 651;305 796 801;303 139 651;305 796 801
+Enseignement scolaire;141;9;Formation continue des adultes et validation des acquis de l'expérience;0;Garantie du risque exportateur;117 465 870;118 272 506;117 465 870;118 272 506
+Enseignement scolaire;141;10;Formation des personnels enseignants et d'orientation;0;Garantie du risque exportateur;322 175 044;542 458 737;322 175 044;542 458 737
+Enseignement scolaire;141;11;Remplacement;0;Garantie du risque exportateur;1 389 233 745;1 401 456 635;1 389 233 745;1 401 456 635
+Enseignement scolaire;141;12;Pilotage, administration et encadrement pédagogique;0;Garantie du risque exportateur;3 152 722 555;3 182 998 017;3 152 722 555;3 182 998 017
+Enseignement scolaire;141;13;Personnels en situations diverses;0;Garantie du risque exportateur;54 361 319;89 202 052;54 361 319;89 202 052
+Enseignement scolaire;143;1;Mise en oeuvre de l'enseignement dans les établissements publics;0;Garantie du risque exportateur;682 676 819;705 244 976;682 676 819;705 244 976
+Enseignement scolaire;143;2;Mise en oeuvre des enseignements dans les établissements privés;0;Garantie du risque exportateur;565 934 155;578 751 591;565 934 155;578 751 591
+Enseignement scolaire;143;3;Aide sociale aux élèves (enseignement public et privé);0;Garantie du risque exportateur;84 931 215;86 518 555;84 931 215;86 518 555
+Enseignement scolaire;143;4;Évolution des compétences et dynamique territoriale;0;Garantie du risque exportateur;3 649 885;4 050 371;3 649 885;4 050 371
+Enseignement scolaire;143;5;Moyens communs à l'enseignement technique agricole, public et privé;0;Garantie du risque exportateur;5 542 851;5 542 851;5 542 851;5 542 851
+Enseignement scolaire;214;1;Pilotage et mise en oeuvre des politiques éducatives;0;Garantie du risque exportateur;382 833 097;385 402 846;382 833 097;385 402 846
+Enseignement scolaire;214;2;Évaluation et contrôle;0;Garantie du risque exportateur;77 801 475;77 740 467;77 801 475;77 740 467
+Enseignement scolaire;214;3;Communication;0;Garantie du risque exportateur;14 027 946;13 803 481;14 027 946;13 803 481
+Enseignement scolaire;214;4;Expertise juridique;0;Garantie du risque exportateur;16 153 282;16 175 136;16 153 282;16 175 136
+Enseignement scolaire;214;5;Action internationale;0;Garantie du risque exportateur;15 400 963;14 366 337;15 400 963;14 366 337
+Enseignement scolaire;214;6;Politique des ressources humaines;0;Garantie du risque exportateur;664 179 855;668 990 046;663 484 457;668 990 046
+Enseignement scolaire;214;7;Établissements d'appui de la politique éducative;0;Garantie du risque exportateur;202 880 594;155 320 537;202 880 594;155 320 537
+Enseignement scolaire;214;8;Logistique, système d'information, immobilier;0;Garantie du risque exportateur;744 166 839;642 731 422;639 316 839;675 136 422
+Enseignement scolaire;214;9;Certification;0;Garantie du risque exportateur;194 880 586;195 436 258;194 880 586;195 436 258
+Enseignement scolaire;214;10;Transports scolaires;0;Garantie du risque exportateur;3 322 845;3 322 845;3 322 845;3 322 845
+Enseignement scolaire;230;1;Vie scolaire et éducation à la responsabilité;0;Garantie du risque exportateur;2 307 928 286;2 361 248 311;2 307 928 286;2 361 248 311
+Enseignement scolaire;230;2;Santé scolaire;0;Garantie du risque exportateur;460 744 224;474 374 431;460 744 224;474 374 431
+Enseignement scolaire;230;3;Inclusion scolaire des élèves en situation de handicap;0;Garantie du risque exportateur;708 299 993;755 013 495;708 299 993;755 013 495
+Enseignement scolaire;230;4;Action sociale;0;Garantie du risque exportateur;720 016 820;732 945 234;720 016 820;732 945 234
+Enseignement scolaire;230;5;Politique de l'internat et établissements à la charge de l'Etat;0;Garantie du risque exportateur;53 479 343;54 382 542;53 479 343;54 382 542
+Enseignement scolaire;230;6;Actions éducatives complémentaires aux enseignements;0;Garantie du risque exportateur;245 284 652;340 827 123;178 244 652;388 418 353
+Gestion des finances publiques et des ressources humaines;148;1;Formation des fonctionnaires;0;Garantie du risque exportateur;81 016 987;79 541 290;81 016 987;79 541 290
+Gestion des finances publiques et des ressources humaines;148;2;Action sociale interministérielle;0;Garantie du risque exportateur;119 832 472;122 342 634;125 273 278;125 283 441
+Gestion des finances publiques et des ressources humaines;156;1;Fiscalité des grandes entreprises;0;Garantie du risque exportateur;101 478 578;118 624 240;101 478 578;118 624 240
+Gestion des finances publiques et des ressources humaines;156;2;Fiscalité des PME;0;Garantie du risque exportateur;1 758 918 665;1 745 223 836;1 760 588 665;1 746 253 836
+Gestion des finances publiques et des ressources humaines;156;3;Fiscalité des particuliers et fiscalité directe locale;0;Garantie du risque exportateur;2 303 820 280;2 232 814 419;2 307 460 280;2 233 336 419
+Gestion des finances publiques et des ressources humaines;156;5;Gestion financière de l'État hors fiscalité;0;Garantie du risque exportateur;744 281 936;742 391 570;747 341 936;742 616 570
+Gestion des finances publiques et des ressources humaines;156;6;Gestion des pensions;0;Garantie du risque exportateur;67 527 564;66 525 768;67 537 564;66 575 768
+Gestion des finances publiques et des ressources humaines;156;7;Gestion financière du secteur public local hors fiscalité;0;Garantie du risque exportateur;1 381 935 451;1 354 728 630;1 375 825 451;1 355 528 630
+Gestion des finances publiques et des ressources humaines;156;8;Gestion des fonds déposés;0;Garantie du risque exportateur;67 524 733;64 888 646;67 524 733;64 888 646
+Gestion des finances publiques et des ressources humaines;156;9;Soutien;0;Garantie du risque exportateur;2 127 816 032;2 012 443 605;1 921 011 032;1 909 000 296
+Gestion des finances publiques et des ressources humaines;218;1;Etat-major et politiques transversales;0;Garantie du risque exportateur;380 731 149;404 396 088;380 089 585;404 396 088
+Gestion des finances publiques et des ressources humaines;218;2;Expertise, audit, évaluation et contrôle;0;Garantie du risque exportateur;75 028 338;77 654 023;75 766 712;74 754 023
+Gestion des finances publiques et des ressources humaines;218;5;Prestations d'appui et support;0;Garantie du risque exportateur;432 884 312;446 488 285;434 689 132;408 337 570
+Gestion des finances publiques et des ressources humaines;218;7;Pilotage des finances publiques et projets interministériels;0;Garantie du risque exportateur;217 469 117;174 360 184;216 500 491;179 070 184
+Gestion des finances publiques et des ressources humaines;302;1;Surveillance douanière des flux de personnes et de marchandises et lutte contre la grande fraude douanière.;0;Garantie du risque exportateur;452 157 527;451 691 965;450 957 527;452 121 305
+Gestion des finances publiques et des ressources humaines;302;3;Préservation de la sécurité et de la sûreté de l'espace national et européen;0;Garantie du risque exportateur;217 279 213;178 872 557;194 790 069;182 527 271
+Gestion des finances publiques et des ressources humaines;302;4;Promotion des échanges internationaux et qualité du dédouanement;0;Garantie du risque exportateur;244 810 807;249 782 414;245 170 807;251 145 656
+Gestion des finances publiques et des ressources humaines;302;5;Fiscalité douanière, énergétique et environnementale;0;Garantie du risque exportateur;416 272 262;396 274 293;416 112 262;396 743 912
+Gestion des finances publiques et des ressources humaines;302;6;Soutien des services opérationnels;0;Garantie du risque exportateur;300 046 816;297 936 668;288 277 116;304 703 744
+Gestion des finances publiques et des ressources humaines;309;2;Contrôles réglementaires;0;Garantie du risque exportateur;6 588 235;9 360 000;7 000 000;9 960 000
+Gestion des finances publiques et des ressources humaines;309;3;Audits, expertises, diagnostics;0;Garantie du risque exportateur;1 882 353;3 900 000;2 000 000;4 150 000
+Gestion des finances publiques et des ressources humaines;309;4;Maintenance préventive;0;Garantie du risque exportateur;32 000 000;31 980 000;34 000 000;34 030 000
+Gestion des finances publiques et des ressources humaines;309;5;Maintenance corrective;0;Garantie du risque exportateur;23 529 412;17 160 000;25 000 000;18 260 000
+Gestion des finances publiques et des ressources humaines;309;6;Travaux lourds - Mise en conformité et remise en état;0;Garantie du risque exportateur;94 775 659;93 600 000;100 775 659;99 600 000
+Immigration, asile et intégration;104;11;Accueil des étrangers primo arrivants;0;Garantie du risque exportateur;10 985 300;10 765 594;10 985 300;10 765 594
+Immigration, asile et intégration;104;12;Accompagnement des étrangers primo-arrivants;0;Garantie du risque exportateur;34 378 334;30 985 478;34 378 334;30 985 478
+Immigration, asile et intégration;104;14;Accès à la nationalité française;0;Garantie du risque exportateur;1 256 500;1 159 800;1 820 000;1 722 800
+Immigration, asile et intégration;104;15;Accompagnement des réfugiés;0;Garantie du risque exportateur;14 145 566;16 166 128;14 145 566;16 166 128
+Immigration, asile et intégration;303;1;Circulation des étrangers et politique des visas;0;Garantie du risque exportateur;1 495 000;1 420 000;1 495 000;1 420 000
+Immigration, asile et intégration;303;2;Garantie de l'exercice du droit d'asile;0;Garantie du risque exportateur;498 547 000;509 731 000;498 547 000;509 731 000
+Immigration, asile et intégration;303;3;Lutte contre l'immigration irrégulière;0;Garantie du risque exportateur;63 410 000;63 627 000;73 411 000;73 802 000
+Immigration, asile et intégration;303;4;Soutien;0;Garantie du risque exportateur;23 205 000;22 104 140;24 004 000;21 503 140
+Justice;101;1;Aide juridictionnelle;0;Garantie du risque exportateur;345 406 000;336 265 104;345 406 000;336 265 104
+Justice;101;2;Développement de l'accès au droit et du réseau judiciaire de proximité;0;Garantie du risque exportateur;5 498 500;5 000 000;5 498 500;5 000 000
+Justice;101;3;Aide aux victimes;0;Garantie du risque exportateur;13 845 666;18 263 735;13 845 666;16 850 000
+Justice;101;4;Médiation familiale et espaces de rencontre;0;Garantie du risque exportateur;3 249 000;3 250 000;3 249 000;3 250 000
+Justice;101;5;Indemnisation des avoués;0;Garantie du risque exportateur;0;1 700 000;0;1 700 000
+Justice;107;1;Garde et contrôle des personnes placées sous main de justice;0;Garantie du risque exportateur;1 760 498 886;2 116 364 824;1 951 208 886;2 060 864 824
+Justice;107;2;Accueil et accompagnement des personnes placées sous main de justice;0;Garantie du risque exportateur;819 704 584;2 335 566 451;1 023 104 584;1 068 508 155
+Justice;107;4;Soutien et formation;0;Garantie du risque exportateur;262 207 777;273 184 671;255 228 489;267 184 671
+Justice;166;1;Traitement et jugement des contentieux civils;0;Garantie du risque exportateur;949 993 595;928 054 748;949 969 018;928 054 748
+Justice;166;2;Conduite de la politique pénale et jugement des affaires pénales;0;Garantie du risque exportateur;1 002 639 127;961 552 759;1 002 540 120;961 552 759
+Justice;166;3;Cassation;0;Garantie du risque exportateur;58 473 416;58 521 767;58 473 412;58 521 767
+Justice;166;5;Enregistrement des décisions judiciaires;0;Garantie du risque exportateur;12 213 840;12 152 746;12 213 840;12 152 746
+Justice;166;6;Soutien;0;Garantie du risque exportateur;1 017 262 131;908 314 717;945 587 366;978 404 965
+Justice;166;7;Formation;0;Garantie du risque exportateur;111 538 411;111 584 201;111 538 411;111 584 201
+Justice;166;8;Support à l'accès au droit et à la justice;0;Garantie du risque exportateur;30 033 589;28 623 546;30 033 589;28 623 546
+Justice;182;1;Mise en oeuvre des décisions judiciaires;0;Garantie du risque exportateur;650 779 337;652 308 493;655 424 924;652 824 591
+Justice;182;3;Soutien;0;Garantie du risque exportateur;99 381 193;98 012 481;98 735 606;97 596 383
+Justice;182;4;Formation;0;Garantie du risque exportateur;29 022 094;29 958 134;29 022 094;27 358 134
+Justice;310;1;État major;0;Garantie du risque exportateur;9 664 299;9 805 000;9 664 299;9 805 000
+Justice;310;2;Activité normative;0;Garantie du risque exportateur;22 787 373;22 500 000;22 787 373;22 500 000
+Justice;310;3;Évaluation, contrôle, études et recherche;0;Garantie du risque exportateur;14 782 735;16 001 365;14 782 735;16 001 365
+Justice;310;4;Gestion de l'administration centrale;0;Garantie du risque exportateur;200 698 572;157 526 180;106 385 762;119 766 180
+Justice;310;9;Action informatique ministérielle;0;Garantie du risque exportateur;120 570 508;115 800 000;121 770 508;114 900 000
+Justice;310;10;Action sociale ministérielle;0;Garantie du risque exportateur;35 372 237;35 800 000;35 372 237;35 800 000
+Justice;335;1;Conseil supérieur de la magistrature;0;Garantie du risque exportateur;3 794 566;3 649 921;4 183 707;4 365 842
+Médias, livre et industries culturelles;180;1;Relations financières avec l'AFP;0;Garantie du risque exportateur;123 001 014;126 140 282;123 001 014;126 140 282
+Médias, livre et industries culturelles;180;2;Aides à la presse;0;Garantie du risque exportateur;134 070 500;130 117 832;134 070 500;130 117 832
+Médias, livre et industries culturelles;313;1;France Télévisions;0;Garantie du risque exportateur;112 705 429;160 416 710;112 705 429;160 416 710
+Médias, livre et industries culturelles;313;10;Soutien à l'expression radiophonique locale;0;Garantie du risque exportateur;0;29 000 000;0;29 000 000
+Médias, livre et industries culturelles;334;1;Livre et lecture;0;Garantie du risque exportateur;305 063 600;261 225 635;251 269 700;258 252 519
+Médias, livre et industries culturelles;334;2;Industries culturelles;0;Garantie du risque exportateur;10 528 568;10 302 140;10 528 568;10 302 140
+Outre-mer;123;1;Logement;0;Garantie du risque exportateur;272 758 664;247 650 000;243 500 000;243 688 461
+Outre-mer;123;2;Aménagement  du territoire;0;Garantie du risque exportateur;145 364 843;145 794 897;164 110 000;173 881 418
+Outre-mer;123;3;Continuité territoriale;0;Garantie du risque exportateur;51 450 000;41 152 875;51 450 000;41 152 875
+Outre-mer;123;4;Sanitaire, social, culture, jeunesse et sports;0;Garantie du risque exportateur;6 789 807;6 650 000;6 789 807;6 650 000
+Outre-mer;123;6;Collectivités territoriales;0;Garantie du risque exportateur;186 120 622;191 472 010;171 258 977;182 434 566
+Outre-mer;123;7;Insertion économique et coopération régionales;0;Garantie du risque exportateur;1 920 100;1 000 000;1 920 100;1 000 000
+Outre-mer;123;8;Fonds exceptionnel d'investissement;0;Garantie du risque exportateur;50 000 000;40 000 000;25 500 000;26 165 543
+Outre-mer;123;9;Appui à l'accès aux financements bancaires;0;Garantie du risque exportateur;28 300 000;28 300 000;6 925 834;9 638 420
+Outre-mer;138;1;Soutien aux entreprises;0;Garantie du risque exportateur;1 154 749 559;1 136 309 516;1 147 249 559;1 136 809 516
+Outre-mer;138;2;Aide à l'insertion et à la qualification professionnelle;0;Garantie du risque exportateur;244 744 532;253 868 624;235 946 032;240 118 624
+Outre-mer;138;3;Pilotage des politiques des outre-mer;0;Garantie du risque exportateur;2 904 000;2 745 377;2 904 000;2 745 377
+Politique des territoires;112;1;Attractivité économique et compétitivité des territoires;0;Garantie du risque exportateur;110 385 765;88 920 810;106 533 765;95 576 267
+Politique des territoires;112;2;Développement solidaire et équilibré des territoires;0;Garantie du risque exportateur;124 430 785;89 495 000;139 459 583;130 892 971
+Politique des territoires;112;4;Instruments de pilotage et d'étude;0;Garantie du risque exportateur;35 106 097;44 111 362;35 106 097;44 111 362
+Politique des territoires;147;1;Actions territorialisées et Dispositifs spécifiques de la politique de la ville;0;Garantie du risque exportateur;332 610 327;332 400 000;332 610 327;332 400 000
+Politique des territoires;147;2;Revitalisation économique et emploi;0;Garantie du risque exportateur;130 727 591;90 155 000;118 500 364;90 155 000
+Politique des territoires;147;3;Stratégie, ressources et évaluation;0;Garantie du risque exportateur;42 103 118;33 199 099;42 130 743;33 482 829
+Politique des territoires;147;4;Rénovation urbaine et amélioration du cadre de vie;0;Garantie du risque exportateur;25 000;0;2 936 503;880 000
+Politique des territoires;162;2;Eau - Agriculture en Bretagne;0;Garantie du risque exportateur;7 341 830;7 171 830;7 192 220;8 241 188
+Politique des territoires;162;4;Programme exceptionnel d'investissements en faveur de la Corse;0;Garantie du risque exportateur;22 052 920;16 344 550;23 053 056;19 105 053
+Politique des territoires;162;6;Plan gouvernemental sur le Marais Poitevin - Poitou Charentes;0;Garantie du risque exportateur;4 741 363;4 010 000;5 091 130;3 683 715
+Politique des territoires;162;8;Plan chlordécone en Martinique et en Guadeloupe;0;Garantie du risque exportateur;2 692 182;2 626 560;2 692 869;2 626 560
+Pouvoirs publics;501;1;Présidence de la République;0;Garantie du risque exportateur;101 660 000;100 000 000;101 660 000;100 000 000
+Pouvoirs publics;511;1;Assemblée nationale;0;Garantie du risque exportateur;517 890 000;517 890 000;517 890 000;517 890 000
+Pouvoirs publics;521;1;Sénat;0;Garantie du risque exportateur;311 627 700;311 627 700;311 627 700;311 627 700
+Pouvoirs publics;521;2;Jardin du Luxembourg;0;Garantie du risque exportateur;11 956 900;11 956 900;11 956 900;11 956 900
+Pouvoirs publics;521;3;Musée du Luxembourg;0;Garantie du risque exportateur;0;0;0;0
+Pouvoirs publics;531;1;Conseil constitutionnel;0;Garantie du risque exportateur;10 776 000;10 190 000;10 776 000;10 190 000
+Pouvoirs publics;532;1;Haute Cour;0;Garantie du risque exportateur;0;0;0;0
+Pouvoirs publics;533;1;Cour de justice de la République;0;Garantie du risque exportateur;866 600;861 500;866 600;861 500
+Pouvoirs publics;541;1;La chaîne parlementaire - Assemblée nationale;0;Garantie du risque exportateur;16 641 162;16 641 162;16 641 162;16 641 162
+Pouvoirs publics;541;2;Public Sénat;0;Garantie du risque exportateur;18 569 000;18 848 000;18 569 000;18 848 000
+Pouvoirs publics;542;1;Indemnités des représentants français au Parlement européen;0;Garantie du risque exportateur;0;0;0;0
+Crédits non répartis;551;1;Provision relative aux rémunérations publiques;0;Garantie du risque exportateur;0;0;0;0
+Crédits non répartis;552;1;Dépenses accidentelles et imprévisibles;0;Garantie du risque exportateur;335 000 000;465 278 296;35 000 000;165 278 296
+Recherche et enseignement supérieur;142;1;Enseignement supérieur;0;Garantie du risque exportateur;276 120 283;297 757 233;276 120 283;294 257 233
+Recherche et enseignement supérieur;142;2;Recherche, développement et transfert de technologie;0;Garantie du risque exportateur;35 886 648;36 312 128;35 886 648;36 312 128
+Recherche et enseignement supérieur;150;1;Formation initiale et continue du baccalauréat à la licence;0;Garantie du risque exportateur;2 842 803 786;2 882 344 011;2 842 803 786;2 882 344 011
+Recherche et enseignement supérieur;150;2;Formation initiale et continue de niveau master;0;Garantie du risque exportateur;2 375 790 047;2 381 144 391;2 375 790 047;2 381 144 391
+Recherche et enseignement supérieur;150;3;Formation initiale et continue de niveau doctorat;0;Garantie du risque exportateur;353 674 136;351 647 169;353 674 136;351 647 169
+Recherche et enseignement supérieur;150;4;Établissements d'enseignement privés;0;Garantie du risque exportateur;79 665 852;78 895 852;79 665 852;78 895 852
+Recherche et enseignement supérieur;150;5;Bibliothèques et documentation;0;Garantie du risque exportateur;433 532 960;431 549 636;433 532 960;431 549 636
+Recherche et enseignement supérieur;150;13;Diffusion des savoirs et musées;0;Garantie du risque exportateur;107 955 691;106 364 231;107 955 691;106 364 231
+Recherche et enseignement supérieur;150;14;Immobilier;0;Garantie du risque exportateur;1 079 144 924;1 159 007 003;1 323 466 591;1 244 881 167
+Recherche et enseignement supérieur;150;15;Pilotage et support du programme;0;Garantie du risque exportateur;1 496 155 135;1 512 741 627;1 496 155 135;1 512 741 627
+Recherche et enseignement supérieur;150;17;Recherche;0;Garantie du risque exportateur;0;3 798 175 392;0;3 798 175 392
+Recherche et enseignement supérieur;172;1;Pilotage et animation;0;Garantie du risque exportateur;142 743 443;142 261 481;142 743 443;142 261 481
+Recherche et enseignement supérieur;172;2;Agence nationale de la recherche;0;Garantie du risque exportateur;605 154 491;605 154 491;605 154 491;610 034 429
+Recherche et enseignement supérieur;172;11;Recherches interdisciplinaires et transversales;0;Garantie du risque exportateur;62 420 918;62 938 298;62 420 918;62 938 298
+Recherche et enseignement supérieur;172;12;Diffusion, valorisation et transfert des connaissances et des technologies;0;Garantie du risque exportateur;153 472 088;149 113 807;153 472 088;149 113 807
+Recherche et enseignement supérieur;172;13;Grandes infrastructures de recherche;0;Garantie du risque exportateur;291 897 000;290 433 000;291 897 000;290 433 000
+Recherche et enseignement supérieur;172;14;Moyens généraux et d'appui à la recherche;0;Garantie du risque exportateur;778 948 917;781 029 768;778 948 917;781 029 768
+Recherche et enseignement supérieur;172;15;Recherches scientifiques et technologiques en sciences de la vie et de la santé;0;Garantie du risque exportateur;1 217 934 845;1 217 124 182;1 217 934 845;1 217 124 182
+Recherche et enseignement supérieur;172;16;Recherches scientifiques et technologiques en sciences et techniques de l'information;0;Garantie du risque exportateur;985 814 036;985 468 687;985 814 036;985 468 687
+Recherche et enseignement supérieur;172;17;Recherches scientifiques et technologiques dans le domaine de l'énergie;0;Garantie du risque exportateur;579 014 665;579 914 926;579 014 665;579 914 926
+Recherche et enseignement supérieur;172;18;Recherches scientifiques et technologiques dans le domaine de l'environnement;0;Garantie du risque exportateur;1 094 882 020;1 100 882 560;1 094 882 020;1 100 882 560
+Recherche et enseignement supérieur;172;19;Recherches scientifiques et technologiques en sciences humaines et sciences sociales;0;Garantie du risque exportateur;418 968 730;405 758 402;418 968 730;405 758 402
+Recherche et enseignement supérieur;186;1;Recherche culturelle;0;Garantie du risque exportateur;8 786 376;8 786 376;8 786 376;8 786 376
+Recherche et enseignement supérieur;186;3;Culture scientifique et technique;0;Garantie du risque exportateur;103 853 322;108 518 322;105 753 322;108 353 322
+Recherche et enseignement supérieur;190;10;Recherche dans le domaine de l'énergie;0;Garantie du risque exportateur;654 685 063;653 693 885;654 685 063;653 693 885
+Recherche et enseignement supérieur;190;10;Recherche dans le domaine de l'énergie;1;Commissariat à l'énergie atomique et aux énergies alternatives (CEA);511 550 307;511 550 307;511 550 307;511 550 307
+Recherche et enseignement supérieur;190;10;Recherche dans le domaine de l'énergie;2;IFP Energies nouvelles (IFPEN);142 638 105;141 647 487;142 638 105;141 647 487
+Recherche et enseignement supérieur;190;10;Recherche dans le domaine de l'énergie;3;Gestion des matières et déchets radioactifs : CNE - reprise des sources;496 651;496 091;496 651;496 091
+Recherche et enseignement supérieur;190;11;Recherche dans le domaine des risques;0;Gestion des matières et déchets radioactifs : CNE - reprise des sources;192 608 396;185 094 460;192 608 396;185 094 460
+Recherche et enseignement supérieur;190;11;Recherche dans le domaine des risques;1;Institut national de l'environnement industriel et des risques (INERIS);6 832 690;6 688 483;6 832 690;6 688 483
+Recherche et enseignement supérieur;190;11;Recherche dans le domaine des risques;2;Institut de radioprotection et de sûreté nucléaire (IRSN);185 775 706;178 405 977;185 775 706;178 405 977
+Recherche et enseignement supérieur;190;12;Recherche dans le domaine des transports, de la construction et de l'aménagement;0;Institut de radioprotection et de sûreté nucléaire (IRSN);109 651 050;104 096 166;109 651 050;104 096 166
+Recherche et enseignement supérieur;190;12;Recherche dans le domaine des transports, de la construction et de l'aménagement;1;Institut français des sciences et technologies des transports, de l’aménagement et des réseaux (IFSTTAR);87 798 416;87 685 397;87 798 416;87 685 397
+Recherche et enseignement supérieur;190;12;Recherche dans le domaine des transports, de la construction et de l'aménagement;3;Centre scientifique et technique du bâtiment (CSTB);21 852 634;16 410 769;21 852 634;16 410 769
+Recherche et enseignement supérieur;190;13;Recherche partenariale dans le développement et l'aménagement durable;0;Centre scientifique et technique du bâtiment (CSTB);31 686 321;1 587 558;37 686 321;9 587 558
+Recherche et enseignement supérieur;190;13;Recherche partenariale dans le développement et l'aménagement durable;1;Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES);1 589 283;1 587 558;1 589 283;1 587 558
+Recherche et enseignement supérieur;190;13;Recherche partenariale dans le développement et l'aménagement durable;2;Agence de l'environnement et de la maîtrise de l'énergie (ADEME);26 123 831;0;26 123 831;0
+Recherche et enseignement supérieur;190;13;Recherche partenariale dans le développement et l'aménagement durable;4;Recherche en matière de transport (PREDIT);945 249;0;2 288 402;1 835 821
+Recherche et enseignement supérieur;190;13;Recherche partenariale dans le développement et l'aménagement durable;5;Construction (PREBAT, C2D2, RGCU);453 827;0;1 007 092;808 122
+Recherche et enseignement supérieur;190;13;Recherche partenariale dans le développement et l'aménagement durable;6;Urbanisme et territoire (PUCA, MUTS);796 421;0;1 877 129;1 506 000
+Recherche et enseignement supérieur;190;13;Recherche partenariale dans le développement et l'aménagement durable;7;Changement global (GMES, adaptation au changement climatique);378 188;0;1 262 107;1 011 726
+Recherche et enseignement supérieur;190;13;Recherche partenariale dans le développement et l'aménagement durable;8;Risque, santé, environnement;754 153;0;1 391 170;1 117 004
+Recherche et enseignement supérieur;190;13;Recherche partenariale dans le développement et l'aménagement durable;9;Biodiversité;378 189;0;1 435 047;1 150 078
+Recherche et enseignement supérieur;190;13;Recherche partenariale dans le développement et l'aménagement durable;10;Innovation et prospective dans le domaine du développement et de l'aménagement durable;267 180;0;712 260;571 249
+Recherche et enseignement supérieur;190;14;Recherche et développement dans le domaine de l'aéronautique civile;0;Innovation et prospective dans le domaine du développement et de l'aménagement durable;83 088 336;82 802 261;87 088 336;82 802 261
+Recherche et enseignement supérieur;190;14;Recherche et développement dans le domaine de l'aéronautique civile;1;Recherches en amont;59 872 000;59 665 448;63 872 000;59 665 448
+Recherche et enseignement supérieur;190;14;Recherche et développement dans le domaine de l'aéronautique civile;2;Subventions à des organismes de recherche;128 000;128 000;128 000;128 000
+Recherche et enseignement supérieur;190;14;Recherche et développement dans le domaine de l'aéronautique civile;3;Equipementier;23 088 336;23 008 813;23 088 336;23 008 813
+Recherche et enseignement supérieur;190;14;Recherche et développement dans le domaine de l'aéronautique civile;4;Avions;0;0;0;0
+Recherche et enseignement supérieur;190;14;Recherche et développement dans le domaine de l'aéronautique civile;5;Moteurs;0;0;0;0
+Recherche et enseignement supérieur;190;14;Recherche et développement dans le domaine de l'aéronautique civile;6;Hélicoptères;0;0;0;0
+Recherche et enseignement supérieur;190;15;Charges nucléaires de long terme des installations du CEA;0;Hélicoptères;309 000 000;369 000 000;309 000 000;369 000 000
+Recherche et enseignement supérieur;191;1;Recherche duale en sciences du vivant;0;Hélicoptères;11 808 299;11 808 299;11 808 299;11 808 299
+Recherche et enseignement supérieur;191;2;Recherche duale en sciences et techniques de l'information et de la communication;0;Hélicoptères;3 511 888;3 511 888;3 511 888;3 511 888
+Recherche et enseignement supérieur;191;3;Recherche duale dans le domaine aérospatial;0;Hélicoptères;158 756 714;158 756 714;158 756 714;158 756 714
+Recherche et enseignement supérieur;191;4;Autres recherches et développements technologiques duaux;0;Hélicoptères;17 997 844;17 997 844;17 997 844;17 997 844
+Recherche et enseignement supérieur;192;1;Organismes de formation supérieure et de recherche;0;Hélicoptères;305 615 322;308 670 591;305 615 322;308 670 591
+Recherche et enseignement supérieur;192;2;Soutien et diffusion de l'innovation technologique;0;Hélicoptères;380 943 254;370 102 786;380 943 254;370 102 786
+Recherche et enseignement supérieur;192;3;Soutien de la recherche industrielle stratégique;0;Hélicoptères;276 478 132;166 000 000;297 611 385;213 833 523
+Recherche et enseignement supérieur;193;1;Développement de la technologie spatiale au service de la science;0;Hélicoptères;181 325 757;182 159 860;181 325 757;182 159 860
+Recherche et enseignement supérieur;193;2;Développement de la technologie spatiale au service de l'observation de la terre;0;Hélicoptères;277 760 003;277 868 965;277 760 003;277 868 965
+Recherche et enseignement supérieur;193;3;Développement de la technologie spatiale au service de la recherche en sciences de l'information et de la communication;0;Hélicoptères;117 068 247;117 547 757;117 068 247;117 547 757
+Recherche et enseignement supérieur;193;4;Maîtrise de l'accès à l'espace;0;Hélicoptères;507 849 719;509 498 525;507 849 719;509 498 525
+Recherche et enseignement supérieur;193;5;Maîtrise des technologies orbitales et de l'innovation technologique;0;Hélicoptères;220 708 125;221 208 573;220 708 125;221 208 573
+Recherche et enseignement supérieur;193;6;Moyens généraux et d'appui à la recherche;0;Hélicoptères;81 827 856;83 648 965;81 827 856;83 648 965
+Recherche et enseignement supérieur;193;7;Développement des satellites de météorologie;0;Hélicoptères;42 568 853;42 568 853;42 568 853;42 568 853
+Recherche et enseignement supérieur;231;1;Aides directes;0;Hélicoptères;2 043 245 957;2 075 921 235;2 043 245 957;2 075 921 235
+Recherche et enseignement supérieur;231;2;Aides indirectes;0;Hélicoptères;250 048 641;275 980 387;259 634 641;268 405 387
+Recherche et enseignement supérieur;231;3;Santé des étudiants et activités associatives, culturelles et sportives;0;Hélicoptères;62 343 981;62 280 127;62 343 981;62 280 127
+Recherche et enseignement supérieur;231;4;Pilotage et animation du programme;0;Hélicoptères;90 530 142;91 344 224;90 530 142;91 344 224
+Régimes sociaux et de retraite;195;1;Versements au fonds spécial de retraite de la caisse autonome nationale de sécurité sociale dans les mines;0;Hélicoptères;1 384 849 057;1 356 725 807;1 384 849 057;1 356 725 807
+Régimes sociaux et de retraite;195;2;Régime de retraite de la SEITA;0;Hélicoptères;168 017 175;165 334 790;168 017 175;165 334 790
+Régimes sociaux et de retraite;195;3;Caisse des retraites de l'Imprimerie nationale;0;Hélicoptères;26 000;0;26 000;0
+Régimes sociaux et de retraite;195;4;Caisse des retraites des régies ferroviaires d'outre-mer;0;Hélicoptères;3 400 000;2 700 000;3 400 000;2 700 000
+Régimes sociaux et de retraite;195;7;Versements liés à la liquidation de l'ORTF;0;Hélicoptères;460 000;320 000;460 000;320 000
+Régimes sociaux et de retraite;195;9;"Contributions exceptionnelles au compte d'affectation spéciale ""Pensions""";0;Hélicoptères;0;0;0;0
+Régimes sociaux et de retraite;195;10;Caisse de retraite des fonctionnaires de Mayotte (CRFM);0;Hélicoptères;0;0;0;0
+Régimes sociaux et de retraite;197;1;Régimes de retraite et de sécurité sociale des marins;0;Hélicoptères;825 497 543;852 952 581;825 497 543;852 952 581
+Régimes sociaux et de retraite;198;3;Régime de retraite du personnel de la SNCF;0;Hélicoptères;3 341 550 568;3 196 130 000;3 341 550 568;3 196 130 000
+Régimes sociaux et de retraite;198;4;Régime de retraite du personnel de la RATP;0;Hélicoptères;634 140 000;643 240 000;634 140 000;643 240 000
+Régimes sociaux et de retraite;198;5;Autres régimes;0;Hélicoptères;155 349 031;196 551 512;155 349 031;196 551 512
+Relations avec les collectivités territoriales;119;1;Soutien aux projets des communes et groupements de communes;0;Hélicoptères;735 469 247;734 469 247;674 779 990;663 779 990
+Relations avec les collectivités territoriales;119;2;Dotation générale de décentralisation des communes;0;Hélicoptères;130 308 258;130 308 258;130 308 258;130 308 258
+Relations avec les collectivités territoriales;119;3;Soutien aux projets des départements;0;Hélicoptères;219 355 969;219 355 969;219 355 969;219 355 969
+Relations avec les collectivités territoriales;119;4;Dotation générale de décentralisation des départements;0;Hélicoptères;265 179 330;265 318 252;265 179 330;265 318 252
+Relations avec les collectivités territoriales;119;5;Dotation générale de décentralisation des régions;0;Hélicoptères;921 814 722;984 445 988;921 814 722;984 445 988
+Relations avec les collectivités territoriales;119;6;Dotation générale de décentralisation concours particuliers;0;Hélicoptères;221 904 567;222 662 699;221 904 567;222 662 699
+Relations avec les collectivités territoriales;122;1;Aides exceptionnelles aux collectivités territoriales;0;Hélicoptères;113 862 990;17 295 000;125 868 815;41 295 000
+Relations avec les collectivités territoriales;122;2;Administration des relations avec les collectivités territoriales;0;Hélicoptères;2 362 500;2 625 375;2 362 500;2 756 375
+Relations avec les collectivités territoriales;122;4;Dotations Outre-Mer;0;Hélicoptères;149 618 184;150 263 527;149 618 184;150 263 527
+Remboursements et dégrèvements;200;11;Remboursements et restitutions liés à la mécanique de l'impôt;0;Hélicoptères;63 957 000 000;63 378 000 000;63 957 000 000;63 378 000 000
+Remboursements et dégrèvements;200;11;Remboursements et restitutions liés à la mécanique de l'impôt;1;Impôts sur les sociétés;14 034 000 000;14 634 000 000;14 034 000 000;14 634 000 000
+Remboursements et dégrèvements;200;11;Remboursements et restitutions liés à la mécanique de l'impôt;2;Taxe sur la valeur ajoutée;49 784 000 000;48 509 000 000;49 784 000 000;48 509 000 000
+Remboursements et dégrèvements;200;11;Remboursements et restitutions liés à la mécanique de l'impôt;3;Plafonnement des impositions directes;0;0;0;0
+Remboursements et dégrèvements;200;11;Remboursements et restitutions liés à la mécanique de l'impôt;4;Autres remboursements et dégrèvements liés à la mécanique de l’impôt;139 000 000;235 000 000;139 000 000;235 000 000
+Remboursements et dégrèvements;200;12;Remboursements et dégrèvements liées à des politiques publiques;0;Autres remboursements et dégrèvements liés à la mécanique de l’impôt;13 819 300 000;12 547 000 000;13 819 300 000;12 547 000 000
+Remboursements et dégrèvements;200;12;Remboursements et dégrèvements liées à des politiques publiques;1;Prime pour l'emploi;1 720 000 000;1 838 000 000;1 720 000 000;1 838 000 000
+Remboursements et dégrèvements;200;12;Remboursements et dégrèvements liées à des politiques publiques;2;Impôt sur le revenu;1 931 000 000;2 158 000 000;1 931 000 000;2 158 000 000
+Remboursements et dégrèvements;200;12;Remboursements et dégrèvements liées à des politiques publiques;3;Impôt sur les sociétés;8 922 000 000;7 100 000 000;8 922 000 000;7 100 000 000
+Remboursements et dégrèvements;200;12;Remboursements et dégrèvements liées à des politiques publiques;4;Taxe intérieure sur les produits pétroliers;715 000 000;931 000 000;715 000 000;931 000 000
+Remboursements et dégrèvements;200;12;Remboursements et dégrèvements liées à des politiques publiques;5;Taxe intérieure de consommation sur le gaz naturel;4 000 000;3 000 000;4 000 000;3 000 000
+Remboursements et dégrèvements;200;12;Remboursements et dégrèvements liées à des politiques publiques;6;Contribution pour l'audiovisuel public;527 300 000;517 000 000;527 300 000;517 000 000
+Remboursements et dégrèvements;200;12;Remboursements et dégrèvements liées à des politiques publiques;7;Prélèvement sur le produit des jeux;0;0;0;0
+Remboursements et dégrèvements;200;13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;0;Prélèvement sur le produit des jeux;12 826 684 000;11 737 025 000;12 826 684 000;11 737 025 000
+Remboursements et dégrèvements;200;13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;1;Impôts sur le revenu - Dégrèvements et restitution de sommes indûment perçues;2 320 014 000;2 360 000 000;2 320 014 000;2 360 000 000
+Remboursements et dégrèvements;200;13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;2;Impôts sur les sociétés - Dégrèvements et restitution de sommes indûment perçues;1 145 000 000;950 000 000;1 145 000 000;950 000 000
+Remboursements et dégrèvements;200;13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;3;Autres impôts directs et taxes assimilées - Dégrèvements et restitution de sommes indûment perçues;2 966 667 000;2 354 025 000;2 966 667 000;2 354 025 000
+Remboursements et dégrèvements;200;13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;4;Taxe sur la valeur ajoutée - Dégrèvements et restitution de sommes indûment perçues;2 300 000 000;2 150 000 000;2 300 000 000;2 150 000 000
+Remboursements et dégrèvements;200;13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;5;Enregistrement, timbre, autres contributions et taxes indirectes - Dégrèvements et restitution de sommes indûment perçues;674 860 000;456 000 000;674 860 000;456 000 000
+Remboursements et dégrèvements;200;13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;6;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat;577 810 000;620 000 000;577 810 000;620 000 000
+Remboursements et dégrèvements;200;13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;7;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Admissions en non valeur - Créances liées aux impôts;1 970 000 000;2 107 000 000;1 970 000 000;2 107 000 000
+Remboursements et dégrèvements;200;13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;8;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;872 333 000;740 000 000;872 333 000;740 000 000
+Remboursements et dégrèvements;201;1;Taxe professionnelle et contribution économique territoriale  et autres impôts économiques créés ou modifiés dans le cadre de la réforme de la taxe professionnelle;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;6 358 000 000;6 361 000 000;6 358 000 000;6 361 000 000
+Remboursements et dégrèvements;201;2;Taxes foncières;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;928 258 000;930 000 000;928 258 000;930 000 000
+Remboursements et dégrèvements;201;3;Taxe d'habitation;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;3 761 816 000;3 909 000 000;3 761 816 000;3 909 000 000
+Remboursements et dégrèvements;201;4;Admission en non valeur d'impôts locaux;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;405 000 000;445 000 000;405 000 000;445 000 000
+Santé;183;2;Aide médicale de l'Etat;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;604 900 000;677 554 415;604 900 000;677 554 415
+Santé;183;3;Fonds d'indemnisation des victimes de l'amiante;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;0;10 000 000;0;10 000 000
+Santé;204;11;Pilotage de la politique de santé publique;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;85 239 974;93 156 130;85 239 974;93 156 130
+Santé;204;12;Accès à la santé et éducation à la santé;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;26 330 389;25 200 000;26 330 389;25 200 000
+Santé;204;13;Prévention des risques infectieux et des risques liés aux soins;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;8 799 222;7 923 984;8 799 222;7 923 984
+Santé;204;14;Prévention des maladies chroniques et qualité de vie des malades;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;65 854 077;62 147 000;65 854 077;62 147 000
+Santé;204;15;Prévention des risques liés à l'environnement, au travail et à l'alimentation;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;21 033 525;18 103 766;21 033 525;18 103 766
+Santé;204;16;Réponse aux alertes et gestion des urgences, des situations exceptionnelles et des crises sanitaires;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;18 168 373;11 558 045;18 168 373;11 558 045
+Santé;204;17;Qualité, sécurité et gestion des produits de santé et du corps humain;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;144 853 690;138 605 075;144 853 690;138 605 075
+Santé;204;18;Projets régionaux de santé;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;130 871 236;125 235 758;130 871 236;125 235 758
+Santé;204;19;Modernisation de l'offre de soins;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;189 421 076;35 050 000;189 421 076;35 050 000
+Sécurités;152;1;Ordre et sécurité publics;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;3 349 792 690;3 191 535 501;3 349 792 690;3 191 535 501
+Sécurités;152;2;Sécurité routière;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;810 924 377;767 433 128;810 924 377;767 433 128
+Sécurités;152;3;Missions de police judiciaire et concours à la justice;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;1 797 195 338;1 779 199 594;1 797 195 338;1 779 199 594
+Sécurités;152;4;Commandement, ressources humaines et logistique;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;1 818 220 037;2 182 892 133;1 893 265 628;2 166 744 733
+Sécurités;152;5;Exercice des missions militaires;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;174 727 322;156 640 411;174 727 322;156 640 411
+Sécurités;161;11;Prévention et gestion de crises;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;23 530 860;28 537 136;30 643 116;33 687 891
+Sécurités;161;12;Préparation et interventions spécialisées des moyens nationaux;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;427 495 711;238 213 649;259 831 508;258 234 745
+Sécurités;161;13;Soutien aux acteurs de la sécurité civile;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;131 320 208;131 004 068;140 229 471;144 354 213
+Sécurités;161;14;Fonctionnement, soutien et logistique;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;6 189 965;3 273 817;6 189 965;3 273 817
+Sécurités;176;1;Ordre public et protection de la souveraineté;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;1 139 287 101;1 145 223 427;1 139 287 101;1 145 223 427
+Sécurités;176;2;Sécurité et paix publiques;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;3 078 707 468;3 091 869 032;3 078 707 468;3 091 869 032
+Sécurités;176;3;Sécurité routière;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;531 602 597;501 076 183;531 602 597;501 076 183
+Sécurités;176;4;Police des étrangers et sûreté des transports internationaux;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;657 374 361;649 691 980;657 374 361;649 691 980
+Sécurités;176;5;Missions de police judiciaire et concours à la justice;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;2 436 865 823;2 463 062 869;2 436 865 823;2 463 062 869
+Sécurités;176;6;Commandement, ressources humaines et logistique;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;1 748 333 256;1 811 948 558;1 802 604 898;1 845 968 844
+Sécurités;207;1;Observation, prospective, réglementation et soutien au programme;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;4 113 713;3 304 000;4 113 713;3 304 000
+Sécurités;207;2;Démarches interministérielles et communication;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;19 900 000;19 968 000;19 900 000;19 968 000
+Sécurités;207;3;Éducation routière;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;23 692 500;21 572 000;23 692 500;21 572 000
+Solidarité, insertion et égalité des chances;124;10;Fonctionnement des services;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;19 724 403;20 297 122;19 724 403;20 297 122
+Solidarité, insertion et égalité des chances;124;11;Systèmes d'information;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;24 894 524;27 300 000;24 894 524;27 300 000
+Solidarité, insertion et égalité des chances;124;12;Affaires immobilières;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;52 320 270;77 983 815;74 900 270;73 882 128
+Solidarité, insertion et égalité des chances;124;13;Certification des formations;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;7 480 000;0;7 480 000;0
+Solidarité, insertion et égalité des chances;124;14;Communication;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;6 100 611;5 741 644;6 100 611;5 741 644
+Solidarité, insertion et égalité des chances;124;15;Affaires européennes et internationales;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;6 923 068;6 787 293;6 923 068;6 787 293
+Solidarité, insertion et égalité des chances;124;16;Statistiques, études et recherche;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;10 571 935;10 113 046;10 571 935;10 113 046
+Solidarité, insertion et égalité des chances;124;17;Financement des agences régionales de santé;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;589 597 810;599 997 966;589 597 810;599 997 966
+Solidarité, insertion et égalité des chances;124;18;Personnels mettant en oeuvre les politiques sociales et de la santé;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;258 732 273;245 764 091;258 732 273;245 764 091
+Solidarité, insertion et égalité des chances;124;19;Personnels mettant en oeuvre les politiques du sport, de la jeunesse, de l'éducation populaire et de la vie associative;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;295 650 532;298 305 083;295 650 532;298 305 083
+Solidarité, insertion et égalité des chances;124;20;Personnels mettant en oeuvre les politiques pour les droits des femmes;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;11 226 720;14 015 907;11 226 720;14 015 907
+Solidarité, insertion et égalité des chances;124;21;Personnels mettant en œuvre les politiques de la ville, du logement et de l'hébergement;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;42 801 049;43 615 253;42 801 049;43 615 253
+Solidarité, insertion et égalité des chances;124;22;Personnels transversaux et de soutien;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;134 174 894;125 680 704;134 174 894;125 680 704
+Solidarité, insertion et égalité des chances;124;23;Autres dépenses de personnel;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;23 077 294;22 096 183;23 077 294;22 096 183
+Solidarité, insertion et égalité des chances;137;11;Egalité entre les femmes et les hommes dans la vie professionnelle, économique, politique et sociale;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;2 199 341;1 942 841;2 199 341;1 942 841
+Solidarité, insertion et égalité des chances;137;12;Promotion des droits, prévention et lutte contre les violences sexistes;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;14 589 022;15 001 168;14 589 022;15 001 168
+Solidarité, insertion et égalité des chances;137;13;Soutien du programme égalité entre les hommes et les femmes;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;1 453 493;1 449 993;1 453 493;1 449 993
+Solidarité, insertion et égalité des chances;137;14;Actions de soutien, d'expérimentation en faveur de l’égalité entre les femmes et les hommes ;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;4 375 213;4 375 213;4 375 213;4 375 213
+Solidarité, insertion et égalité des chances;137;15;Prévention et lutte contre la prostitution et la traite des êtres humains;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;2 411 409;2 398 409;2 411 409;2 398 409
+Solidarité, insertion et égalité des chances;157;1;Évaluation et orientation personnalisée des personnes handicapées;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;64 863 040;56 295 003;64 863 040;56 295 003
+Solidarité, insertion et égalité des chances;157;2;Incitation à l'activité professionnelle;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;2 706 589 591;2 747 941 666;2 706 589 591;2 747 941 666
+Solidarité, insertion et égalité des chances;157;3;Ressources d'existence;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;8 647 766 077;8 774 037 647;8 647 766 077;8 774 037 647
+Solidarité, insertion et égalité des chances;157;4;Compensation des conséquences du handicap;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;16 573 762;16 103 429;16 573 762;16 103 429
+Solidarité, insertion et égalité des chances;157;5;Personnes âgées;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;3 063 400;2 360 000;3 063 400;2 360 000
+Solidarité, insertion et égalité des chances;157;6;Pilotage du programme;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;4 063 116;3 762 116;4 063 116;3 762 116
+Solidarité, insertion et égalité des chances;304;11;Revenu de solidarité active;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;595 006 000;2 330 900 000;595 006 000;2 330 900 000
+Solidarité, insertion et égalité des chances;304;12;Economie sociale et solidaire;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;4 970 175;4 721 666;4 970 175;4 721 666
+Solidarité, insertion et égalité des chances;304;13;Autres expérimentations;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;927 487;893 855;927 487;893 855
+Solidarité, insertion et égalité des chances;304;14;Aide alimentaire;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;32 639 792;32 639 792;32 639 792;32 639 792
+Solidarité, insertion et égalité des chances;304;15;Qualification en travail social;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;2 076 571;5 550 000;2 076 571;5 550 000
+Solidarité, insertion et égalité des chances;304;16;Protection juridique des majeurs;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;238 718 130;241 263 910;238 718 130;241 263 910
+Solidarité, insertion et égalité des chances;304;17;Protection et accompagnement des enfants, des jeunes et des familles vulnérables;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;10 526 358;15 276 028;10 526 358;15 276 028
+Sport, jeunesse et vie associative;163;1;Développement de la vie associative;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;15 369 645;12 165 066;15 369 645;12 165 066
+Sport, jeunesse et vie associative;163;2;Actions en faveur de la jeunesse et de l'éducation populaire;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;71 877 045;68 732 366;71 877 045;68 732 366
+Sport, jeunesse et vie associative;163;4;Actions particulières en direction de la jeunesse;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;122 111 500;125 000 000;122 111 500;125 000 000
+Sport, jeunesse et vie associative;219;1;Promotion du sport pour le plus grand nombre;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;14 412 656;7 807 739;14 412 656;7 807 739
+Sport, jeunesse et vie associative;219;2;Développement du sport de haut niveau;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;169 645 923;162 330 956;176 047 488;174 161 579
+Sport, jeunesse et vie associative;219;3;Prévention par le sport et protection des sportifs;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;18 776 613;18 753 177;18 776 613;18 753 177
+Sport, jeunesse et vie associative;219;4;Promotion des métiers du sport;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;27 487 965;27 550 933;27 487 965;27 550 933
+Travail et emploi;102;1;Amélioration de l’efficacité du service public de l’emploi;0;Autres remboursements et dégrèvements liés à la gestion des produits de l'Etat - Dations en paiement, intérêts moratoires, remises de débets;2 958 604 900;3 422 371 030;2 972 604 900;3 422 371 030
+Travail et emploi;102;1;Amélioration de l’efficacité du service public de l’emploi;1;Indemnisation des demandeurs d'emploi;1 387 701 000;1 877 371 030;1 387 701 000;1 877 371 030
+Travail et emploi;102;1;Amélioration de l’efficacité du service public de l’emploi;2;Coordination du service public de l'emploi;1 570 903 900;1 545 000 000;1 584 903 900;1 545 000 000
+Travail et emploi;102;2;Amélioration des dispositifs en faveur de l’emploi des personnes les plus éloignées du marché du travail;0;Coordination du service public de l'emploi;4 608 086 677;4 070 541 946;4 267 847 500;4 074 639 088
+Travail et emploi;102;2;Amélioration des dispositifs en faveur de l’emploi des personnes les plus éloignées du marché du travail;1;Insertion dans l'emploi au moyen de contrats aidés;3 659 434 803;3 000 319 881;3 315 595 626;3 012 079 683
+Travail et emploi;102;2;Amélioration des dispositifs en faveur de l’emploi des personnes les plus éloignées du marché du travail;2;Accompagnement des publics les plus en difficultés;948 651 874;1 070 222 065;952 251 874;1 062 559 405
+Travail et emploi;103;1;Anticipation et accompagnement des conséquences des mutations économiques sur l'emploi;0;Accompagnement des publics les plus en difficultés;1 603 459 071;878 312 660;834 286 041;646 612 660
+Travail et emploi;103;1;Anticipation et accompagnement des conséquences des mutations économiques sur l'emploi;1;Anticipation des mutations et gestion active des ressources humaines;1 241 342 100;542 334 600;472 169 070;310 634 600
+Travail et emploi;103;1;Anticipation et accompagnement des conséquences des mutations économiques sur l'emploi;2;Implication des branches et des entreprises dans la prévention du licenciement et le reclassement des salariés;362 116 971;335 978 060;362 116 971;335 978 060
+Travail et emploi;103;2;Amélioration de l'insertion dans l'emploi par l'adaptation des qualifications et la reconnaissance des compétences;0;Implication des branches et des entreprises dans la prévention du licenciement et le reclassement des salariés;1 787 649 719;1 466 824 892;1 787 649 719;1 466 824 893
+Travail et emploi;103;2;Amélioration de l'insertion dans l'emploi par l'adaptation des qualifications et la reconnaissance des compétences;3;Reconnaissance des compétences acquises par les personnes;6 776 000;2 907 909;6 776 000;2 907 909
+Travail et emploi;103;2;Amélioration de l'insertion dans l'emploi par l'adaptation des qualifications et la reconnaissance des compétences;4;Amélioration de l'accès à la qualification par le développement de l'alternance et de la certification;1 780 873 719;1 463 916 983;1 780 873 719;1 463 916 984
+Travail et emploi;103;3;Développement de l'emploi;0;Amélioration de l'accès à la qualification par le développement de l'alternance et de la certification;265 095 371;795 642 413;257 205 461;792 146 999
+Travail et emploi;103;3;Développement de l'emploi;1;Baisse du coût du travail pour faciliter le développement de territoires et de secteurs à forts potentiels d'emploi;122 673 461;632 587 692;122 673 461;632 587 692
+Travail et emploi;103;3;Développement de l'emploi;2;Promotion de l'activité;142 421 910;163 054 721;134 532 000;159 559 307
+Travail et emploi;111;1;Santé et sécurité au travail;0;Promotion de l'activité;27 136 500;26 119 400;25 906 500;26 519 400
+Travail et emploi;111;2;Qualité et effectivité du droit;0;Promotion de l'activité;17 968 500;9 926 667;14 477 000;9 703 333
+Travail et emploi;111;3;Dialogue social et démocratie sociale;0;Promotion de l'activité;77 065 102;97 493 251;29 240 321;45 394 858
+Travail et emploi;111;4;Lutte contre le travail illégal;0;Promotion de l'activité;0;0;0;0
+Travail et emploi;111;5;Fonds national de soutien relatif à la pénibilité;0;Promotion de l'activité;0;0;0;0
+Travail et emploi;155;7;Fonds social européen - Assistance technique;0;Promotion de l'activité;0;0;0;0
+Travail et emploi;155;8;Fonctionnement des services;0;Promotion de l'activité;0;38 156 292;0;35 495 819
+Travail et emploi;155;9;Systèmes d'information;0;Promotion de l'activité;0;29 940 000;0;28 360 000
+Travail et emploi;155;10;Affaires immobilières;0;Promotion de l'activité;0;19 082 011;0;29 097 851
+Travail et emploi;155;11;Communication;0;Promotion de l'activité;0;4 527 091;0;4 527 091
+Travail et emploi;155;12;Etudes, statistiques évaluation et recherche;0;Promotion de l'activité;0;12 330 000;0;12 240 000
+Travail et emploi;155;13;Politique des ressources humaines;0;Promotion de l'activité;0;33 130 041;0;33 386 541
+Travail et emploi;155;14;Personnels mettant en oeuvre les politiques d'accès et retour à l'emploi;0;Promotion de l'activité;0;97 308 296;0;97 308 296
+Travail et emploi;155;15;Personnels mettant en oeuvre les politiques d'accompagnement des mutations économiques et développement de l'emploi;0;Promotion de l'activité;0;93 295 278;0;93 295 278
+Travail et emploi;155;16;Personnels mettant en oeuvre les politiques d'amélioration de la qualité de l'emploi et des relations du travail;0;Promotion de l'activité;0;288 201 820;0;288 201 820
+Travail et emploi;155;17;Personnels de statistiques, études et recherche;0;Promotion de l'activité;0;21 778 813;0;21 778 813
+Travail et emploi;155;18;Personnels transversaux et de soutien;0;Promotion de l'activité;0;127 906 553;0;127 906 553

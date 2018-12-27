@@ -1,0 +1,721 @@
+Phase;Type de mission;Code Mission;Mission;Code Programme;Programme;Code Action;Action;Code Ministère;Ministère
+PLF 2019;Budget général;TR;Action et transformation publiques;348;Rénovation des cités administratives et autres sites domaniaux multi-occupants;11;Etudes;07;Action et comptes publics
+PLF 2019;Budget général;TR;Action et transformation publiques;348;Rénovation des cités administratives et autres sites domaniaux multi-occupants;12;Travaux et gros entretien à la charge du propriétaire;07;Action et comptes publics
+PLF 2019;Budget général;TR;Action et transformation publiques;348;Rénovation des cités administratives et autres sites domaniaux multi-occupants;13;Acquisitions, construction;07;Action et comptes publics
+PLF 2019;Budget général;TR;Action et transformation publiques;349;Fonds pour la transformation de l'action publique;01;Fonds pour la transformation de l’action publique;07;Action et comptes publics
+PLF 2019;Budget général;TR;Action et transformation publiques;351;Fonds d'accompagnement interministériel Ressources humaines;01;Accompagnement interministériel Ressources humaines;07;Action et comptes publics
+PLF 2019;Budget général;AA;Action extérieure de l'État;105;Action de la France en Europe et dans le monde;01;Coordination de l'action diplomatique;01;Europe et affaires étrangères
+PLF 2019;Budget général;AA;Action extérieure de l'État;105;Action de la France en Europe et dans le monde;02;Action européenne;01;Europe et affaires étrangères
+PLF 2019;Budget général;AA;Action extérieure de l'État;105;Action de la France en Europe et dans le monde;04;Contributions internationales;01;Europe et affaires étrangères
+PLF 2019;Budget général;AA;Action extérieure de l'État;105;Action de la France en Europe et dans le monde;05;Coopération de sécurité et de défense;01;Europe et affaires étrangères
+PLF 2019;Budget général;AA;Action extérieure de l'État;105;Action de la France en Europe et dans le monde;06;Soutien;01;Europe et affaires étrangères
+PLF 2019;Budget général;AA;Action extérieure de l'État;105;Action de la France en Europe et dans le monde;07;Réseau diplomatique;01;Europe et affaires étrangères
+PLF 2019;Budget général;AA;Action extérieure de l'État;185;Diplomatie culturelle et d'influence;01;Appui au réseau;01;Europe et affaires étrangères
+PLF 2019;Budget général;AA;Action extérieure de l'État;185;Diplomatie culturelle et d'influence;02;Coopération culturelle et promotion du français;01;Europe et affaires étrangères
+PLF 2019;Budget général;AA;Action extérieure de l'État;185;Diplomatie culturelle et d'influence;03;Objectifs de développement durable;01;Europe et affaires étrangères
+PLF 2019;Budget général;AA;Action extérieure de l'État;185;Diplomatie culturelle et d'influence;04;Enseignement supérieur et recherche;01;Europe et affaires étrangères
+PLF 2019;Budget général;AA;Action extérieure de l'État;185;Diplomatie culturelle et d'influence;05;Agence pour l'enseignement français à l'étranger;01;Europe et affaires étrangères
+PLF 2019;Budget général;AA;Action extérieure de l'État;185;Diplomatie culturelle et d'influence;06;"Dépenses de personnel concourant au programme ""Diplomatie culturelle et d'influence""";01;Europe et affaires étrangères
+PLF 2019;Budget général;AA;Action extérieure de l'État;185;Diplomatie culturelle et d'influence;07;Diplomatie économique et développement du tourisme;01;Europe et affaires étrangères
+PLF 2019;Budget général;AA;Action extérieure de l'État;151;Français à l'étranger et affaires consulaires;01;Offre d'un service public de qualité aux Français à l'étranger;01;Europe et affaires étrangères
+PLF 2019;Budget général;AA;Action extérieure de l'État;151;Français à l'étranger et affaires consulaires;02;Accès des élèves français au réseau AEFE;01;Europe et affaires étrangères
+PLF 2019;Budget général;AA;Action extérieure de l'État;151;Français à l'étranger et affaires consulaires;03;Instruction des demandes de visa;01;Europe et affaires étrangères
+PLF 2019;Budget général;AA;Action extérieure de l'État;347;Présidence française du G7;01;Préparation et organisation du Sommet du G7;01;Europe et affaires étrangères
+PLF 2019;Budget général;AA;Action extérieure de l'État;347;Présidence française du G7;03;Fonctionnement du Secrétariat général et communication;01;Europe et affaires étrangères
+PLF 2019;Budget général;AB;Administration générale et territoriale de l'État;307;Administration territoriale;01;Coordination de la sécurité des personnes et des biens;09;Intérieur
+PLF 2019;Budget général;AB;Administration générale et territoriale de l'État;307;Administration territoriale;02;Réglementation générale, garantie de l'identité et de la nationalité et délivrance des titres;09;Intérieur
+PLF 2019;Budget général;AB;Administration générale et territoriale de l'État;307;Administration territoriale;03;Contrôle de légalité et conseil aux collectivités territoriales;09;Intérieur
+PLF 2019;Budget général;AB;Administration générale et territoriale de l'État;307;Administration territoriale;04;Pilotage territorial des politiques gouvernementales;09;Intérieur
+PLF 2019;Budget général;AB;Administration générale et territoriale de l'État;307;Administration territoriale;05;Animation et soutien du réseau;09;Intérieur
+PLF 2019;Budget général;AB;Administration générale et territoriale de l'État;232;Vie politique, cultuelle et associative;01;Financement des partis;09;Intérieur
+PLF 2019;Budget général;AB;Administration générale et territoriale de l'État;232;Vie politique, cultuelle et associative;02;Organisation des élections;09;Intérieur
+PLF 2019;Budget général;AB;Administration générale et territoriale de l'État;232;Vie politique, cultuelle et associative;03;Commission nationale des comptes de campagne et des financements politiques;09;Intérieur
+PLF 2019;Budget général;AB;Administration générale et territoriale de l'État;232;Vie politique, cultuelle et associative;04;Cultes;09;Intérieur
+PLF 2019;Budget général;AB;Administration générale et territoriale de l'État;232;Vie politique, cultuelle et associative;05;Vie associative;09;Intérieur
+PLF 2019;Budget général;AB;Administration générale et territoriale de l'État;216;Conduite et pilotage des politiques de l'intérieur;01;État-major et services centraux;09;Intérieur
+PLF 2019;Budget général;AB;Administration générale et territoriale de l'État;216;Conduite et pilotage des politiques de l'intérieur;03;Système d'information et de communication;09;Intérieur
+PLF 2019;Budget général;AB;Administration générale et territoriale de l'État;216;Conduite et pilotage des politiques de l'intérieur;04;Action sociale et formation;09;Intérieur
+PLF 2019;Budget général;AB;Administration générale et territoriale de l'État;216;Conduite et pilotage des politiques de l'intérieur;05;Affaires immobilières;09;Intérieur
+PLF 2019;Budget général;AB;Administration générale et territoriale de l'État;216;Conduite et pilotage des politiques de l'intérieur;06;Affaires juridiques et contentieuses;09;Intérieur
+PLF 2019;Budget général;AB;Administration générale et territoriale de l'État;216;Conduite et pilotage des politiques de l'intérieur;08;Immigration, asile et intégration;09;Intérieur
+PLF 2019;Budget général;AB;Administration générale et territoriale de l'État;216;Conduite et pilotage des politiques de l'intérieur;09;Sécurité et éducation routières;09;Intérieur
+PLF 2019;Budget général;AB;Administration générale et territoriale de l'État;216;Conduite et pilotage des politiques de l'intérieur;10;Fonds interministériel de prévention de la délinquance;09;Intérieur
+PLF 2019;Budget général;AC;Agriculture, alimentation, forêt et affaires rurales;149;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;21;Adaptation des filières à l'évolution des marchés;03;Agriculture et alimentation
+PLF 2019;Budget général;AC;Agriculture, alimentation, forêt et affaires rurales;149;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;22;Gestion des crises et des aléas de la production agricole;03;Agriculture et alimentation
+PLF 2019;Budget général;AC;Agriculture, alimentation, forêt et affaires rurales;149;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;23;Appui au renouvellement et à la modernisation des exploitations agricoles;03;Agriculture et alimentation
+PLF 2019;Budget général;AC;Agriculture, alimentation, forêt et affaires rurales;149;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;24;Gestion équilibrée et durable des territoires;03;Agriculture et alimentation
+PLF 2019;Budget général;AC;Agriculture, alimentation, forêt et affaires rurales;149;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;25;Protection sociale;03;Agriculture et alimentation
+PLF 2019;Budget général;AC;Agriculture, alimentation, forêt et affaires rurales;149;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;26;Gestion durable de la forêt et développement de la filière bois;03;Agriculture et alimentation
+PLF 2019;Budget général;AC;Agriculture, alimentation, forêt et affaires rurales;149;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;27;Moyens de mise en oeuvre des politiques publiques et gestion des interventions;03;Agriculture et alimentation
+PLF 2019;Budget général;AC;Agriculture, alimentation, forêt et affaires rurales;149;Compétitivité et durabilité de l'agriculture, de l'agroalimentaire, de la forêt, de la pêche et de l'aquaculture;28;Pêche et aquaculture;03;Agriculture et alimentation
+PLF 2019;Budget général;AC;Agriculture, alimentation, forêt et affaires rurales;206;Sécurité et qualité sanitaires de l'alimentation;01;Prévention et gestion des risques inhérents à la production végétale;03;Agriculture et alimentation
+PLF 2019;Budget général;AC;Agriculture, alimentation, forêt et affaires rurales;206;Sécurité et qualité sanitaires de l'alimentation;02;Lutte contre les maladies animales et protection des animaux;03;Agriculture et alimentation
+PLF 2019;Budget général;AC;Agriculture, alimentation, forêt et affaires rurales;206;Sécurité et qualité sanitaires de l'alimentation;03;Prévention et gestion des risques sanitaires liés aux denrées alimentaires;03;Agriculture et alimentation
+PLF 2019;Budget général;AC;Agriculture, alimentation, forêt et affaires rurales;206;Sécurité et qualité sanitaires de l'alimentation;04;Actions transversales;03;Agriculture et alimentation
+PLF 2019;Budget général;AC;Agriculture, alimentation, forêt et affaires rurales;206;Sécurité et qualité sanitaires de l'alimentation;05;Elimination des cadavres et des sous-produits animaux;03;Agriculture et alimentation
+PLF 2019;Budget général;AC;Agriculture, alimentation, forêt et affaires rurales;206;Sécurité et qualité sanitaires de l'alimentation;06;Mise en oeuvre de la politique de sécurité et de qualité sanitaires de l'alimentation;03;Agriculture et alimentation
+PLF 2019;Budget général;AC;Agriculture, alimentation, forêt et affaires rurales;206;Sécurité et qualité sanitaires de l'alimentation;08;Qualité de l'alimentation et offre alimentaire;03;Agriculture et alimentation
+PLF 2019;Budget général;AC;Agriculture, alimentation, forêt et affaires rurales;215;Conduite et pilotage des politiques de l'agriculture;01;Moyens de l'administration centrale;03;Agriculture et alimentation
+PLF 2019;Budget général;AC;Agriculture, alimentation, forêt et affaires rurales;215;Conduite et pilotage des politiques de l'agriculture;02;Évaluation de l'impact des politiques publiques et information économique;03;Agriculture et alimentation
+PLF 2019;Budget général;AC;Agriculture, alimentation, forêt et affaires rurales;215;Conduite et pilotage des politiques de l'agriculture;03;Moyens des directions régionales de l'alimentation, de l'agriculture et de la forêt, des directions de l'alimentation, de l'agriculture et de la forêt et directions départementales des territoires (et de la mer);03;Agriculture et alimentation
+PLF 2019;Budget général;AC;Agriculture, alimentation, forêt et affaires rurales;215;Conduite et pilotage des politiques de l'agriculture;04;Moyens communs;03;Agriculture et alimentation
+PLF 2019;Budget général;AD;Aide publique au développement;110;Aide économique et financière au développement;01;Aide économique et financière multilatérale;21;Économie et finances
+PLF 2019;Budget général;AD;Aide publique au développement;110;Aide économique et financière au développement;02;Aide économique et financière bilatérale;21;Économie et finances
+PLF 2019;Budget général;AD;Aide publique au développement;110;Aide économique et financière au développement;03;Traitement de la dette des pays pauvres;21;Économie et finances
+PLF 2019;Budget général;AD;Aide publique au développement;209;Solidarité à l'égard des pays en développement;02;Coopération bilatérale;01;Europe et affaires étrangères
+PLF 2019;Budget général;AD;Aide publique au développement;209;Solidarité à l'égard des pays en développement;05;Coopération multilatérale;01;Europe et affaires étrangères
+PLF 2019;Budget général;AD;Aide publique au développement;209;Solidarité à l'égard des pays en développement;07;Coopération communautaire;01;Europe et affaires étrangères
+PLF 2019;Budget général;AD;Aide publique au développement;209;Solidarité à l'égard des pays en développement;08;"Dépenses de personnels concourant au programme ""Solidarité à l'égard des pays en développement""";01;Europe et affaires étrangères
+PLF 2019;Budget général;AD;Aide publique au développement;209;Solidarité à l'égard des pays en développement;09;Actions de co-développement;01;Europe et affaires étrangères
+PLF 2019;Budget général;MB;Anciens combattants, mémoire et liens avec la nation;167;Liens entre la Nation et son armée;01;Liens armées-jeunesse;70;Armées
+PLF 2019;Budget général;MB;Anciens combattants, mémoire et liens avec la nation;167;Liens entre la Nation et son armée;02;Politique de mémoire;70;Armées
+PLF 2019;Budget général;MB;Anciens combattants, mémoire et liens avec la nation;169;Reconnaissance et réparation en faveur du monde combattant;01;Administration de  la dette viagère;70;Armées
+PLF 2019;Budget général;MB;Anciens combattants, mémoire et liens avec la nation;169;Reconnaissance et réparation en faveur du monde combattant;02;Gestion  des droits liés aux pensions militaires d'invalidité;70;Armées
+PLF 2019;Budget général;MB;Anciens combattants, mémoire et liens avec la nation;169;Reconnaissance et réparation en faveur du monde combattant;03;Solidarité;70;Armées
+PLF 2019;Budget général;MB;Anciens combattants, mémoire et liens avec la nation;169;Reconnaissance et réparation en faveur du monde combattant;07;Actions en faveur des rapatriés;70;Armées
+PLF 2019;Budget général;MB;Anciens combattants, mémoire et liens avec la nation;158;Indemnisation des victimes des persécutions antisémites et des actes de barbarie pendant la seconde guerre mondiale;01;Indemnisation des orphelins de la déportation et des victimes de spoliations du fait des législations antisémites en vigueur pendant l'Occupation;12;Services du Premier ministre
+PLF 2019;Budget général;MB;Anciens combattants, mémoire et liens avec la nation;158;Indemnisation des victimes des persécutions antisémites et des actes de barbarie pendant la seconde guerre mondiale;02;Indemnisation des victimes d'actes de barbarie durant la seconde guerre mondiale;12;Services du Premier ministre
+PLF 2019;Budget général;VA;Cohésion des territoires;177;Hébergement, parcours vers le logement et insertion des personnes vulnérables;11;Prévention de l'exclusion;45;Cohésion des territoires
+PLF 2019;Budget général;VA;Cohésion des territoires;177;Hébergement, parcours vers le logement et insertion des personnes vulnérables;12;Hébergement et logement adapté;45;Cohésion des territoires
+PLF 2019;Budget général;VA;Cohésion des territoires;177;Hébergement, parcours vers le logement et insertion des personnes vulnérables;14;Conduite et animation des politiques de l'hébergement et de l'inclusion sociale;45;Cohésion des territoires
+PLF 2019;Budget général;VA;Cohésion des territoires;109;Aide à l'accès au logement;01;Aides personnelles;45;Cohésion des territoires
+PLF 2019;Budget général;VA;Cohésion des territoires;109;Aide à l'accès au logement;02;Information relative au logement et accompagnement des publics en difficulté;45;Cohésion des territoires
+PLF 2019;Budget général;VA;Cohésion des territoires;109;Aide à l'accès au logement;03;Sécurisation des risques locatifs;45;Cohésion des territoires
+PLF 2019;Budget général;VA;Cohésion des territoires;135;Urbanisme, territoires et amélioration de l'habitat;01;Construction locative et amélioration du parc;45;Cohésion des territoires
+PLF 2019;Budget général;VA;Cohésion des territoires;135;Urbanisme, territoires et amélioration de l'habitat;02;Soutien à l'accession à la propriété;45;Cohésion des territoires
+PLF 2019;Budget général;VA;Cohésion des territoires;135;Urbanisme, territoires et amélioration de l'habitat;03;Lutte contre l'habitat indigne;45;Cohésion des territoires
+PLF 2019;Budget général;VA;Cohésion des territoires;135;Urbanisme, territoires et amélioration de l'habitat;04;Réglementation, politique technique et qualité de la construction;45;Cohésion des territoires
+PLF 2019;Budget général;VA;Cohésion des territoires;135;Urbanisme, territoires et amélioration de l'habitat;05;Soutien;45;Cohésion des territoires
+PLF 2019;Budget général;VA;Cohésion des territoires;135;Urbanisme, territoires et amélioration de l'habitat;07;Urbanisme et aménagement;45;Cohésion des territoires
+PLF 2019;Budget général;VA;Cohésion des territoires;135;Urbanisme, territoires et amélioration de l'habitat;08;Grand Paris;45;Cohésion des territoires
+PLF 2019;Budget général;VA;Cohésion des territoires;112;Impulsion et coordination de la politique d'aménagement du territoire;01;Attractivité économique et compétitivité des territoires;45;Cohésion des territoires
+PLF 2019;Budget général;VA;Cohésion des territoires;112;Impulsion et coordination de la politique d'aménagement du territoire;02;Développement solidaire et équilibré des territoires;45;Cohésion des territoires
+PLF 2019;Budget général;VA;Cohésion des territoires;112;Impulsion et coordination de la politique d'aménagement du territoire;04;Instruments de pilotage et d'étude;45;Cohésion des territoires
+PLF 2019;Budget général;VA;Cohésion des territoires;162;Interventions territoriales de l'État;02;Eau - Agriculture en Bretagne;12;Services du Premier ministre
+PLF 2019;Budget général;VA;Cohésion des territoires;162;Interventions territoriales de l'État;04;Programme exceptionnel d'investissements en faveur de la Corse;12;Services du Premier ministre
+PLF 2019;Budget général;VA;Cohésion des territoires;162;Interventions territoriales de l'État;06;Plan gouvernemental sur le Marais Poitevin - Poitou Charentes;12;Services du Premier ministre
+PLF 2019;Budget général;VA;Cohésion des territoires;162;Interventions territoriales de l'État;08;Plan chlordécone en Martinique et en Guadeloupe;12;Services du Premier ministre
+PLF 2019;Budget général;VA;Cohésion des territoires;162;Interventions territoriales de l'État;09;Plan littoral 21;12;Services du Premier ministre
+PLF 2019;Budget général;VA;Cohésion des territoires;147;Politique de la ville;01;Actions territorialisées et Dispositifs spécifiques de la politique de la ville;45;Cohésion des territoires
+PLF 2019;Budget général;VA;Cohésion des territoires;147;Politique de la ville;02;Revitalisation économique et emploi;45;Cohésion des territoires
+PLF 2019;Budget général;VA;Cohésion des territoires;147;Politique de la ville;03;Stratégie, ressources et évaluation;45;Cohésion des territoires
+PLF 2019;Budget général;VA;Cohésion des territoires;147;Politique de la ville;04;Rénovation urbaine et amélioration du cadre de vie;45;Cohésion des territoires
+PLF 2019;Budget général;CA;Conseil et contrôle de l'État;165;Conseil d'État et autres juridictions administratives;01;Fonction juridictionnelle : Conseil d'État;12;Services du Premier ministre
+PLF 2019;Budget général;CA;Conseil et contrôle de l'État;165;Conseil d'État et autres juridictions administratives;02;Fonction juridictionnelle : Cours administratives d'appel;12;Services du Premier ministre
+PLF 2019;Budget général;CA;Conseil et contrôle de l'État;165;Conseil d'État et autres juridictions administratives;03;Fonction juridictionnelle : Tribunaux administratifs;12;Services du Premier ministre
+PLF 2019;Budget général;CA;Conseil et contrôle de l'État;165;Conseil d'État et autres juridictions administratives;04;Fonction consultative;12;Services du Premier ministre
+PLF 2019;Budget général;CA;Conseil et contrôle de l'État;165;Conseil d'État et autres juridictions administratives;05;Fonction études, expertise et services rendus aux administrations de l'État et des collectivités;12;Services du Premier ministre
+PLF 2019;Budget général;CA;Conseil et contrôle de l'État;165;Conseil d'État et autres juridictions administratives;06;Soutien;12;Services du Premier ministre
+PLF 2019;Budget général;CA;Conseil et contrôle de l'État;165;Conseil d'État et autres juridictions administratives;07;Cour nationale du droit d'asile;12;Services du Premier ministre
+PLF 2019;Budget général;CA;Conseil et contrôle de l'État;126;Conseil économique, social et environnemental;01;Représentation des activités économiques et sociales;12;Services du Premier ministre
+PLF 2019;Budget général;CA;Conseil et contrôle de l'État;126;Conseil économique, social et environnemental;02;Fonctionnement de l'institution;12;Services du Premier ministre
+PLF 2019;Budget général;CA;Conseil et contrôle de l'État;126;Conseil économique, social et environnemental;03;Communication et international;12;Services du Premier ministre
+PLF 2019;Budget général;CA;Conseil et contrôle de l'État;164;Cour des comptes et autres juridictions financières;21;Examen des comptes publics;12;Services du Premier ministre
+PLF 2019;Budget général;CA;Conseil et contrôle de l'État;164;Cour des comptes et autres juridictions financières;22;Contrôle des finances publiques;12;Services du Premier ministre
+PLF 2019;Budget général;CA;Conseil et contrôle de l'État;164;Cour des comptes et autres juridictions financières;23;Contrôle des gestions publiques;12;Services du Premier ministre
+PLF 2019;Budget général;CA;Conseil et contrôle de l'État;164;Cour des comptes et autres juridictions financières;24;Evaluation des politiques publiques;12;Services du Premier ministre
+PLF 2019;Budget général;CA;Conseil et contrôle de l'État;164;Cour des comptes et autres juridictions financières;25;Information des citoyens;12;Services du Premier ministre
+PLF 2019;Budget général;CA;Conseil et contrôle de l'État;164;Cour des comptes et autres juridictions financières;26;Mise en jeu de la responsabilité des comptables publics et des gestionnaires publics;12;Services du Premier ministre
+PLF 2019;Budget général;CA;Conseil et contrôle de l'État;164;Cour des comptes et autres juridictions financières;27;Pilotage et soutien des juridictions financières;12;Services du Premier ministre
+PLF 2019;Budget général;CA;Conseil et contrôle de l'État;340;Haut Conseil des finances publiques;01;Haut Conseil des finances publiques;12;Services du Premier ministre
+PLF 2019;Budget général;PC;Crédits non répartis;551;Provision relative aux rémunérations publiques;01;Provision relative aux rémunérations publiques;07;Action et comptes publics
+PLF 2019;Budget général;PC;Crédits non répartis;552;Dépenses accidentelles et imprévisibles;01;Dépenses accidentelles et imprévisibles;07;Action et comptes publics
+PLF 2019;Budget général;CB;Culture;175;Patrimoines;01;Monuments Historiques et patrimoine monumental;02;Culture
+PLF 2019;Budget général;CB;Culture;175;Patrimoines;02;Architecture et espaces protégés;02;Culture
+PLF 2019;Budget général;CB;Culture;175;Patrimoines;03;Patrimoine des musées de France;02;Culture
+PLF 2019;Budget général;CB;Culture;175;Patrimoines;04;Patrimoine archivistique et célébrations nationales;02;Culture
+PLF 2019;Budget général;CB;Culture;175;Patrimoines;08;Acquisition et enrichissement des collections publiques;02;Culture
+PLF 2019;Budget général;CB;Culture;175;Patrimoines;09;Patrimoine archéologique;02;Culture
+PLF 2019;Budget général;CB;Culture;131;Création;01;Soutien à la création, à la production et à la diffusion du spectacle vivant;02;Culture
+PLF 2019;Budget général;CB;Culture;131;Création;02;Soutien à la création, à la production et à la diffusion des arts visuels;02;Culture
+PLF 2019;Budget général;CB;Culture;224;Transmission des savoirs et démocratisation de la culture;01;Soutien aux établissements d'enseignement supérieur et insertion professionnelle;02;Culture
+PLF 2019;Budget général;CB;Culture;224;Transmission des savoirs et démocratisation de la culture;02;Soutien à la démocratisation et à l'éducation artistique et culturelle;02;Culture
+PLF 2019;Budget général;CB;Culture;224;Transmission des savoirs et démocratisation de la culture;06;Action culturelle internationale;02;Culture
+PLF 2019;Budget général;CB;Culture;224;Transmission des savoirs et démocratisation de la culture;07;Fonctions de soutien du ministère;02;Culture
+PLF 2019;Budget général;CB;Culture;224;Transmission des savoirs et démocratisation de la culture;08;Soutien à l'emploi dans le secteur culturel;02;Culture
+PLF 2019;Budget général;CB;Culture;224;Transmission des savoirs et démocratisation de la culture;09;Langue française et langues de France;02;Culture
+PLF 2019;Budget général;DA;Défense;144;Environnement et prospective de la politique de défense;03;Recherche et exploitation du renseignement intéressant la sécurité de la France;70;Armées
+PLF 2019;Budget général;DA;Défense;144;Environnement et prospective de la politique de défense;07;Prospective de défense;70;Armées
+PLF 2019;Budget général;DA;Défense;144;Environnement et prospective de la politique de défense;08;Relations internationales et diplomatie de défense;70;Armées
+PLF 2019;Budget général;DA;Défense;178;Préparation et emploi des forces;01;Planification  des moyens et conduite des opérations;70;Armées
+PLF 2019;Budget général;DA;Défense;178;Préparation et emploi des forces;02;Préparation des forces terrestres;70;Armées
+PLF 2019;Budget général;DA;Défense;178;Préparation et emploi des forces;03;Préparation des forces navales;70;Armées
+PLF 2019;Budget général;DA;Défense;178;Préparation et emploi des forces;04;Préparation des forces aériennes;70;Armées
+PLF 2019;Budget général;DA;Défense;178;Préparation et emploi des forces;05;Logistique et soutien interarmées;70;Armées
+PLF 2019;Budget général;DA;Défense;178;Préparation et emploi des forces;06;Surcoûts liés aux opérations extérieures;70;Armées
+PLF 2019;Budget général;DA;Défense;178;Préparation et emploi des forces;07;Surcoûts liés aux opérations intérieures;70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;04;Politique immobilière;70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;05;Systèmes d'information, d'administration et de gestion;70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;06;Politiques des ressources humaines;70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;08;Politique culturelle et éducative;70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;10;Restructurations;70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;11;Pilotage, soutien et communication;70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;50;"Recherche et exploitation du renseignement intéressant la sécurité de la France - Personnel travaillant  pour le programme ""Environnement et prospective de la politique de défense""";70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;51;"Prospective de défense - Personnel travaillant  pour le programme ""Environnement et prospective de la politique de défense""";70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;52;Relations internationales;70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;53;"Préparation et conduite des opérations d'armement - Personnel travaillant  pour le programme  ""Équipement des forces """;70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;54;"Planification des moyens et conduite des opérations - Personnel travaillant  pour le programme ""Préparation et emploi des forces""";70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;55;"Préparation des forces terrestres - Personnel travaillant pour le programme ""Préparation et emploi des forces""";70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;56;"Préparation des forces navales - Personnel travaillant pour le programme ""Préparation et emploi des forces""";70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;57;"Préparation des forces aériennes- Personnel travaillant pour le programme ""Préparation et emploi des forces""";70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;58;"Logistique et soutien interarmées - Personnel travaillant pour le programme ""Préparation et emploi des forces""";70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;59;"Surcoûts liés aux opérations - Personnel travaillant pour le programme ""Préparation et emploi des forces""";70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;60;"Politique immobilière - Personnel travaillant pour l'action ""Politique immobilière""";70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;61;Action sociale, chômage et pensions;70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;62;"Politique culturelle et éducative - gestion et communication des archives historiques de la défense - Personnel travaillant pour l'action ""Politique culturelle et éducative""";70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;63;Restructurations - RH;70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;64;"Pilotage, soutien  -  Personnel travaillant pour l'action "" Pilotage, soutien """;70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;65;"Journée défense et citoyenneté - Personnel travaillant pour le programme ""Liens entre la Nation et son armée""";70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;66;Rayonnement et contribution extérieure;70;Armées
+PLF 2019;Budget général;DA;Défense;212;Soutien de la politique de la défense;67;Pilotage, soutien et communication - dépenses de personnel des cabinets et des organismes rattachés / RH;70;Armées
+PLF 2019;Budget général;DA;Défense;146;Équipement des forces;06;Dissuasion;70;Armées
+PLF 2019;Budget général;DA;Défense;146;Équipement des forces;07;Commandement et maîtrise de l'information;70;Armées
+PLF 2019;Budget général;DA;Défense;146;Équipement des forces;08;Projection - mobilité - soutien;70;Armées
+PLF 2019;Budget général;DA;Défense;146;Équipement des forces;09;Engagement et combat;70;Armées
+PLF 2019;Budget général;DA;Défense;146;Équipement des forces;10;Protection et sauvegarde;70;Armées
+PLF 2019;Budget général;DA;Défense;146;Équipement des forces;11;Préparation et conduite des opérations d'armement;70;Armées
+PLF 2019;Budget général;DA;Défense;146;Équipement des forces;12;Parts étrangères et programmes civils;70;Armées
+PLF 2019;Budget général;DC;Direction de l'action du Gouvernement;129;Coordination du travail gouvernemental;01;Coordination du travail gouvernemental;12;Services du Premier ministre
+PLF 2019;Budget général;DC;Direction de l'action du Gouvernement;129;Coordination du travail gouvernemental;02;Coordination de la sécurité et de la défense;12;Services du Premier ministre
+PLF 2019;Budget général;DC;Direction de l'action du Gouvernement;129;Coordination du travail gouvernemental;03;Coordination de la politique européenne;12;Services du Premier ministre
+PLF 2019;Budget général;DC;Direction de l'action du Gouvernement;129;Coordination du travail gouvernemental;10;Soutien;12;Services du Premier ministre
+PLF 2019;Budget général;DC;Direction de l'action du Gouvernement;129;Coordination du travail gouvernemental;11;Stratégie et prospective;12;Services du Premier ministre
+PLF 2019;Budget général;DC;Direction de l'action du Gouvernement;129;Coordination du travail gouvernemental;13;Ordre de la Légion d'honneur;12;Services du Premier ministre
+PLF 2019;Budget général;DC;Direction de l'action du Gouvernement;129;Coordination du travail gouvernemental;15;Mission interministérielle de lutte contre les drogues et les conduites addictives;12;Services du Premier ministre
+PLF 2019;Budget général;DC;Direction de l'action du Gouvernement;129;Coordination du travail gouvernemental;16;Coordination de la politique numérique;12;Services du Premier ministre
+PLF 2019;Budget général;DC;Direction de l'action du Gouvernement;308;Protection des droits et libertés;02;Commission nationale de l'informatique et des libertés;12;Services du Premier ministre
+PLF 2019;Budget général;DC;Direction de l'action du Gouvernement;308;Protection des droits et libertés;03;Conseil supérieur de l'audiovisuel;12;Services du Premier ministre
+PLF 2019;Budget général;DC;Direction de l'action du Gouvernement;308;Protection des droits et libertés;05;Contrôleur général des lieux de privation de liberté;12;Services du Premier ministre
+PLF 2019;Budget général;DC;Direction de l'action du Gouvernement;308;Protection des droits et libertés;06;Autres autorités indépendantes;12;Services du Premier ministre
+PLF 2019;Budget général;DC;Direction de l'action du Gouvernement;308;Protection des droits et libertés;09;Défenseur des droits;12;Services du Premier ministre
+PLF 2019;Budget général;DC;Direction de l'action du Gouvernement;308;Protection des droits et libertés;10;Haute autorité pour la transparence de la vie publique;12;Services du Premier ministre
+PLF 2019;Budget général;DC;Direction de l'action du Gouvernement;308;Protection des droits et libertés;11;Régulation de la distribution de la presse;12;Services du Premier ministre
+PLF 2019;Budget général;DC;Direction de l'action du Gouvernement;308;Protection des droits et libertés;12;Commission nationale de contrôle des techniques de renseignement;12;Services du Premier ministre
+PLF 2019;Budget général;DC;Direction de l'action du Gouvernement;308;Protection des droits et libertés;13;Commission du secret de la Défense nationale;12;Services du Premier ministre
+PLF 2019;Budget général;DC;Direction de l'action du Gouvernement;333;Moyens mutualisés des administrations déconcentrées;01;Fonctionnement courant des directions départementales interministérielles;12;Services du Premier ministre
+PLF 2019;Budget général;DC;Direction de l'action du Gouvernement;333;Moyens mutualisés des administrations déconcentrées;02;Loyers et charges immobilières des administrations déconcentrées;12;Services du Premier ministre
+PLF 2019;Budget général;DC;Direction de l'action du Gouvernement;333;Moyens mutualisés des administrations déconcentrées;03;Emplois déconcentrés des services du Premier ministre;12;Services du Premier ministre
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;01;Routes - Développement;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;04;Routes - Entretien;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;41;Ferroviaire;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;42;Voies navigables;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;43;Ports;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;44;Transports collectifs;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;45;Transports combinés;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;47;Fonctions support;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;50;Transport routier;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;51;Sécurité ferroviaire;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;203;Infrastructures et services de transports;52;Transport aérien;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;205;Affaires maritimes;01;Sécurité et sûreté maritimes;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;205;Affaires maritimes;02;Gens de mer et enseignement maritime;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;205;Affaires maritimes;03;Flotte de commerce;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;205;Affaires maritimes;04;Action interministérielle de la mer;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;205;Affaires maritimes;05;Soutien au programme;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;205;Affaires maritimes;06;Gestion durable des Pêches et de  l'Aquaculture;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;113;Paysages, eau et biodiversité;01;Sites, paysages, publicité;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;113;Paysages, eau et biodiversité;02;logistique, formation et contentieux;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;113;Paysages, eau et biodiversité;07;Gestion des milieux et biodiversité;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;159;Expertise, information géographique et météorologie;10;Gouvernance, évaluation, études et prospective en matière de développement durable;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;159;Expertise, information géographique et météorologie;11;Etudes et expertise en matière de développement durable;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;159;Expertise, information géographique et météorologie;12;Information géographique et cartographique;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;159;Expertise, information géographique et météorologie;13;Météorologie;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;159;Expertise, information géographique et météorologie;14;Economie sociale et solidaire;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;181;Prévention des risques;01;Prévention des risques technologiques et des pollutions;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;181;Prévention des risques;09;Contrôle de la sûreté nucléaire et de la radioprotection;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;181;Prévention des risques;10;Prévention des risques naturels et hydrauliques;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;181;Prévention des risques;11;Gestion de l'après-mine et travaux de mise en sécurité, indemnisations et expropriations sur les sites;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;181;Prévention des risques;12;Agence de l'environnement et de la maîtrise de l'énergie (ADEME);23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;174;Énergie, climat et après-mines;01;Politique de l'énergie;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;174;Énergie, climat et après-mines;04;Gestion économique et sociale de l'après-mines;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;174;Énergie, climat et après-mines;05;Lutte contre le changement climatique et pour la qualité de l'air;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;174;Énergie, climat et après-mines;06;Soutien;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;345;Service public de l'énergie;01;Solidarité avec les zones non interconnectées au réseau métropolitain;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;345;Service public de l'énergie;02;Protection des consommateurs en situation de précarité énergétique;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;345;Service public de l'énergie;03;Soutien à la cogénération;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;345;Service public de l'énergie;05;Frais de support;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;345;Service public de l'énergie;06;Médiateur de l'énergie;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;345;Service public de l'énergie;07;Fermeture de la centrale de Fessenheim;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;02;Fonction juridique;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;03;Politique et programmation de l'immobilier et des moyens de fonctionnement;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;04;Politique et gestion des systèmes d'information et des réseaux informatiques;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;05;Politique des ressources humaines et formation;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;06;Actions nationales, européennes et internationales en faveur du développement durable;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;07;"Personnels oeuvrant pour les politiques du programme ""Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables""";23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;08;"Personnels oeuvrant pour les politiques du programme ""Infrastructures et services de transports""";23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;09;"Personnels oeuvrant pour les politiques du programme ""Sécurité et éducation routières""";23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;11;"Personnels oeuvrant pour les politiques du programme ""Affaires maritimes""";23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;13;"Personnels oeuvrant pour les politiques du programme ""Paysages, eau et biodiversité""";23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;15;"Personnels relevant du ministère de la "" Cohésion des territoires """;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;16;"Personnels oeuvrant pour les politiques du programme ""Prévention des risques""";23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;18;Personnels relevant de programmes d'autres ministères;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;22;Personnels transférés aux collectivités territoriales;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;23;"Personnels oeuvrant pour les politiques des programmes ""énergie, climat et après-mines""";23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;24;Personnels oeuvrant dans le domaine des transports aériens;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;25;Commission nationale du débat public;23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;26;Autorité de contrôle des nuisances aéroportuaires (ACNUSA);23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;27;Commission de régulation de l'énergie (CRE);23;Transition écologique et solidaire
+PLF 2019;Budget général;TA;Écologie, développement et mobilité durables;217;Conduite et pilotage des politiques de l'écologie, du développement et de la mobilité durables;28;"Personnels oeuvrant pour le développement durable et pour les politiques du programme ""expertise, information géographique et météorologique""";23;Transition écologique et solidaire
+PLF 2019;Budget général;DB;Économie;134;Développement des entreprises et régulations;04;Développement des postes, des télécommunications et du numérique;21;Économie et finances
+PLF 2019;Budget général;DB;Économie;134;Développement des entreprises et régulations;07;Développement international des entreprises et attractivité du territoire;21;Économie et finances
+PLF 2019;Budget général;DB;Économie;134;Développement des entreprises et régulations;08;Expertise, conseil et inspection;21;Économie et finances
+PLF 2019;Budget général;DB;Économie;134;Développement des entreprises et régulations;13;Régulation des communications électroniques et des postes (ARCEP);21;Économie et finances
+PLF 2019;Budget général;DB;Économie;134;Développement des entreprises et régulations;15;Mise en oeuvre du droit de la concurrence (Autorité de la concurrence);21;Économie et finances
+PLF 2019;Budget général;DB;Économie;134;Développement des entreprises et régulations;22;Economie sociale et solidaire;21;Économie et finances
+PLF 2019;Budget général;DB;Économie;134;Développement des entreprises et régulations;23;Industrie et services;21;Économie et finances
+PLF 2019;Budget général;DB;Économie;134;Développement des entreprises et régulations;24;Régulation concurrentielle des marchés, protection économique et sécurité du consommateur;21;Économie et finances
+PLF 2019;Budget général;DB;Économie;343;Plan France Très haut débit;01;Réseaux d'initiative publique;21;Économie et finances
+PLF 2019;Budget général;DB;Économie;220;Statistiques et études économiques;01;Infrastructure statistique;21;Économie et finances
+PLF 2019;Budget général;DB;Économie;220;Statistiques et études économiques;02;Information sur les entreprises et synthèses économiques;21;Économie et finances
+PLF 2019;Budget général;DB;Économie;220;Statistiques et études économiques;03;Information démographique et sociale;21;Économie et finances
+PLF 2019;Budget général;DB;Économie;220;Statistiques et études économiques;05;Pilotage et soutien;21;Économie et finances
+PLF 2019;Budget général;DB;Économie;220;Statistiques et études économiques;06;Action régionale;21;Économie et finances
+PLF 2019;Budget général;DB;Économie;220;Statistiques et études économiques;07;Formation initiale;21;Économie et finances
+PLF 2019;Budget général;DB;Économie;305;Stratégie économique et fiscale;01;Définition et mise en oeuvre de la politique économique et financière de la France dans le cadre national, international et européen;21;Économie et finances
+PLF 2019;Budget général;DB;Économie;305;Stratégie économique et fiscale;02;Développement international de l'économie française;21;Économie et finances
+PLF 2019;Budget général;DB;Économie;305;Stratégie économique et fiscale;03;Elaboration de la législation fiscale;21;Économie et finances
+PLF 2019;Budget général;EB;Engagements financiers de l'État;117;Charge de la dette et trésorerie de l'État (crédits évaluatifs);01;Dette;21;Économie et finances
+PLF 2019;Budget général;EB;Engagements financiers de l'État;117;Charge de la dette et trésorerie de l'État (crédits évaluatifs);03;Trésorerie;21;Économie et finances
+PLF 2019;Budget général;EB;Engagements financiers de l'État;114;Appels en garantie de l'État (crédits évaluatifs);01;Agriculture et environnement;21;Économie et finances
+PLF 2019;Budget général;EB;Engagements financiers de l'État;114;Appels en garantie de l'État (crédits évaluatifs);02;Soutien au domaine social, logement, santé;21;Économie et finances
+PLF 2019;Budget général;EB;Engagements financiers de l'État;114;Appels en garantie de l'État (crédits évaluatifs);03;Financement des entreprises et industrie;21;Économie et finances
+PLF 2019;Budget général;EB;Engagements financiers de l'État;114;Appels en garantie de l'État (crédits évaluatifs);04;Développement international de l'économie française;21;Économie et finances
+PLF 2019;Budget général;EB;Engagements financiers de l'État;114;Appels en garantie de l'État (crédits évaluatifs);05;Autres garanties;21;Économie et finances
+PLF 2019;Budget général;EB;Engagements financiers de l'État;145;Épargne;01;Épargne logement;21;Économie et finances
+PLF 2019;Budget général;EB;Engagements financiers de l'État;145;Épargne;02;Instruments de financement du logement;21;Économie et finances
+PLF 2019;Budget général;EB;Engagements financiers de l'État;336;Dotation du Mécanisme européen de stabilité;01;Dotation du Mécanisme européen de stabilité;21;Économie et finances
+PLF 2019;Budget général;EB;Engagements financiers de l'État;338;Augmentation de capital de la Banque européenne d'investissement;01;Augmentation de capital de la Banque européenne d'investissement;21;Économie et finances
+PLF 2019;Budget général;EB;Engagements financiers de l'État;344;Fonds de soutien relatif aux prêts et contrats financiers structurés à risque;01;Fonds de soutien relatif aux prêts et contrats financiers structurés à risque;21;Économie et finances
+PLF 2019;Budget général;EC;Enseignement scolaire;140;Enseignement scolaire public du premier degré;01;Enseignement pré-élémentaire;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;140;Enseignement scolaire public du premier degré;02;Enseignement élémentaire;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;140;Enseignement scolaire public du premier degré;03;Besoins éducatifs particuliers;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;140;Enseignement scolaire public du premier degré;04;Formation des personnels enseignants;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;140;Enseignement scolaire public du premier degré;05;Remplacement;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;140;Enseignement scolaire public du premier degré;06;Pilotage et encadrement pédagogique;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;140;Enseignement scolaire public du premier degré;07;Personnels en situations diverses;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;141;Enseignement scolaire public du second degré;01;Enseignement en collège;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;141;Enseignement scolaire public du second degré;02;Enseignement général et technologique en lycée;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;141;Enseignement scolaire public du second degré;03;Enseignement professionnel sous statut scolaire;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;141;Enseignement scolaire public du second degré;04;Apprentissage;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;141;Enseignement scolaire public du second degré;05;Enseignement post-baccalauréat en lycée;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;141;Enseignement scolaire public du second degré;06;Besoins éducatifs particuliers;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;141;Enseignement scolaire public du second degré;07;Aide à l'insertion professionnelle;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;141;Enseignement scolaire public du second degré;08;Information et orientation;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;141;Enseignement scolaire public du second degré;09;Formation continue des adultes et validation des acquis de l'expérience;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;141;Enseignement scolaire public du second degré;10;Formation des personnels enseignants et d'orientation;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;141;Enseignement scolaire public du second degré;11;Remplacement;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;141;Enseignement scolaire public du second degré;12;Pilotage, administration et encadrement pédagogique;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;141;Enseignement scolaire public du second degré;13;Personnels en situations diverses;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;230;Vie de l'élève;01;Vie scolaire et éducation à la responsabilité;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;230;Vie de l'élève;02;Santé scolaire;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;230;Vie de l'élève;03;Inclusion scolaire des élèves en situation de handicap;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;230;Vie de l'élève;04;Action sociale;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;230;Vie de l'élève;05;Politique de l'internat et établissements à la charge de l'Etat;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;230;Vie de l'élève;06;Actions éducatives complémentaires aux enseignements;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;01;Enseignement pré-élémentaire;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;02;Enseignement élémentaire;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;03;Enseignement en collège;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;04;Enseignement général et technologique en lycée;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;05;Enseignement professionnel sous statut scolaire;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;06;Enseignement post-baccalauréat en lycée;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;07;Dispositifs spécifiques de scolarisation;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;08;Actions sociales en faveur des élèves;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;09;Fonctionnement des établissements;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;10;Formation initiale et continue des enseignants;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;11;Remplacement;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;139;Enseignement privé du premier et du second degrés;12;Soutien;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;214;Soutien de la politique de l'éducation nationale;01;Pilotage et mise en oeuvre des politiques éducatives;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;214;Soutien de la politique de l'éducation nationale;02;Évaluation et contrôle;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;214;Soutien de la politique de l'éducation nationale;03;Communication;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;214;Soutien de la politique de l'éducation nationale;04;Expertise juridique;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;214;Soutien de la politique de l'éducation nationale;05;Action internationale;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;214;Soutien de la politique de l'éducation nationale;06;Politique des ressources humaines;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;214;Soutien de la politique de l'éducation nationale;07;Établissements d'appui de la politique éducative;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;214;Soutien de la politique de l'éducation nationale;08;Logistique, système d'information, immobilier;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;214;Soutien de la politique de l'éducation nationale;09;Certification;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;214;Soutien de la politique de l'éducation nationale;10;Transports scolaires;06;Éducation nationale
+PLF 2019;Budget général;EC;Enseignement scolaire;143;Enseignement technique agricole;01;Mise en oeuvre de l'enseignement dans les établissements publics;03;Agriculture et alimentation
+PLF 2019;Budget général;EC;Enseignement scolaire;143;Enseignement technique agricole;02;Mise en oeuvre des enseignements dans les établissements privés;03;Agriculture et alimentation
+PLF 2019;Budget général;EC;Enseignement scolaire;143;Enseignement technique agricole;03;Aide sociale aux élèves (enseignement public et privé);03;Agriculture et alimentation
+PLF 2019;Budget général;EC;Enseignement scolaire;143;Enseignement technique agricole;04;Évolution des compétences et dynamique territoriale;03;Agriculture et alimentation
+PLF 2019;Budget général;EC;Enseignement scolaire;143;Enseignement technique agricole;05;Moyens communs à l'enseignement technique agricole, public et privé;03;Agriculture et alimentation
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;156;Gestion fiscale et financière de l'État et du secteur public local;01;Fiscalité des grandes entreprises;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;156;Gestion fiscale et financière de l'État et du secteur public local;02;Fiscalité des PME;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;156;Gestion fiscale et financière de l'État et du secteur public local;03;Fiscalité des particuliers et fiscalité directe locale;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;156;Gestion fiscale et financière de l'État et du secteur public local;05;Gestion financière de l'État hors fiscalité;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;156;Gestion fiscale et financière de l'État et du secteur public local;06;Gestion des pensions;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;156;Gestion fiscale et financière de l'État et du secteur public local;07;Gestion financière du secteur public local hors fiscalité;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;156;Gestion fiscale et financière de l'État et du secteur public local;08;Gestion des fonds déposés;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;156;Gestion fiscale et financière de l'État et du secteur public local;09;Soutien;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;218;Conduite et pilotage des politiques économiques et financières;01;Etat-major et politiques transversales;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;218;Conduite et pilotage des politiques économiques et financières;02;Expertise, audit, évaluation et contrôle;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;218;Conduite et pilotage des politiques économiques et financières;05;Prestations d'appui et support;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;218;Conduite et pilotage des politiques économiques et financières;07;Pilotage des finances publiques et projets interministériels;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;218;Conduite et pilotage des politiques économiques et financières;08;Accompagnement du changement de l’action publique;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;302;Facilitation et sécurisation des échanges;01;Surveillance douanière des flux de personnes et de marchandises et lutte contre la grande fraude douanière.;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;302;Facilitation et sécurisation des échanges;03;Préservation de la sécurité et de la sûreté de l'espace national et européen;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;302;Facilitation et sécurisation des échanges;04;Promotion des échanges internationaux et qualité du dédouanement;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;302;Facilitation et sécurisation des échanges;05;Fiscalité douanière, énergétique et environnementale;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;302;Facilitation et sécurisation des échanges;06;Soutien des services opérationnels;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;302;Facilitation et sécurisation des échanges;08;Soutien au réseau des débitants de tabac;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;148;Fonction publique;01;Formation des fonctionnaires;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;148;Fonction publique;02;Action sociale interministérielle;07;Action et comptes publics
+PLF 2019;Budget général;GA;Gestion des finances publiques et des ressources humaines;148;Fonction publique;03;Appui et innovation des ressources humaines;07;Action et comptes publics
+PLF 2019;Budget général;IA;Immigration, asile et intégration;303;Immigration et asile;01;Circulation des étrangers et politique des visas;09;Intérieur
+PLF 2019;Budget général;IA;Immigration, asile et intégration;303;Immigration et asile;02;Garantie de l'exercice du droit d'asile;09;Intérieur
+PLF 2019;Budget général;IA;Immigration, asile et intégration;303;Immigration et asile;03;Lutte contre l'immigration irrégulière;09;Intérieur
+PLF 2019;Budget général;IA;Immigration, asile et intégration;303;Immigration et asile;04;Soutien;09;Intérieur
+PLF 2019;Budget général;IA;Immigration, asile et intégration;104;Intégration et accès à la nationalité française;11;Accueil des étrangers primo arrivants;09;Intérieur
+PLF 2019;Budget général;IA;Immigration, asile et intégration;104;Intégration et accès à la nationalité française;12;Actions d'accompagnement des étrangers en situation régulière;09;Intérieur
+PLF 2019;Budget général;IA;Immigration, asile et intégration;104;Intégration et accès à la nationalité française;14;Accès à la nationalité française;09;Intérieur
+PLF 2019;Budget général;IA;Immigration, asile et intégration;104;Intégration et accès à la nationalité française;15;Accompagnement des réfugiés;09;Intérieur
+PLF 2019;Budget général;IA;Immigration, asile et intégration;104;Intégration et accès à la nationalité française;16;Accompagnement du plan de traitement des foyers de  travailleurs migrants;09;Intérieur
+PLF 2019;Budget général;AV;Investissements d'avenir;421;Soutien des progrès de l'enseignement et de la recherche;01;Nouveaux cursus à l'université;12;Services du Premier ministre
+PLF 2019;Budget général;AV;Investissements d'avenir;421;Soutien des progrès de l'enseignement et de la recherche;02;Programmes prioritaires de recherche;12;Services du Premier ministre
+PLF 2019;Budget général;AV;Investissements d'avenir;421;Soutien des progrès de l'enseignement et de la recherche;03;Équipements structurants de recherche;12;Services du Premier ministre
+PLF 2019;Budget général;AV;Investissements d'avenir;421;Soutien des progrès de l'enseignement et de la recherche;04;Soutien des grandes universités de recherche;12;Services du Premier ministre
+PLF 2019;Budget général;AV;Investissements d'avenir;421;Soutien des progrès de l'enseignement et de la recherche;05;Constitution d'écoles universitaires de recherche;12;Services du Premier ministre
+PLF 2019;Budget général;AV;Investissements d'avenir;421;Soutien des progrès de l'enseignement et de la recherche;06;Créations expérimentales de sociétés universitaires et scientifiques;12;Services du Premier ministre
+PLF 2019;Budget général;AV;Investissements d'avenir;421;Soutien des progrès de l'enseignement et de la recherche;07;Territoires d'innovation pédagogique;12;Services du Premier ministre
+PLF 2019;Budget général;AV;Investissements d'avenir;422;Valorisation de la recherche;01;Intégration des SATT, incubateurs et accélérateurs;12;Services du Premier ministre
+PLF 2019;Budget général;AV;Investissements d'avenir;422;Valorisation de la recherche;02;"Fonds national post-maturation ""Frontier venture""";12;Services du Premier ministre
+PLF 2019;Budget général;AV;Investissements d'avenir;422;Valorisation de la recherche;03;Démonstrateurs et territoires d'innovation de grande ambition;12;Services du Premier ministre
+PLF 2019;Budget général;AV;Investissements d'avenir;422;Valorisation de la recherche;04;Nouveaux écosystèmes d'innovation;12;Services du Premier ministre
+PLF 2019;Budget général;AV;Investissements d'avenir;422;Valorisation de la recherche;05;Accélération du développement des écosystèmes d'innovation performants;12;Services du Premier ministre
+PLF 2019;Budget général;AV;Investissements d'avenir;423;Accélération de la modernisation des entreprises;01;Soutien à l'innovation collaborative;12;Services du Premier ministre
+PLF 2019;Budget général;AV;Investissements d'avenir;423;Accélération de la modernisation des entreprises;02;Accompagnement et transformation des filières;12;Services du Premier ministre
+PLF 2019;Budget général;AV;Investissements d'avenir;423;Accélération de la modernisation des entreprises;03;Industrie du futur;12;Services du Premier ministre
+PLF 2019;Budget général;AV;Investissements d'avenir;423;Accélération de la modernisation des entreprises;04;Adaptation et qualification de la main d'oeuvre;12;Services du Premier ministre
+PLF 2019;Budget général;AV;Investissements d'avenir;423;Accélération de la modernisation des entreprises;05;Concours d'innovation;12;Services du Premier ministre
+PLF 2019;Budget général;AV;Investissements d'avenir;423;Accélération de la modernisation des entreprises;06;Fonds national d'amorçage n° 2;12;Services du Premier ministre
+PLF 2019;Budget général;AV;Investissements d'avenir;423;Accélération de la modernisation des entreprises;07;Fonds à l'internationalisation des PME;12;Services du Premier ministre
+PLF 2019;Budget général;AV;Investissements d'avenir;423;Accélération de la modernisation des entreprises;08;"Fonds de fonds ""Multicap Croissance"" n° 2";12;Services du Premier ministre
+PLF 2019;Budget général;AV;Investissements d'avenir;423;Accélération de la modernisation des entreprises;09;Grands défis;12;Services du Premier ministre
+PLF 2019;Budget général;JA;Justice;166;Justice judiciaire;01;Traitement et jugement des contentieux civils;10;Justice
+PLF 2019;Budget général;JA;Justice;166;Justice judiciaire;02;Conduite de la politique pénale et jugement des affaires pénales;10;Justice
+PLF 2019;Budget général;JA;Justice;166;Justice judiciaire;03;Cassation;10;Justice
+PLF 2019;Budget général;JA;Justice;166;Justice judiciaire;05;Enregistrement des décisions judiciaires;10;Justice
+PLF 2019;Budget général;JA;Justice;166;Justice judiciaire;06;Soutien;10;Justice
+PLF 2019;Budget général;JA;Justice;166;Justice judiciaire;07;Formation;10;Justice
+PLF 2019;Budget général;JA;Justice;166;Justice judiciaire;08;Support à l'accès au droit et à la justice;10;Justice
+PLF 2019;Budget général;JA;Justice;107;Administration pénitentiaire;01;Garde et contrôle des personnes placées sous main de justice;10;Justice
+PLF 2019;Budget général;JA;Justice;107;Administration pénitentiaire;02;Accueil et accompagnement des personnes placées sous main de justice;10;Justice
+PLF 2019;Budget général;JA;Justice;107;Administration pénitentiaire;04;Soutien et formation;10;Justice
+PLF 2019;Budget général;JA;Justice;182;Protection judiciaire de la jeunesse;01;Mise en oeuvre des décisions judiciaires;10;Justice
+PLF 2019;Budget général;JA;Justice;182;Protection judiciaire de la jeunesse;03;Soutien;10;Justice
+PLF 2019;Budget général;JA;Justice;182;Protection judiciaire de la jeunesse;04;Formation;10;Justice
+PLF 2019;Budget général;JA;Justice;101;Accès au droit et à la justice;01;Aide juridictionnelle;10;Justice
+PLF 2019;Budget général;JA;Justice;101;Accès au droit et à la justice;02;Développement de l'accès au droit et du réseau judiciaire de proximité;10;Justice
+PLF 2019;Budget général;JA;Justice;101;Accès au droit et à la justice;03;Aide aux victimes;10;Justice
+PLF 2019;Budget général;JA;Justice;101;Accès au droit et à la justice;04;Médiation familiale et espaces de rencontre;10;Justice
+PLF 2019;Budget général;JA;Justice;101;Accès au droit et à la justice;05;Indemnisation des avoués;10;Justice
+PLF 2019;Budget général;JA;Justice;310;Conduite et pilotage de la politique de la justice;01;État major;10;Justice
+PLF 2019;Budget général;JA;Justice;310;Conduite et pilotage de la politique de la justice;02;Activité normative;10;Justice
+PLF 2019;Budget général;JA;Justice;310;Conduite et pilotage de la politique de la justice;03;Évaluation, contrôle, études et recherche;10;Justice
+PLF 2019;Budget général;JA;Justice;310;Conduite et pilotage de la politique de la justice;04;Gestion de l'administration centrale;10;Justice
+PLF 2019;Budget général;JA;Justice;310;Conduite et pilotage de la politique de la justice;09;Action informatique ministérielle;10;Justice
+PLF 2019;Budget général;JA;Justice;310;Conduite et pilotage de la politique de la justice;10;Action sociale ministérielle;10;Justice
+PLF 2019;Budget général;JA;Justice;335;Conseil supérieur de la magistrature;01;Conseil supérieur de la magistrature;10;Justice
+PLF 2019;Budget général;MA;Médias, livre et industries culturelles;180;Presse et médias;01;Relations financières avec l'AFP;02;Culture
+PLF 2019;Budget général;MA;Médias, livre et industries culturelles;180;Presse et médias;02;Aides à la presse;02;Culture
+PLF 2019;Budget général;MA;Médias, livre et industries culturelles;180;Presse et médias;05;Soutien aux médias de proximité;02;Culture
+PLF 2019;Budget général;MA;Médias, livre et industries culturelles;180;Presse et médias;06;Soutien à l'expression radiophonique locale;02;Culture
+PLF 2019;Budget général;MA;Médias, livre et industries culturelles;180;Presse et médias;07;Compagnie internationale de radio et télévision (CIRT);02;Culture
+PLF 2019;Budget général;MA;Médias, livre et industries culturelles;334;Livre et industries culturelles;01;Livre et lecture;02;Culture
+PLF 2019;Budget général;MA;Médias, livre et industries culturelles;334;Livre et industries culturelles;02;Industries culturelles;02;Culture
+PLF 2019;Budget général;OA;Outre-mer;138;Emploi outre-mer;01;Soutien aux entreprises;44;Outre-mer
+PLF 2019;Budget général;OA;Outre-mer;138;Emploi outre-mer;02;Aide à l'insertion et à la qualification professionnelle;44;Outre-mer
+PLF 2019;Budget général;OA;Outre-mer;138;Emploi outre-mer;03;Pilotage des politiques des outre-mer;44;Outre-mer
+PLF 2019;Budget général;OA;Outre-mer;138;Emploi outre-mer;04;Financement de l’économie;44;Outre-mer
+PLF 2019;Budget général;OA;Outre-mer;123;Conditions de vie outre-mer;01;Logement;44;Outre-mer
+PLF 2019;Budget général;OA;Outre-mer;123;Conditions de vie outre-mer;02;Aménagement  du territoire;44;Outre-mer
+PLF 2019;Budget général;OA;Outre-mer;123;Conditions de vie outre-mer;03;Continuité territoriale;44;Outre-mer
+PLF 2019;Budget général;OA;Outre-mer;123;Conditions de vie outre-mer;04;Sanitaire, social, culture, jeunesse et sports;44;Outre-mer
+PLF 2019;Budget général;OA;Outre-mer;123;Conditions de vie outre-mer;06;Collectivités territoriales;44;Outre-mer
+PLF 2019;Budget général;OA;Outre-mer;123;Conditions de vie outre-mer;07;Insertion économique et coopération régionales;44;Outre-mer
+PLF 2019;Budget général;OA;Outre-mer;123;Conditions de vie outre-mer;08;Fonds exceptionnel d'investissement;44;Outre-mer
+PLF 2019;Budget général;OA;Outre-mer;123;Conditions de vie outre-mer;09;Appui à l'accès aux financements bancaires;44;Outre-mer
+PLF 2019;Budget général;PB;Pouvoirs publics;501;Présidence de la République;01;Présidence de la République;07;Action et comptes publics
+PLF 2019;Budget général;PB;Pouvoirs publics;511;Assemblée nationale;01;Assemblée nationale;07;Action et comptes publics
+PLF 2019;Budget général;PB;Pouvoirs publics;521;Sénat;01;Sénat;07;Action et comptes publics
+PLF 2019;Budget général;PB;Pouvoirs publics;521;Sénat;02;Jardin du Luxembourg;07;Action et comptes publics
+PLF 2019;Budget général;PB;Pouvoirs publics;521;Sénat;03;Musée du Luxembourg;07;Action et comptes publics
+PLF 2019;Budget général;PB;Pouvoirs publics;541;La Chaîne parlementaire;01;La Chaîne parlementaire - Assemblée nationale;07;Action et comptes publics
+PLF 2019;Budget général;PB;Pouvoirs publics;541;La Chaîne parlementaire;02;Public Sénat;07;Action et comptes publics
+PLF 2019;Budget général;PB;Pouvoirs publics;542;Indemnités des représentants français au Parlement européen;01;Indemnités des représentants français au Parlement européen;07;Action et comptes publics
+PLF 2019;Budget général;PB;Pouvoirs publics;531;Conseil constitutionnel;01;Conseil constitutionnel;07;Action et comptes publics
+PLF 2019;Budget général;PB;Pouvoirs publics;532;Haute Cour;01;Haute Cour;07;Action et comptes publics
+PLF 2019;Budget général;PB;Pouvoirs publics;533;Cour de justice de la République;01;Cour de justice de la République;07;Action et comptes publics
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;150;Formations supérieures et recherche universitaire;01;Formation initiale et continue du baccalauréat à la licence;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;150;Formations supérieures et recherche universitaire;02;Formation initiale et continue de niveau master;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;150;Formations supérieures et recherche universitaire;03;Formation initiale et continue de niveau doctorat;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;150;Formations supérieures et recherche universitaire;04;Établissements d'enseignement privés;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;150;Formations supérieures et recherche universitaire;05;Bibliothèques et documentation;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;150;Formations supérieures et recherche universitaire;13;Diffusion des savoirs et musées;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;150;Formations supérieures et recherche universitaire;14;Immobilier;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;150;Formations supérieures et recherche universitaire;15;Pilotage et support du programme;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;150;Formations supérieures et recherche universitaire;17;Recherche;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;231;Vie étudiante;01;Aides directes;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;231;Vie étudiante;02;Aides indirectes;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;231;Vie étudiante;03;Santé des étudiants et activités associatives, culturelles et sportives;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;231;Vie étudiante;04;Pilotage et animation du programme;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;01;Pilotage et animation;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;02;Agence nationale de la recherche;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;11;Recherches interdisciplinaires et transversales;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;12;Diffusion, valorisation et transfert des connaissances et des technologies;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;13;Grandes infrastructures de recherche;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;14;Moyens généraux et d'appui à la recherche;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;15;Recherches scientifiques et technologiques en sciences de la vie et de la santé;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;16;Recherches scientifiques et technologiques en sciences et techniques de l'information;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;17;Recherches scientifiques et technologiques dans le domaine de l'énergie;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;18;Recherches scientifiques et technologiques dans le domaine de l'environnement;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;172;Recherches scientifiques et technologiques pluridisciplinaires;19;Recherches scientifiques et technologiques en sciences humaines et sciences sociales;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;193;Recherche spatiale;01;Développement de la technologie spatiale au service de la science;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;193;Recherche spatiale;02;Développement de la technologie spatiale au service de l'observation de la terre;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;193;Recherche spatiale;03;Développement de la technologie spatiale au service de la recherche en sciences de l'information et de la communication;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;193;Recherche spatiale;04;Maîtrise de l'accès à l'espace;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;193;Recherche spatiale;05;Maîtrise des technologies orbitales et de l'innovation technologique;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;193;Recherche spatiale;06;Moyens généraux et d'appui à la recherche;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;193;Recherche spatiale;07;Développement des satellites de météorologie;38;Enseignement supérieur, recherche et innovation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;11;Recherche dans le domaine des risques;23;Transition écologique et solidaire
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;12;Recherche dans le domaine des transports, de la construction et de l'aménagement;23;Transition écologique et solidaire
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;13;Recherche partenariale dans le développement et l'aménagement durable;23;Transition écologique et solidaire
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;14;Recherche et développement dans le domaine de l'aéronautique civile;23;Transition écologique et solidaire
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;15;Charges nucléaires de long terme des installations du CEA;23;Transition écologique et solidaire
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;16;Recherche dans le domaine de l'énergie nucléaire;23;Transition écologique et solidaire
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;190;Recherche dans les domaines de l'énergie, du développement et de la mobilité durables;17;Recherche dans le domaine des nouvelles technologies de l'énergie;23;Transition écologique et solidaire
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;192;Recherche et enseignement supérieur en matière économique et industrielle;01;Organismes de formation supérieure et de recherche;21;Économie et finances
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;192;Recherche et enseignement supérieur en matière économique et industrielle;02;Soutien et diffusion de l'innovation technologique;21;Économie et finances
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;192;Recherche et enseignement supérieur en matière économique et industrielle;03;Soutien de la recherche industrielle stratégique;21;Économie et finances
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;191;Recherche duale (civile et militaire);01;Recherche duale en sciences du vivant;70;Armées
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;191;Recherche duale (civile et militaire);02;Recherche duale en sciences et techniques de l'information et de la communication;70;Armées
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;191;Recherche duale (civile et militaire);03;Recherche duale dans le domaine aérospatial;70;Armées
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;191;Recherche duale (civile et militaire);04;Autres recherches et développements technologiques duaux;70;Armées
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;186;Recherche culturelle et culture scientifique;01;Recherche culturelle;02;Culture
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;186;Recherche culturelle et culture scientifique;03;Culture scientifique et technique;02;Culture
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;142;Enseignement supérieur et recherche agricoles;01;Enseignement supérieur;03;Agriculture et alimentation
+PLF 2019;Budget général;RA;Recherche et enseignement supérieur;142;Enseignement supérieur et recherche agricoles;02;Recherche, développement et transfert de technologie;03;Agriculture et alimentation
+PLF 2019;Budget général;RB;Régimes sociaux et de retraite;198;Régimes sociaux et de retraite des transports terrestres;03;Régime de retraite du personnel de la SNCF;23;Transition écologique et solidaire
+PLF 2019;Budget général;RB;Régimes sociaux et de retraite;198;Régimes sociaux et de retraite des transports terrestres;04;Régime de retraite du personnel de la RATP;23;Transition écologique et solidaire
+PLF 2019;Budget général;RB;Régimes sociaux et de retraite;198;Régimes sociaux et de retraite des transports terrestres;05;Autres régimes;23;Transition écologique et solidaire
+PLF 2019;Budget général;RB;Régimes sociaux et de retraite;197;Régimes de retraite et de sécurité sociale des marins;01;Régimes de retraite et de sécurité sociale des marins;23;Transition écologique et solidaire
+PLF 2019;Budget général;RB;Régimes sociaux et de retraite;195;Régimes de retraite des mines, de la SEITA et divers;01;Versements au fonds spécial de retraite de la caisse autonome nationale de sécurité sociale dans les mines;07;Action et comptes publics
+PLF 2019;Budget général;RB;Régimes sociaux et de retraite;195;Régimes de retraite des mines, de la SEITA et divers;02;Régime de retraite de la SEITA;07;Action et comptes publics
+PLF 2019;Budget général;RB;Régimes sociaux et de retraite;195;Régimes de retraite des mines, de la SEITA et divers;04;Caisse des retraites des régies ferroviaires d'outre-mer;07;Action et comptes publics
+PLF 2019;Budget général;RB;Régimes sociaux et de retraite;195;Régimes de retraite des mines, de la SEITA et divers;07;Versements liés à la liquidation de l'ORTF;07;Action et comptes publics
+PLF 2019;Budget général;RB;Régimes sociaux et de retraite;195;Régimes de retraite des mines, de la SEITA et divers;11;Régime de retraite complémentaire des exploitants agricoles (RCO);07;Action et comptes publics
+PLF 2019;Budget général;RC;Relations avec les collectivités territoriales;119;Concours financiers aux collectivités territoriales et à leurs groupements;01;Soutien aux projets des communes et groupements de communes;09;Intérieur
+PLF 2019;Budget général;RC;Relations avec les collectivités territoriales;119;Concours financiers aux collectivités territoriales et à leurs groupements;02;Dotation générale de décentralisation des communes;09;Intérieur
+PLF 2019;Budget général;RC;Relations avec les collectivités territoriales;119;Concours financiers aux collectivités territoriales et à leurs groupements;03;Soutien aux projets des départements et des régions;09;Intérieur
+PLF 2019;Budget général;RC;Relations avec les collectivités territoriales;119;Concours financiers aux collectivités territoriales et à leurs groupements;04;Dotation générale de décentralisation des départements;09;Intérieur
+PLF 2019;Budget général;RC;Relations avec les collectivités territoriales;119;Concours financiers aux collectivités territoriales et à leurs groupements;05;Dotation générale de décentralisation des régions;09;Intérieur
+PLF 2019;Budget général;RC;Relations avec les collectivités territoriales;119;Concours financiers aux collectivités territoriales et à leurs groupements;06;Dotation générale de décentralisation concours particuliers;09;Intérieur
+PLF 2019;Budget général;RC;Relations avec les collectivités territoriales;119;Concours financiers aux collectivités territoriales et à leurs groupements;07;Soutien à l'investissement - Part métropoles;09;Intérieur
+PLF 2019;Budget général;RC;Relations avec les collectivités territoriales;122;Concours spécifiques et administration;01;Aides exceptionnelles aux collectivités territoriales;09;Intérieur
+PLF 2019;Budget général;RC;Relations avec les collectivités territoriales;122;Concours spécifiques et administration;02;Administration des relations avec les collectivités territoriales;09;Intérieur
+PLF 2019;Budget général;RC;Relations avec les collectivités territoriales;122;Concours spécifiques et administration;04;Dotations Outre-Mer;09;Intérieur
+PLF 2019;Budget général;RD;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);11;Remboursements et restitutions liés à la mécanique de l'impôt;07;Action et comptes publics
+PLF 2019;Budget général;RD;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);12;Remboursements et dégrèvements liées à des politiques publiques;07;Action et comptes publics
+PLF 2019;Budget général;RD;Remboursements et dégrèvements;200;Remboursements et dégrèvements d'impôts d'État (crédits évaluatifs);13;Remboursements et dégrèvements liés à la gestion des produits de l'Etat;07;Action et comptes publics
+PLF 2019;Budget général;RD;Remboursements et dégrèvements;201;Remboursements et dégrèvements d'impôts locaux (crédits évaluatifs);01;Taxe professionnelle et contribution économique territoriale  et autres impôts économiques créés ou modifiés dans le cadre de la réforme de la taxe professionnelle;07;Action et comptes publics
+PLF 2019;Budget général;RD;Remboursements et dégrèvements;201;Remboursements et dégrèvements d'impôts locaux (crédits évaluatifs);02;Taxes foncières;07;Action et comptes publics
+PLF 2019;Budget général;RD;Remboursements et dégrèvements;201;Remboursements et dégrèvements d'impôts locaux (crédits évaluatifs);03;Taxe d'habitation;07;Action et comptes publics
+PLF 2019;Budget général;RD;Remboursements et dégrèvements;201;Remboursements et dégrèvements d'impôts locaux (crédits évaluatifs);04;Admission en non valeur d'impôts locaux;07;Action et comptes publics
+PLF 2019;Budget général;SA;Santé;204;Prévention, sécurité sanitaire et offre de soins;11;Pilotage de la politique de santé publique;56;Solidarités et santé
+PLF 2019;Budget général;SA;Santé;204;Prévention, sécurité sanitaire et offre de soins;12;Santé des populations;56;Solidarités et santé
+PLF 2019;Budget général;SA;Santé;204;Prévention, sécurité sanitaire et offre de soins;14;Prévention des maladies chroniques et qualité de vie des malades;56;Solidarités et santé
+PLF 2019;Budget général;SA;Santé;204;Prévention, sécurité sanitaire et offre de soins;15;Prévention des risques liés à l'environnement et à l'alimentation;56;Solidarités et santé
+PLF 2019;Budget général;SA;Santé;204;Prévention, sécurité sanitaire et offre de soins;16;Veille et sécurité sanitaire;56;Solidarités et santé
+PLF 2019;Budget général;SA;Santé;204;Prévention, sécurité sanitaire et offre de soins;17;Politique des produits de santé et de la qualité des pratiques et des soins;56;Solidarités et santé
+PLF 2019;Budget général;SA;Santé;204;Prévention, sécurité sanitaire et offre de soins;18;Projets régionaux de santé;56;Solidarités et santé
+PLF 2019;Budget général;SA;Santé;204;Prévention, sécurité sanitaire et offre de soins;19;Modernisation de l'offre de soins;56;Solidarités et santé
+PLF 2019;Budget général;SA;Santé;183;Protection maladie;02;Aide médicale de l'Etat;56;Solidarités et santé
+PLF 2019;Budget général;SA;Santé;183;Protection maladie;03;Fonds d'indemnisation des victimes de l'amiante;56;Solidarités et santé
+PLF 2019;Budget général;SB;Sécurités;176;Police nationale;01;Ordre public et protection de la souveraineté;09;Intérieur
+PLF 2019;Budget général;SB;Sécurités;176;Police nationale;02;Sécurité et paix publiques;09;Intérieur
+PLF 2019;Budget général;SB;Sécurités;176;Police nationale;03;Sécurité routière;09;Intérieur
+PLF 2019;Budget général;SB;Sécurités;176;Police nationale;04;Police des étrangers et sûreté des transports internationaux;09;Intérieur
+PLF 2019;Budget général;SB;Sécurités;176;Police nationale;05;Missions de police judiciaire et concours à la justice;09;Intérieur
+PLF 2019;Budget général;SB;Sécurités;176;Police nationale;06;Commandement, ressources humaines et logistique;09;Intérieur
+PLF 2019;Budget général;SB;Sécurités;152;Gendarmerie nationale;01;Ordre et sécurité publics;09;Intérieur
+PLF 2019;Budget général;SB;Sécurités;152;Gendarmerie nationale;02;Sécurité routière;09;Intérieur
+PLF 2019;Budget général;SB;Sécurités;152;Gendarmerie nationale;03;Missions de police judiciaire et concours à la justice;09;Intérieur
+PLF 2019;Budget général;SB;Sécurités;152;Gendarmerie nationale;04;Commandement, ressources humaines et logistique;09;Intérieur
+PLF 2019;Budget général;SB;Sécurités;152;Gendarmerie nationale;05;Exercice des missions militaires;09;Intérieur
+PLF 2019;Budget général;SB;Sécurités;207;Sécurité et éducation routières;01;Observation, prospective, réglementation et soutien au programme;09;Intérieur
+PLF 2019;Budget général;SB;Sécurités;207;Sécurité et éducation routières;02;Démarches interministérielles et communication;09;Intérieur
+PLF 2019;Budget général;SB;Sécurités;207;Sécurité et éducation routières;03;Éducation routière;09;Intérieur
+PLF 2019;Budget général;SB;Sécurités;161;Sécurité civile;11;Prévention et gestion de crises;09;Intérieur
+PLF 2019;Budget général;SB;Sécurités;161;Sécurité civile;12;Préparation et interventions spécialisées des moyens nationaux;09;Intérieur
+PLF 2019;Budget général;SB;Sécurités;161;Sécurité civile;13;Soutien aux acteurs de la sécurité civile;09;Intérieur
+PLF 2019;Budget général;SB;Sécurités;161;Sécurité civile;14;Fonctionnement, soutien et logistique;09;Intérieur
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;304;Inclusion sociale et protection des personnes;11;Prime d'activité et autres dispositifs;56;Solidarités et santé
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;304;Inclusion sociale et protection des personnes;13;Ingénierie, outils de la gouvernance et expérimentations;56;Solidarités et santé
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;304;Inclusion sociale et protection des personnes;14;Aide alimentaire;56;Solidarités et santé
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;304;Inclusion sociale et protection des personnes;15;Qualification en travail social;56;Solidarités et santé
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;304;Inclusion sociale et protection des personnes;16;Protection juridique des majeurs;56;Solidarités et santé
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;304;Inclusion sociale et protection des personnes;17;Protection et accompagnement des enfants, des jeunes et des familles vulnérables;56;Solidarités et santé
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;304;Inclusion sociale et protection des personnes;18;Aide à la réinsertion familiale et sociale des anciens migrants dans leur pays d’origine (ARFS);56;Solidarités et santé
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;304;Inclusion sociale et protection des personnes;19;Stratégie interministérielle de Prévention et de Lutte contre la Pauvreté des Enfants et des Jeunes;56;Solidarités et santé
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;157;Handicap et dépendance;12;Allocations et aides en faveur des personnes handicapées;12;Services du Premier ministre
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;157;Handicap et dépendance;13;Pilotage du programme et animation des politiques inclusives;12;Services du Premier ministre
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;137;Égalité entre les femmes et les hommes;21;Politiques publiques - Accès au droit;12;Services du Premier ministre
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;137;Égalité entre les femmes et les hommes;22;Partenariats et innovations;12;Services du Premier ministre
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;137;Égalité entre les femmes et les hommes;23;Soutien du programme égalité entre les femmes et les hommes;12;Services du Premier ministre
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;10;Fonctionnement des services;56;Solidarités et santé
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;11;Systèmes d'information;56;Solidarités et santé
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;12;Affaires immobilières;56;Solidarités et santé
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;14;Communication;56;Solidarités et santé
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;15;Affaires européennes et internationales;56;Solidarités et santé
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;16;Statistiques, études et recherche;56;Solidarités et santé
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;17;Financement des agences régionales de santé;56;Solidarités et santé
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;18;Personnels mettant en oeuvre les politiques sociales et de la santé;56;Solidarités et santé
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;19;Personnels mettant en oeuvre les politiques du sport, de la jeunesse, de l'éducation populaire et de la vie associative;56;Solidarités et santé
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;20;Personnels mettant en oeuvre les politiques pour les droits des femmes;56;Solidarités et santé
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;21;Personnels mettant en œuvre les politiques de la ville, du logement et de l'hébergement;56;Solidarités et santé
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;22;Personnels transversaux et de soutien;56;Solidarités et santé
+PLF 2019;Budget général;SE;Solidarité, insertion et égalité des chances;124;Conduite et soutien des politiques sanitaires, sociales, du sport, de la jeunesse et de la vie associative;23;Politique des ressources humaines;56;Solidarités et santé
+PLF 2019;Budget général;SF;Sport, jeunesse et vie associative;219;Sport;01;Promotion du sport pour le plus grand nombre;52;Sports
+PLF 2019;Budget général;SF;Sport, jeunesse et vie associative;219;Sport;02;Développement du sport de haut niveau;52;Sports
+PLF 2019;Budget général;SF;Sport, jeunesse et vie associative;219;Sport;03;Prévention par le sport et protection des sportifs;52;Sports
+PLF 2019;Budget général;SF;Sport, jeunesse et vie associative;219;Sport;04;Promotion des métiers du sport;52;Sports
+PLF 2019;Budget général;SF;Sport, jeunesse et vie associative;163;Jeunesse et vie associative;01;Développement de la vie associative;06;Éducation nationale
+PLF 2019;Budget général;SF;Sport, jeunesse et vie associative;163;Jeunesse et vie associative;02;Actions en faveur de la jeunesse et de l'éducation populaire;06;Éducation nationale
+PLF 2019;Budget général;SF;Sport, jeunesse et vie associative;163;Jeunesse et vie associative;04;Développement du service civique;06;Éducation nationale
+PLF 2019;Budget général;SF;Sport, jeunesse et vie associative;350;Jeux olympiques et paralympiques 2024;01;Société de livraison des ouvrages olympiques et paralympiques;52;Sports
+PLF 2019;Budget général;SF;Sport, jeunesse et vie associative;350;Jeux olympiques et paralympiques 2024;02;Comité d'organisation des jeux olympiques et paralympiques;52;Sports
+PLF 2019;Budget général;SF;Sport, jeunesse et vie associative;350;Jeux olympiques et paralympiques 2024;03;Haute performance des jeux olympiques et paralympiques;52;Sports
+PLF 2019;Budget général;SF;Sport, jeunesse et vie associative;350;Jeux olympiques et paralympiques 2024;04;Héritage des jeux olympiques et paralympiques;52;Sports
+PLF 2019;Budget général;TB;Travail et emploi;102;Accès et retour à l'emploi;01;Amélioration de l’efficacité du service public de l’emploi;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;102;Accès et retour à l'emploi;02;Amélioration des dispositifs en faveur de l’emploi des personnes les plus éloignées du marché du travail;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;102;Accès et retour à l'emploi;03;Plan d'investissement des compétences;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;103;Accompagnement des mutations économiques et développement de l'emploi;01;Anticipation et accompagnement des conséquences des mutations économiques sur l'emploi;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;103;Accompagnement des mutations économiques et développement de l'emploi;02;Amélioration de l'insertion dans l'emploi par l'adaptation des qualifications et la reconnaissance des compétences;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;103;Accompagnement des mutations économiques et développement de l'emploi;03;Développement de l'emploi;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;103;Accompagnement des mutations économiques et développement de l'emploi;04;Plan d'investissement des compétences;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;111;Amélioration de la qualité de l'emploi et des relations du travail;01;Santé et sécurité au travail;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;111;Amélioration de la qualité de l'emploi et des relations du travail;02;Qualité et effectivité du droit;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;111;Amélioration de la qualité de l'emploi et des relations du travail;03;Dialogue social et démocratie sociale;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;111;Amélioration de la qualité de l'emploi et des relations du travail;04;Lutte contre le travail illégal;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;07;Fonds social européen - Assistance technique;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;08;Fonctionnement des services;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;09;Systèmes d'information;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;10;Affaires immobilières;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;11;Communication;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;12;Etudes, statistiques évaluation et recherche;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;13;Politique des ressources humaines;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;14;Personnels mettant en oeuvre les politiques d'accès et retour à l'emploi;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;15;Personnels mettant en oeuvre les politiques d'accompagnement des mutations économiques et développement de l'emploi;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;16;Personnels mettant en oeuvre les politiques d'amélioration de la qualité de l'emploi et des relations du travail;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;17;Personnels de statistiques, études et recherche;36;Travail
+PLF 2019;Budget général;TB;Travail et emploi;155;Conception, gestion et évaluation des politiques de l'emploi et du travail;18;Personnels transversaux et de soutien;36;Travail
+PLF 2019;Budgets annexes;XC;Contrôle et exploitation aériens;613;Soutien aux prestations de l'aviation civile;01;Ressources humaines et management;23;Transition écologique et solidaire
+PLF 2019;Budgets annexes;XC;Contrôle et exploitation aériens;613;Soutien aux prestations de l'aviation civile;02;Logistique;23;Transition écologique et solidaire
+PLF 2019;Budgets annexes;XC;Contrôle et exploitation aériens;613;Soutien aux prestations de l'aviation civile;03;Affaires financières;23;Transition écologique et solidaire
+PLF 2019;Budgets annexes;XC;Contrôle et exploitation aériens;613;Soutien aux prestations de l'aviation civile;04;Formation aéronautique;23;Transition écologique et solidaire
+PLF 2019;Budgets annexes;XC;Contrôle et exploitation aériens;612;Navigation aérienne;01;Soutien et prestations externes de la Navigation aérienne;23;Transition écologique et solidaire
+PLF 2019;Budgets annexes;XC;Contrôle et exploitation aériens;612;Navigation aérienne;02;Exploitation et innovation de la Navigation aérienne;23;Transition écologique et solidaire
+PLF 2019;Budgets annexes;XC;Contrôle et exploitation aériens;614;Transports aériens, surveillance et certification;01;Développement durable et régulation;23;Transition écologique et solidaire
+PLF 2019;Budgets annexes;XC;Contrôle et exploitation aériens;614;Transports aériens, surveillance et certification;02;Surveillance et certification;23;Transition écologique et solidaire
+PLF 2019;Budgets annexes;XC;Contrôle et exploitation aériens;614;Transports aériens, surveillance et certification;04;Enquêtes de sécurité aérienne;23;Transition écologique et solidaire
+PLF 2019;Budgets annexes;XJ;Publications officielles et information administrative;623;Édition et diffusion;01;Diffusion légale;12;Services du Premier ministre
+PLF 2019;Budgets annexes;XJ;Publications officielles et information administrative;623;Édition et diffusion;02;Information administrative, édition publique et promotion;12;Services du Premier ministre
+PLF 2019;Budgets annexes;XJ;Publications officielles et information administrative;624;Pilotage et ressources humaines;01;Pilotage, modernisation et activités numériques;12;Services du Premier ministre
+PLF 2019;Budgets annexes;XJ;Publications officielles et information administrative;624;Pilotage et ressources humaines;02;Promotion et distribution des publications;12;Services du Premier ministre
+PLF 2019;Budgets annexes;XJ;Publications officielles et information administrative;624;Pilotage et ressources humaines;03;Dépenses de personnel;12;Services du Premier ministre
+PLF 2019;Budgets annexes;XJ;Publications officielles et information administrative;624;Pilotage et ressources humaines;04;Convention Etat - Société anonyme de composition et d'impression des journaux officiels;12;Services du Premier ministre
+PLF 2019;Comptes d'affectation spéciale;YL;Aides à l'acquisition de véhicules propres;791;Contribution au financement de l'attribution d'aides à l'acquisition de véhicules propres;01;Contribution au financement de l'attribution d'aides à l'acquisition de véhicules propres;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YL;Aides à l'acquisition de véhicules propres;792;Contribution au financement de l'attribution d'aides au retrait de véhicules polluants;01;Contribution au financement de l'attribution d'aides au retrait de véhicules polluants;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YE;Contrôle de la circulation et du stationnement routiers;751;Structures et dispositifs de sécurité routière;01;Dispositifs de contrôle;09;Intérieur
+PLF 2019;Comptes d'affectation spéciale;YE;Contrôle de la circulation et du stationnement routiers;751;Structures et dispositifs de sécurité routière;02;Centre national de traitement;09;Intérieur
+PLF 2019;Comptes d'affectation spéciale;YE;Contrôle de la circulation et du stationnement routiers;751;Structures et dispositifs de sécurité routière;03;Soutien au programme;09;Intérieur
+PLF 2019;Comptes d'affectation spéciale;YE;Contrôle de la circulation et du stationnement routiers;751;Structures et dispositifs de sécurité routière;04;Fichier national du permis de conduire;09;Intérieur
+PLF 2019;Comptes d'affectation spéciale;YE;Contrôle de la circulation et du stationnement routiers;753;Contrôle et modernisation de la politique de la circulation et du stationnement routiers;01;Déploiement du procès-verbal électronique;09;Intérieur
+PLF 2019;Comptes d'affectation spéciale;YE;Contrôle de la circulation et du stationnement routiers;754;Contribution à l'équipement des collectivités territoriales pour l'amélioration des transports en commun, de la sécurité et de la circulation routières;01;Contribution à l'équipement des collectivités territoriales pour l'amélioration des transports en commun, de la sécurité et de la circulation routières;09;Intérieur
+PLF 2019;Comptes d'affectation spéciale;YE;Contrôle de la circulation et du stationnement routiers;755;Désendettement de l'État;01;Désendettement de l'État;07;Action et comptes publics
+PLF 2019;Comptes d'affectation spéciale;YF;Développement agricole et rural;775;Développement et transfert en agriculture;01;Développement et transfert;03;Agriculture et alimentation
+PLF 2019;Comptes d'affectation spéciale;YF;Développement agricole et rural;775;Développement et transfert en agriculture;02;Fonction support;03;Agriculture et alimentation
+PLF 2019;Comptes d'affectation spéciale;YF;Développement agricole et rural;776;Recherche appliquée et innovation en agriculture;01;Recherche appliquée et innovation;03;Agriculture et alimentation
+PLF 2019;Comptes d'affectation spéciale;YF;Développement agricole et rural;776;Recherche appliquée et innovation en agriculture;02;Fonction support;03;Agriculture et alimentation
+PLF 2019;Comptes d'affectation spéciale;YK;Financement des aides aux collectivités pour l'électrification rurale;793;Électrification rurale;03;Renforcement des réseaux;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YK;Financement des aides aux collectivités pour l'électrification rurale;793;Électrification rurale;04;Extension des réseaux;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YK;Financement des aides aux collectivités pour l'électrification rurale;793;Électrification rurale;05;Enfouissement et pose en façade;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YK;Financement des aides aux collectivités pour l'électrification rurale;793;Électrification rurale;06;Sécurisation des fils nus (hors faible section);23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YK;Financement des aides aux collectivités pour l'électrification rurale;793;Électrification rurale;07;Sécurisation des fils nus de faible section;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YK;Financement des aides aux collectivités pour l'électrification rurale;793;Électrification rurale;08;Fonctionnement;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YK;Financement des aides aux collectivités pour l'électrification rurale;793;Électrification rurale;09;Déclaration d'utilité publique (Très haute tension);23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YK;Financement des aides aux collectivités pour l'électrification rurale;793;Électrification rurale;10;Intempéries;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YK;Financement des aides aux collectivités pour l'électrification rurale;794;Opérations de maîtrise de la demande d’électricité, de production d’électricité par des énergies renouvelables ou de production de proximité dans les zones non interconnectées;02;Sites isolés;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YK;Financement des aides aux collectivités pour l'électrification rurale;794;Opérations de maîtrise de la demande d’électricité, de production d’électricité par des énergies renouvelables ou de production de proximité dans les zones non interconnectées;03;Installations de proximité en zone non interconnectée;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YK;Financement des aides aux collectivités pour l'électrification rurale;794;Opérations de maîtrise de la demande d’électricité, de production d’électricité par des énergies renouvelables ou de production de proximité dans les zones non interconnectées;04;Maîtrise de la demande d'énergie;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YK;Financement des aides aux collectivités pour l'électrification rurale;794;Opérations de maîtrise de la demande d’électricité, de production d’électricité par des énergies renouvelables ou de production de proximité dans les zones non interconnectées;05;Déclaration d'utilité publique (Très haute tension) - (Engagements antérieurs au 1er janvier 2013);23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YK;Financement des aides aux collectivités pour l'électrification rurale;794;Opérations de maîtrise de la demande d’électricité, de production d’électricité par des énergies renouvelables ou de production de proximité dans les zones non interconnectées;06;Intempéries - (Engagements antérieurs au 1er janvier 2013);23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YJ;Financement national du développement et de la modernisation de l'apprentissage;787;Répartition régionale de la ressource consacrée au développement de l'apprentissage;03;Répartition régionale de la ressource consacrée au développement de l'apprentissage;36;Travail
+PLF 2019;Comptes d'affectation spéciale;YJ;Financement national du développement et de la modernisation de l'apprentissage;790;Correction financière des disparités régionales de taxe d'apprentissage et incitations au développement de l'apprentissage;01;Correction financière des disparités régionales de taxe d'apprentissage et incitations au développement de l'apprentissage;36;Travail
+PLF 2019;Comptes d'affectation spéciale;YB;Gestion du patrimoine immobilier de l'État;721;Contribution des cessions immobilières au désendettement de l'État;01;Contribution au désendettement de l'État;07;Action et comptes publics
+PLF 2019;Comptes d'affectation spéciale;YB;Gestion du patrimoine immobilier de l'État;723;Opérations immobilières et entretien des bâtiments de l'État;11;Opérations structurantes et cessions;07;Action et comptes publics
+PLF 2019;Comptes d'affectation spéciale;YB;Gestion du patrimoine immobilier de l'État;723;Opérations immobilières et entretien des bâtiments de l'État;12;Contrôles règlementaires, audits, expertises et diagnostics;07;Action et comptes publics
+PLF 2019;Comptes d'affectation spéciale;YB;Gestion du patrimoine immobilier de l'État;723;Opérations immobilières et entretien des bâtiments de l'État;13;Maintenance à la charge du propriétaire;07;Action et comptes publics
+PLF 2019;Comptes d'affectation spéciale;YB;Gestion du patrimoine immobilier de l'État;723;Opérations immobilières et entretien des bâtiments de l'État;14;Gros entretien, réhabilitation, mise en conformité et remise en état;07;Action et comptes publics
+PLF 2019;Comptes d'affectation spéciale;YM;Participation de la France au désendettement de la Grèce;795;Versement de la France à la Grèce au titre de la restitution à cet État des revenus perçus sur les titres grecs;01;Versement de la France à la Grèce au titre de la restitution à cet État des revenus perçus par la Banque de France sur les titres grecs détenus en compte propre;21;Économie et finances
+PLF 2019;Comptes d'affectation spéciale;YM;Participation de la France au désendettement de la Grèce;795;Versement de la France à la Grèce au titre de la restitution à cet État des revenus perçus sur les titres grecs;02;Versement de la France à la Grèce au titre de la restitution à cet État des revenus perçus par la Banque de France sur les titres grecs détenus au titre du portefeuille dit SMP;21;Économie et finances
+PLF 2019;Comptes d'affectation spéciale;YM;Participation de la France au désendettement de la Grèce;796;Rétrocessions de trop-perçus à la Banque de France;01;Rétrocessions de trop-perçus à la Banque de France;21;Économie et finances
+PLF 2019;Comptes d'affectation spéciale;YC;Participations financières de l'État;731;Opérations en capital intéressant les participations financières de l'État;01;Augmentations de capital, dotations en fonds propres, avances d'actionnaire et prêts assimilés;21;Économie et finances
+PLF 2019;Comptes d'affectation spéciale;YC;Participations financières de l'État;731;Opérations en capital intéressant les participations financières de l'État;03;Achats ou souscriptions de titres, parts ou droits de société;21;Économie et finances
+PLF 2019;Comptes d'affectation spéciale;YC;Participations financières de l'État;731;Opérations en capital intéressant les participations financières de l'État;04;Autres investissements financiers de nature patrimoniale;21;Économie et finances
+PLF 2019;Comptes d'affectation spéciale;YC;Participations financières de l'État;731;Opérations en capital intéressant les participations financières de l'État;05;Prestations de services : commissions bancaires, frais juridiques et frais liés aux opérations de gestion des participations financières de l'État;21;Économie et finances
+PLF 2019;Comptes d'affectation spéciale;YC;Participations financières de l'État;731;Opérations en capital intéressant les participations financières de l'État;06;Versements au profit du Mécanisme européen de stabilité;21;Économie et finances
+PLF 2019;Comptes d'affectation spéciale;YC;Participations financières de l'État;732;Désendettement de l'État et d'établissements publics de l'État;01;Désendettement de l'État ou d'établissements publics de l'État;21;Économie et finances
+PLF 2019;Comptes d'affectation spéciale;YD;Pensions;741;Pensions civiles et militaires de retraite et allocations temporaires d'invalidité;01;Fonctionnaires civils relevant du code des pensions civiles et militaires de retraite;07;Action et comptes publics
+PLF 2019;Comptes d'affectation spéciale;YD;Pensions;741;Pensions civiles et militaires de retraite et allocations temporaires d'invalidité;02;Militaires relevant du code des pensions civiles et militaires de retraite;07;Action et comptes publics
+PLF 2019;Comptes d'affectation spéciale;YD;Pensions;741;Pensions civiles et militaires de retraite et allocations temporaires d'invalidité;03;Allocations temporaires d'invalidité;07;Action et comptes publics
+PLF 2019;Comptes d'affectation spéciale;YD;Pensions;742;Ouvriers des établissements industriels de l'État;01;Prestations vieillesse et invalidité;07;Action et comptes publics
+PLF 2019;Comptes d'affectation spéciale;YD;Pensions;742;Ouvriers des établissements industriels de l'État;03;Autres dépenses spécifiques;07;Action et comptes publics
+PLF 2019;Comptes d'affectation spéciale;YD;Pensions;742;Ouvriers des établissements industriels de l'État;04;Gestion du régime;07;Action et comptes publics
+PLF 2019;Comptes d'affectation spéciale;YD;Pensions;742;Ouvriers des établissements industriels de l'État;05;Rentes accidents du travail des ouvriers civils des établissements militaires (RATOCEM);07;Action et comptes publics
+PLF 2019;Comptes d'affectation spéciale;YD;Pensions;743;Pensions militaires d'invalidité et des victimes de guerre et autres pensions;01;Reconnaissance de la Nation;07;Action et comptes publics
+PLF 2019;Comptes d'affectation spéciale;YD;Pensions;743;Pensions militaires d'invalidité et des victimes de guerre et autres pensions;02;Réparation;07;Action et comptes publics
+PLF 2019;Comptes d'affectation spéciale;YD;Pensions;743;Pensions militaires d'invalidité et des victimes de guerre et autres pensions;03;Pensions d'Alsace-Lorraine;07;Action et comptes publics
+PLF 2019;Comptes d'affectation spéciale;YD;Pensions;743;Pensions militaires d'invalidité et des victimes de guerre et autres pensions;04;Allocations de reconnaissance des anciens supplétifs;07;Action et comptes publics
+PLF 2019;Comptes d'affectation spéciale;YD;Pensions;743;Pensions militaires d'invalidité et des victimes de guerre et autres pensions;05;Pensions des anciens agents du chemin de fer franco-éthiopien;07;Action et comptes publics
+PLF 2019;Comptes d'affectation spéciale;YD;Pensions;743;Pensions militaires d'invalidité et des victimes de guerre et autres pensions;06;Pensions des sapeurs-pompiers et anciens agents de la défense passive victimes d'accident;07;Action et comptes publics
+PLF 2019;Comptes d'affectation spéciale;YD;Pensions;743;Pensions militaires d'invalidité et des victimes de guerre et autres pensions;07;Pensions de l'ORTF;07;Action et comptes publics
+PLF 2019;Comptes d'affectation spéciale;YI;Services nationaux de transport conventionnés de voyageurs;785;Exploitation des services nationaux de transport conventionnés;01;Contribution à l’exploitation des services nationaux de transport conventionnés;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YI;Services nationaux de transport conventionnés de voyageurs;785;Exploitation des services nationaux de transport conventionnés;02;Frais d'enquêtes, d'études et de conseil relatifs à l'exploitation des services nationaux de transport conventionnés;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YI;Services nationaux de transport conventionnés de voyageurs;785;Exploitation des services nationaux de transport conventionnés;03;Contributions versées aux régions au titre de l’exploitation des services nationaux de transports antérieurement conventionnés;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YI;Services nationaux de transport conventionnés de voyageurs;786;Matériel roulant des services nationaux de transport conventionnés;01;Contribution au matériel roulant des services nationaux de transport conventionnés;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YI;Services nationaux de transport conventionnés de voyageurs;786;Matériel roulant des services nationaux de transport conventionnés;02;Frais d'enquêtes, d'études et de conseil relatifs au matériel roulant des services nationaux de transport conventionnés;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YN;Transition énergétique;764;Soutien à la transition énergétique;01;Soutien aux énergies renouvelables électriques;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YN;Transition énergétique;764;Soutien à la transition énergétique;02;Soutien à l'effacement de consommation électrique;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YN;Transition énergétique;764;Soutien à la transition énergétique;03;Soutien à l'injection de bio-méthane;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YN;Transition énergétique;764;Soutien à la transition énergétique;04;Fonds d'interconnexion;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YN;Transition énergétique;765;Engagements financiers liés à la transition énergétique;01;Désendettement vis-à-vis des opérateurs supportant des charges de service public de l'électricité;23;Transition écologique et solidaire
+PLF 2019;Comptes d'affectation spéciale;YN;Transition énergétique;765;Engagements financiers liés à la transition énergétique;03;Remboursement d'anciens plafonnements de CSPE;23;Transition écologique et solidaire
+PLF 2019;Comptes de concours financiers;ZA;Accords monétaires internationaux;811;Relations avec l'Union monétaire ouest-africaine;01;Relations avec l'Union monétaire ouest-africaine;21;Économie et finances
+PLF 2019;Comptes de concours financiers;ZA;Accords monétaires internationaux;812;Relations avec l'Union monétaire d'Afrique centrale;01;Relations avec l'Union monétaire d'Afrique centrale;21;Économie et finances
+PLF 2019;Comptes de concours financiers;ZA;Accords monétaires internationaux;813;Relations avec l'Union des Comores;01;Relations avec l'Union des Comores;21;Économie et finances
+PLF 2019;Comptes de concours financiers;ZB;Avances à divers services de l'État ou organismes gérant des services publics;821;Avances à l'Agence de services et de paiement, au titre du préfinancement des aides communautaires de la politique agricole commune;01;Avances au titre du préfinancement des aides communautaires de la politique agricole commune;21;Économie et finances
+PLF 2019;Comptes de concours financiers;ZB;Avances à divers services de l'État ou organismes gérant des services publics;823;Avances à des organismes distincts de l'État et gérant des services publics;01;Avances à des organismes distincts de l'État et gérant des services publics;21;Économie et finances
+PLF 2019;Comptes de concours financiers;ZB;Avances à divers services de l'État ou organismes gérant des services publics;824;Avances à des services de l'État;01;Avances au budget annexe « Contrôle et exploitation aériens »;21;Économie et finances
+PLF 2019;Comptes de concours financiers;ZB;Avances à divers services de l'État ou organismes gérant des services publics;825;Avances à l'Office national d'indemnisation des accidents médicaux, des affections iatrogènes et des infections nosocomiales (ONIAM) au titre de l'indemnisation des victimes du Benfluorex;01;Avances à l'ONIAM au titre de l'indemnisation des victimes du Benfluorex;21;Économie et finances
+PLF 2019;Comptes de concours financiers;ZD;Avances à l'audiovisuel public;841;France Télévisions;01;France Télévisions;07;Action et comptes publics
+PLF 2019;Comptes de concours financiers;ZD;Avances à l'audiovisuel public;842;ARTE France;01;ARTE France;07;Action et comptes publics
+PLF 2019;Comptes de concours financiers;ZD;Avances à l'audiovisuel public;843;Radio France;01;Radio France;07;Action et comptes publics
+PLF 2019;Comptes de concours financiers;ZD;Avances à l'audiovisuel public;844;France Médias Monde;01;France Médias Monde;07;Action et comptes publics
+PLF 2019;Comptes de concours financiers;ZD;Avances à l'audiovisuel public;845;Institut national de l'audiovisuel;01;Institut national de l'audiovisuel;07;Action et comptes publics
+PLF 2019;Comptes de concours financiers;ZD;Avances à l'audiovisuel public;847;TV5 Monde;01;TV5 Monde;07;Action et comptes publics
+PLF 2019;Comptes de concours financiers;ZC;Avances aux collectivités territoriales;832;Avances aux collectivités et établissements publics, et à la Nouvelle-Calédonie;01;Avances de l'article 70 de la loi du 31 mars 1932 et de l'article L. 2336-1 du code général des collectivités territoriales;21;Économie et finances
+PLF 2019;Comptes de concours financiers;ZC;Avances aux collectivités territoriales;832;Avances aux collectivités et établissements publics, et à la Nouvelle-Calédonie;02;Avances de l'article 14 de la loi n° 46-2921 du 23 décembre 1946 et de l'article L. 2237-2 du code général des collectivités territoriales;21;Économie et finances
+PLF 2019;Comptes de concours financiers;ZC;Avances aux collectivités territoriales;832;Avances aux collectivités et établissements publics, et à la Nouvelle-Calédonie;03;Avances de l'article 34 de la loi n° 53-1336 du 31 décembre 1953 (avances spéciales sur recettes budgétaires);21;Économie et finances
+PLF 2019;Comptes de concours financiers;ZC;Avances aux collectivités territoriales;832;Avances aux collectivités et établissements publics, et à la Nouvelle-Calédonie;04;Avances à la Nouvelle-Calédonie, au titre de la fiscalité du nickel;21;Économie et finances
+PLF 2019;Comptes de concours financiers;ZC;Avances aux collectivités territoriales;833;Avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes;01;Avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes;07;Action et comptes publics
+PLF 2019;Comptes de concours financiers;ZC;Avances aux collectivités territoriales;833;Avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes;02;Avances aux départements sur le produit de la taxe intérieure de consommation sur les produits pétroliers;07;Action et comptes publics
+PLF 2019;Comptes de concours financiers;ZC;Avances aux collectivités territoriales;833;Avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes;03;Avances aux départements sur les frais de gestion de la taxe foncière sur les propriétés bâties;07;Action et comptes publics
+PLF 2019;Comptes de concours financiers;ZC;Avances aux collectivités territoriales;833;Avances sur le montant des impositions revenant aux régions, départements, communes, établissements et divers organismes;04;Avances aux régions sur les frais de gestion de la contribution foncière des entreprises (CFE), de la contribution sur la valeur ajoutée des entreprises (CVAE) et de la taxe d'habitation (TH) et sur le produit de la taxe intérieure de consommation sur les;07;Action et comptes publics
+PLF 2019;Comptes de concours financiers;ZE;Prêts à des États étrangers;851;Prêts à des États étrangers en vue de faciliter la vente de biens et de services concourant au développement du commerce extérieur de la France;01;Prêts à des États étrangers en vue de faciliter la vente de biens et de services concourant au développement du commerce extérieur de la France;21;Économie et finances
+PLF 2019;Comptes de concours financiers;ZE;Prêts à des États étrangers;852;Prêts à des États étrangers pour consolidation de dettes envers la France;01;Prêts résultant de l'exécution d'accords conclus avec les gouvernements étrangers et portant consolidation des dettes de leur pays envers la France;21;Économie et finances
+PLF 2019;Comptes de concours financiers;ZE;Prêts à des États étrangers;853;Prêts à l'Agence française de développement en vue de favoriser le développement économique et social dans des États étrangers;01;Prêts à l'Agence française de développement en vue de favoriser le développement économique et social dans des États étrangers;21;Économie et finances
+PLF 2019;Comptes de concours financiers;ZE;Prêts à des États étrangers;854;Prêts aux États membres de l'Union européenne dont la monnaie est l'euro;01;Soutien financier aux États membres de l’Union européenne dont la monnaie est l’euro;21;Économie et finances
+PLF 2019;Comptes de concours financiers;ZF;Prêts et avances à des particuliers ou à des organismes privés;861;Prêts et avances pour le logement des agents de l'État;04;Avances aux agents de l'État à l'étranger pour la prise en location d'un logement;21;Économie et finances
+PLF 2019;Comptes de concours financiers;ZF;Prêts et avances à des particuliers ou à des organismes privés;862;Prêts pour le développement économique et social;01;Prêts pour le développement économique et social;21;Économie et finances
+PLF 2019;Comptes de concours financiers;ZF;Prêts et avances à des particuliers ou à des organismes privés;868;Prêts et avances pour le développement du commerce avec l'Iran;01;Prêts et avances pour le développement du commerce avec l'Iran;21;Économie et finances
+PLF 2019;Comptes de concours financiers;ZF;Prêts et avances à des particuliers ou à des organismes privés;869;Prêts à la société concessionnaire de la liaison express entre Paris et l'aéroport Paris-Charles de Gaulle;01;Prêts à la société concessionnaire de la liaison express entre Paris et l'aéroport Paris-Charles de Gaulle;23;Transition écologique et solidaire
